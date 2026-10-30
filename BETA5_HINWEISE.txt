@@ -1,0 +1,3 @@
+NO SHAME! V1.0 Beta 5\n\n500 vorhandene Einträge übernommen. Kategorien: {'party': 96, 'peinlich': 96, 'dirty': 96, 'nie': 96, 'chaos': 91, 'paare': 25}\nTrinktypen: {'frage': 279, 'schluck': 59, 'shot': 43, 'glas': 23, 'nie': 96}
+Die 500 Einträge sind die ursprüngliche Beta-Rohfassung; viele Varianten derselben Grundidee bleiben enthalten. Kein Anspruch auf 500 redaktionell einzigartige Aufgaben.
+Paare werden gegenseitig validiert, körperliche Aufgaben bei Singles nur in Mann-Frau-Konstellationen; alles freiwillig.

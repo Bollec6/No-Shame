@@ -10,3 +10,6 @@
 .counter{left:33.1%;top:3.2%;width:8.4%;height:6%;display:flex;align-items:center;justify-content:center;font-size:clamp(10px,1.45vw,18px);line-height:1;white-space:nowrap;overflow:visible;font-variant-numeric:tabular-nums}
 .top-category-icon{position:absolute;left:65.2%;top:2.0%;width:5.1%;height:7.1%;object-fit:contain;mix-blend-mode:screen;pointer-events:none}
 .card-category{left:39.1%;top:26.7%;width:21.8%;height:6.8%;display:flex;align-items:center;justify-content:center;font-size:clamp(9px,1.2vw,16px);line-height:1.05;white-space:nowrap;overflow:hidden;z-index:2;letter-spacing:-.03em}
+
+/* Beta 4: counter only — slightly smaller and shifted left */
+.counter{left:31.5%;font-size:clamp(9px,1.23vw,15px)}
