@@ -13,3 +13,8 @@
 
 /* Beta 4: counter only — slightly smaller and shifted left */
 .counter{left:31.5%;font-size:clamp(9px,1.23vw,15px)}
+
+/* Beta 6: move selected-duration status below the two buttons, avoid overlap */
+.length-choice{top:80.5%;font-size:clamp(10px,2.55vw,14px);line-height:1.15}
+/* Dynamic active-player label uses the existing upper-right badge, no art edits */
+.active-player{position:absolute;left:60.5%;top:2.1%;width:17%;height:7.1%;display:flex;align-items:center;justify-content:center;color:#fff;font-weight:850;font-size:clamp(8px,1.13vw,15px);line-height:1.05;text-align:center;overflow:hidden;overflow-wrap:anywhere;text-shadow:0 1px 4px #000;pointer-events:none}

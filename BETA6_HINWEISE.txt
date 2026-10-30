@@ -1,0 +1,4 @@
+NO SHAME! Beta 6
+Neu: Dynamischer aktiver Spieler oben rechts, feste zufällige Zugreihenfolge, Gruppenkarten mit ALLE SPIELER, Aufgaben mit Namen, Zurücknavigation stabil, Text der Kartenauswahl tiefer.
+Dateien ersetzen: app.js, index.html, style.css. Alle Assets und cards.json bleiben unverändert.
+Hinweis: Kartentexte und Gruppenerkennung sind regelbasiert; beim Test auf Ausnahmen achten.
