@@ -18,3 +18,6 @@
 .length-choice{top:80.5%;font-size:clamp(10px,2.55vw,14px);line-height:1.15}
 /* Dynamic active-player label uses the existing upper-right badge, no art edits */
 .active-player{position:absolute;left:60.5%;top:2.1%;width:17%;height:7.1%;display:flex;align-items:center;justify-content:center;color:#fff;font-weight:850;font-size:clamp(8px,1.13vw,15px);line-height:1.05;text-align:center;overflow:hidden;overflow-wrap:anywhere;text-shadow:0 1px 4px #000;pointer-events:none}
+
+/* Beta 7: cover the category icon embedded in the approved background with a readable player label. */
+.active-player{left:58.0%;top:1.45%;width:21%;height:8.3%;padding:0 1%;z-index:8;background:#030d08;border:2px solid #25fa73;border-radius:999px;box-shadow:inset 0 0 9px #0c522c,0 0 8px #17fa6680;color:#fff;font-size:clamp(10px,1.25vw,19px);white-space:normal;overflow:hidden;line-height:1.1}

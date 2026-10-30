@@ -17,9 +17,26 @@ function eligibleCards(){return cards.filter(c=>categories.includes(c.category)&
 function drinkingKind(c){return ['schluck','shot','glas'].includes(c.kind)}
 function balancedShuffle(pool){let bins={};for(let c of pool){let k=drinkingKind(c)?c.kind:'normal';(bins[k]??=[]).push(c)}Object.values(bins).forEach(shuffle);let result=[],previousDrink=false;while(Object.values(bins).some(a=>a.length)){let kinds=Object.keys(bins).filter(k=>bins[k].length&&(!previousDrink||k==='normal'));if(!kinds.length)kinds=Object.keys(bins).filter(k=>bins[k].length);let weighted=kinds.flatMap(k=>Array(Math.min(5,bins[k].length)).fill(k));let kind=weighted[rand(weighted.length)];result.push(bins[kind].pop());previousDrink=kind!=='normal'}return result}
 function choosePair(){let a=couples();return a.length?a[rand(a.length)]:null}
-function groupTask(c){return c.category==='chaos'||/^(alle|jeder|jede|gemeinsam|die gruppe|wer aus der runde|wer von euch|alle spieler)/i.test(c.text.trim())||/\b(alle spieler|die ganze gruppe|reihum|jeder aus der runde)\b/i.test(c.text)}
-function assignedTurn(index){if(turnAssignments[index])return turnAssignments[index];const c=deck[index];if(groupTask(c))return turnAssignments[index]={group:true};let actor=turnOrder[index%turnOrder.length];if(c.category==='paare'){let valid=couples();if(!valid.some(p=>p.id===actor.id))actor=valid[index%valid.length]||actor;}if(isPhysical(c.text)&&c.category!=='paare'){let valid=players.filter(p=>p.status==='single'&&['m','w'].includes(p.gender)&&players.some(q=>q.status==='single'&&q.gender!==p.gender&&['m','w'].includes(q.gender)));if(valid.length)actor=valid[index%valid.length];}return turnAssignments[index]={group:false,actorId:actor.id};}
-function assignText(c,index){if(assignedTexts.has(index))return assignedTexts.get(index);let text=c.text;const turn=assignedTurn(index);let a=players.find(p=>p.id===turn.actorId)||turnOrder[index%turnOrder.length],b=null;
+function groupTask(c){return /^(alle\b|jeder\b|jede\b|gemeinsam\b|die gruppe\b|wer aus der runde\b|wer von euch\b|alle spieler\b)/i.test(c.text.trim()) || /\b(alle spieler|die ganze gruppe|reihum|jeder aus der runde)\b/i.test(c.text)}
+function assignedTurn(index){
+ if(turnAssignments[index])return turnAssignments[index];
+ const c=deck[index];
+ if(groupTask(c))return turnAssignments[index]={group:true};
+ // Group cards do not consume a player's turn. Every other card advances once.
+ let individualCount=0;
+ for(let i=0;i<index;i++)if(!assignedTurn(i).group)individualCount++;
+ let actor=turnOrder[individualCount%turnOrder.length];
+ if(c.category==='paare'){
+   const valid=couples();
+   if(valid.length&&!valid.some(p=>p.id===actor.id))actor=valid[individualCount%valid.length];
+ }
+ if(isPhysical(c.text)&&c.category!=='paare'){
+   const valid=players.filter(p=>p.status==='single'&&['m','w'].includes(p.gender)&&players.some(q=>q.status==='single'&&q.gender!==p.gender&&['m','w'].includes(q.gender)));
+   if(valid.length&&!valid.some(p=>p.id===actor.id))actor=valid[individualCount%valid.length];
+ }
+ return turnAssignments[index]={group:false,actorId:actor.id};
+}
+function assignText(c,index){if(assignedTexts.has(index))return assignedTexts.get(index);let text=c.text;const turn=assignedTurn(index);let a=players.find(p=>p.id===turn.actorId)||turnOrder[0],b=null;
 if(c.category==='paare'){b=players.find(x=>String(x.id)===String(a.partner));}
 else if(isPhysical(text)){let possible=players.filter(q=>q.id!==a.id&&q.status==='single'&&a.status==='single'&&['m','w'].includes(q.gender)&&['m','w'].includes(a.gender)&&q.gender!==a.gender);b=possible.length?possible[rand(possible.length)]:null;}
 else {let others=players.filter(q=>q.id!==a.id);b=others[rand(others.length)]}
