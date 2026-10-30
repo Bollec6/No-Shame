@@ -44,7 +44,7 @@ if(!b&&(/\{spieler2\}/.test(text)||c.category==='paare'))return null;
 text=text.replaceAll('{spieler1}',a.name).replaceAll('{spieler2}',b?.name||'');if(c.category==='paare')text=text.replace(/deinem Partner|deiner Partnerin/gi,b.name);
 if(!turn.group&&!/\{spieler1\}/.test(c.text)&&!new RegExp('^'+a.name.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+'[,:!]','i').test(text))text=a.name+', '+text.charAt(0).toLowerCase()+text.slice(1);
 assignedTexts.set(index,text);return text;}
-function displayDrink(text,c){if(!drinkingKind(c))return text;let note=c.kind==='shot'?'Shot':c.kind==='glas'?'Glas-Aufgabe':'Schluck-Aufgabe';return text+'\n\n'+note+' · freiwillig · alkoholfrei möglich'}
+function displayDrink(text,c){return text}
 function start(){let available=eligibleCards();if(!available.length)return toast('Wähle mindestens eine Kategorie.');if(length!=='endlos'&&available.length<length){toast(`In diesen Kategorien gibt es nur ${available.length} Karten. Wir verwenden alle verfügbaren Karten.`)}deck=balancedShuffle([...available]);current=0;assignedTexts.clear();turnOrder=shuffle([...players]);turnAssignments=[];history=[];render();show('game');if($('keepAwake').checked&&navigator.wakeLock)navigator.wakeLock.request('screen').then(x=>wakeLock=x).catch(()=>{})}
 function render(){if(!deck.length)return;let card=deck[current];if(!card)return;let cap=length==='endlos'?'∞':String(Math.min(length,eligibleCards().length));$('counter').textContent=`${current+1} / ${cap}`;const turn=assignedTurn(current);$('activePlayer').textContent=turn.group?'ALLE SPIELER':(players.find(p=>p.id===turn.actorId)?.name||'SPIELER').toLocaleUpperCase('de-DE')+' IST DRAN';$('cardCategory').textContent=labels[card.category];$('cardIcon').src=`assets/${card.category}.webp`;let text=assignText(card,current);$('cardText').textContent=text===null?'Diese Aufgabe ist für die aktuelle Gruppe nicht geeignet. Bitte überspringen.':displayDrink(text,card);if($('alcoholFree').checked) $('cardText').textContent=$('cardText').textContent.replace(/einen Shot wählen/gi,'eine alkoholfreie Alternative wählen').replace(/einen Schluck nehmen/gi,'eine alkoholfreie Alternative wählen').replace(/einen kleinen Schluck aus dem Glas wählen/gi,'eine alkoholfreie Alternative wählen');fitCardText()}
 function fitCardText(){const el=$('cardText');let size=Math.min(20,Math.max(11,window.innerWidth*0.015));el.style.fontSize=size+'px';while(size>9&&(el.scrollHeight>el.clientHeight+2||el.scrollWidth>el.clientWidth+2)){size-=0.5;el.style.fontSize=size+'px'}}
@@ -56,3 +56,12 @@ $('singleMode').onclick=()=>{mix=false;categories=categories.slice(0,1);category
 for(let b of document.querySelectorAll('[data-length]'))b.onclick=()=>{length=b.dataset.length==='endlos'?'endlos':Number(b.dataset.length);$('lengthChoice').textContent=(length==='endlos'?'ENDLOS':length+' KARTEN')+' AUSGEWÄHLT ✓'};
 $('startGame').onclick=start;$('nextCard').onclick=advance;$('skipCard').onclick=advance;$('gameBack').onclick=()=>{if(current>0){current--;render()}else if(confirm('Zum Setup zurückkehren?')){if(wakeLock)wakeLock.release().catch(()=>{});show('duration')}};
 fetch('cards.json').then(r=>{if(!r.ok)throw Error('Karten fehlen');return r.json()}).then(data=>{cards=data;console.log('NO SHAME! geladen:',cards.length,'Karten')}).catch(e=>toast('Karten konnten nicht geladen werden. Bitte über GitHub Pages öffnen. '+e.message));playerUI();
+
+// Beta 9: every new tap rolls a fresh, unbiased 1–10 number; never alters the current card.
+const drinkModal=$('drinkModal');
+function closeDrinkModal(){drinkModal.hidden=true;}
+$('drinkButton').addEventListener('click',()=>{const amount=rand(10)+1;$('drinkResult').textContent=`${amount} ${amount===1?'SCHLUCK':'SCHLÜCKE'}`;drinkModal.hidden=false;});
+$('closeDrink').addEventListener('click',closeDrinkModal);
+$('drinkDone').addEventListener('click',closeDrinkModal);
+drinkModal.addEventListener('click',e=>{if(e.target===drinkModal)closeDrinkModal();});
+document.addEventListener('keydown',e=>{if(e.key==='Escape'&&!drinkModal.hidden)closeDrinkModal();});
