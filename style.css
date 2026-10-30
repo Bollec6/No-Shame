@@ -5,3 +5,8 @@
 .top-category{left:62%;top:3.7%;width:17%;font-size:clamp(9px,1.2vw,16px);line-height:1.1;white-space:nowrap}
 .card-category{left:39%;top:30.2%;width:22%;font-size:clamp(10px,1.55vw,20px);line-height:1.1;white-space:nowrap}
 .card-text{left:35%;top:40.5%;width:30%;height:33%;font-size:clamp(11px,1.5vw,20px);line-height:1.2;padding:3px 5px;overflow:hidden;overflow-wrap:anywhere;hyphens:auto;font-weight:700}
+
+/* Beta 3: fitted labels and icon in top-right badge; artwork untouched */
+.counter{left:33.1%;top:3.2%;width:8.4%;height:6%;display:flex;align-items:center;justify-content:center;font-size:clamp(10px,1.45vw,18px);line-height:1;white-space:nowrap;overflow:visible;font-variant-numeric:tabular-nums}
+.top-category-icon{position:absolute;left:65.2%;top:2.0%;width:5.1%;height:7.1%;object-fit:contain;mix-blend-mode:screen;pointer-events:none}
+.card-category{left:39.1%;top:26.7%;width:21.8%;height:6.8%;display:flex;align-items:center;justify-content:center;font-size:clamp(9px,1.2vw,16px);line-height:1.05;white-space:nowrap;overflow:hidden;z-index:2;letter-spacing:-.03em}
