@@ -1,3002 +1,3002 @@
 [
- {
-  "id": 1,
-  "category": "party",
-  "kind": "frage",
-  "text": "Imitiere eine Person aus der Runde, ohne ihren Namen zu nennen."
- },
- {
-  "id": 2,
-  "category": "party",
-  "kind": "frage",
-  "text": "Erfinde einen Werbeslogan für {spieler2}."
- },
- {
-  "id": 3,
-  "category": "party",
-  "kind": "frage",
-  "text": "Erzähle deinen schlechtesten Witz."
- },
- {
-  "id": 4,
-  "category": "party",
-  "kind": "frage",
-  "text": "Führe zehn Sekunden lang deinen schlimmsten Tanzmove vor."
- },
- {
-  "id": 5,
-  "category": "party",
-  "kind": "frage",
-  "text": "Halte eine Oscar-Rede für einen völlig unnötigen Preis."
- },
- {
-  "id": 6,
-  "category": "party",
-  "kind": "frage",
-  "text": "Erkläre einem Außerirdischen, was eine Kneipe ist."
- },
- {
-  "id": 7,
-  "category": "party",
-  "kind": "frage",
-  "text": "Verkaufe der Gruppe einen unsichtbaren Staubsauger."
- },
- {
-  "id": 8,
-  "category": "party",
-  "kind": "frage",
-  "text": "Beschreibe {spieler2} wie einen Gebrauchtwagen."
- },
- {
-  "id": 9,
-  "category": "party",
-  "kind": "frage",
-  "text": "Erfinde einen neuen Feiertag und seine Regeln."
- },
- {
-  "id": 10,
-  "category": "party",
-  "kind": "frage",
-  "text": "Halte eine leidenschaftliche Rede über Kartoffeln."
- },
- {
-  "id": 11,
-  "category": "party",
-  "kind": "frage",
-  "text": "Spiele einen Barkeeper, der alle Bestellungen falsch versteht."
- },
- {
-  "id": 12,
-  "category": "party",
-  "kind": "frage",
-  "text": "Präsentiere die Gruppe als Fußballmannschaft."
- },
- {
-  "id": 13,
-  "category": "party",
-  "kind": "frage",
-  "text": "Erfinde einen absurd schlechten Anmachspruch."
- },
- {
-  "id": 14,
-  "category": "party",
-  "kind": "frage",
-  "text": "Welche berühmte Person würdest du gern auf diese Party holen?"
- },
- {
-  "id": 15,
-  "category": "party",
-  "kind": "frage",
-  "text": "Welches Lied bringt dich sofort auf die Tanzfläche?"
- },
- {
-  "id": 16,
-  "category": "party",
-  "kind": "frage",
-  "text": "Was war dein unnötigster Kauf?"
- },
- {
-  "id": 17,
-  "category": "party",
-  "kind": "frage",
-  "text": "Was ist dein völlig nutzloses Talent?"
- },
- {
-  "id": 18,
-  "category": "party",
-  "kind": "frage",
-  "text": "Erzähle deinen lustigsten Versprecher."
- },
- {
-  "id": 19,
-  "category": "party",
-  "kind": "frage",
-  "text": "Wer aus der Runde würde eine Quizshow als Erstes verlieren?"
- },
- {
-  "id": 20,
-  "category": "party",
-  "kind": "frage",
-  "text": "Wer würde am ehesten auf einer Hochzeit Karaoke singen?"
- },
- {
-  "id": 21,
-  "category": "party",
-  "kind": "schluck",
-  "text": "Alle, die schon einmal auf einer Party eingeschlafen sind, nehmen freiwillig einen Schluck."
- },
- {
-  "id": 22,
-  "category": "party",
-  "kind": "schluck",
-  "text": "Alle, die schon einmal beim Tanzen hingefallen sind, nehmen freiwillig einen Schluck."
- },
- {
-  "id": 23,
-  "category": "party",
-  "kind": "schluck",
-  "text": "Wer schon einmal seine Jacke auf einer Feier vergessen hat, nimmt freiwillig einen Schluck."
- },
- {
-  "id": 24,
-  "category": "party",
-  "kind": "schluck",
-  "text": "Wer schon einmal ein Getränk vor Lachen verschüttet hat, nimmt freiwillig einen Schluck."
- },
- {
-  "id": 25,
-  "category": "party",
-  "kind": "shot",
-  "text": "Nenne fünf Dinge, die in einer Kneipe stehen. Wenn du scheiterst, kannst du einen Shot wählen."
- },
- {
-  "id": 26,
-  "category": "party",
-  "kind": "shot",
-  "text": "Erfinde einen Trinkspruch für die Gruppe. Anschließend darfst du einen Shot wählen."
- },
- {
-  "id": 27,
-  "category": "party",
-  "kind": "shot",
-  "text": "Wer heute als Letztes angekommen ist, darf einen Shot wählen."
- },
- {
-  "id": 28,
-  "category": "party",
-  "kind": "glas",
-  "text": "Wer schon einmal etwas auf einer Party verloren hat, darf einen kleinen Schluck aus dem Glas wählen."
- },
- {
-  "id": 29,
-  "category": "party",
-  "kind": "glas",
-  "text": "Wer schon einmal eine völlig verrückte Partynacht erlebt hat, darf einen kleinen Schluck aus dem Glas wählen."
- },
- {
-  "id": 30,
-  "category": "party",
-  "kind": "shot",
-  "text": "Wer hat heute die auffälligsten Schuhe? Diese Person darf einen Shot wählen."
- },
- {
-  "id": 31,
-  "category": "party",
-  "kind": "frage",
-  "text": "Imitiere eine Person aus der Runde, ohne ihren Namen zu nennen. Bonus: Die Gruppe darf eine Rückfrage stellen."
- },
- {
-  "id": 32,
-  "category": "party",
-  "kind": "frage",
-  "text": "Erfinde einen Werbeslogan für {spieler2}. Bonus: Die Gruppe darf eine Rückfrage stellen."
- },
- {
-  "id": 33,
-  "category": "party",
-  "kind": "frage",
-  "text": "Erzähle deinen schlechtesten Witz. Bonus: Die Gruppe darf eine Rückfrage stellen."
- },
- {
-  "id": 34,
-  "category": "party",
-  "kind": "frage",
-  "text": "Führe zehn Sekunden lang deinen schlimmsten Tanzmove vor. Bonus: Die Gruppe darf eine Rückfrage stellen."
- },
- {
-  "id": 35,
-  "category": "party",
-  "kind": "frage",
-  "text": "Halte eine Oscar-Rede für einen völlig unnötigen Preis. Bonus: Die Gruppe darf eine Rückfrage stellen."
- },
- {
-  "id": 36,
-  "category": "party",
-  "kind": "frage",
-  "text": "Erkläre einem Außerirdischen, was eine Kneipe ist. Bonus: Die Gruppe darf eine Rückfrage stellen."
- },
- {
-  "id": 37,
-  "category": "party",
-  "kind": "frage",
-  "text": "Verkaufe der Gruppe einen unsichtbaren Staubsauger. Bonus: Die Gruppe darf eine Rückfrage stellen."
- },
- {
-  "id": 38,
-  "category": "party",
-  "kind": "frage",
-  "text": "Beschreibe {spieler2} wie einen Gebrauchtwagen. Bonus: Die Gruppe darf eine Rückfrage stellen."
- },
- {
-  "id": 39,
-  "category": "party",
-  "kind": "frage",
-  "text": "Erfinde einen neuen Feiertag und seine Regeln. Bonus: Die Gruppe darf eine Rückfrage stellen."
- },
- {
-  "id": 40,
-  "category": "party",
-  "kind": "frage",
-  "text": "Halte eine leidenschaftliche Rede über Kartoffeln. Bonus: Die Gruppe darf eine Rückfrage stellen."
- },
- {
-  "id": 41,
-  "category": "party",
-  "kind": "frage",
-  "text": "Spiele einen Barkeeper, der alle Bestellungen falsch versteht. Bonus: Die Gruppe darf eine Rückfrage stellen."
- },
- {
-  "id": 42,
-  "category": "party",
-  "kind": "frage",
-  "text": "Präsentiere die Gruppe als Fußballmannschaft. Bonus: Die Gruppe darf eine Rückfrage stellen."
- },
- {
-  "id": 43,
-  "category": "party",
-  "kind": "frage",
-  "text": "Erfinde einen absurd schlechten Anmachspruch. Bonus: Die Gruppe darf eine Rückfrage stellen."
- },
- {
-  "id": 44,
-  "category": "party",
-  "kind": "frage",
-  "text": "Welche berühmte Person würdest du gern auf diese Party holen? Bonus: Die Gruppe darf eine Rückfrage stellen."
- },
- {
-  "id": 45,
-  "category": "party",
-  "kind": "frage",
-  "text": "Welches Lied bringt dich sofort auf die Tanzfläche? Bonus: Die Gruppe darf eine Rückfrage stellen."
- },
- {
-  "id": 46,
-  "category": "party",
-  "kind": "frage",
-  "text": "Was war dein unnötigster Kauf? Bonus: Die Gruppe darf eine Rückfrage stellen."
- },
- {
-  "id": 47,
-  "category": "party",
-  "kind": "frage",
-  "text": "Was ist dein völlig nutzloses Talent? Bonus: Die Gruppe darf eine Rückfrage stellen."
- },
- {
-  "id": 48,
-  "category": "party",
-  "kind": "frage",
-  "text": "Erzähle deinen lustigsten Versprecher. Bonus: Die Gruppe darf eine Rückfrage stellen."
- },
- {
-  "id": 49,
-  "category": "party",
-  "kind": "frage",
-  "text": "Wer aus der Runde würde eine Quizshow als Erstes verlieren? Bonus: Die Gruppe darf eine Rückfrage stellen."
- },
- {
-  "id": 50,
-  "category": "party",
-  "kind": "frage",
-  "text": "Wer würde am ehesten auf einer Hochzeit Karaoke singen? Bonus: Die Gruppe darf eine Rückfrage stellen."
- },
- {
-  "id": 51,
-  "category": "party",
-  "kind": "schluck",
-  "text": "Alle, die schon einmal auf einer Party eingeschlafen sind, nehmen freiwillig einen Schluck. Bonus: Die Gruppe darf eine Rückfrage stellen."
- },
- {
-  "id": 52,
-  "category": "party",
-  "kind": "schluck",
-  "text": "Alle, die schon einmal beim Tanzen hingefallen sind, nehmen freiwillig einen Schluck. Bonus: Die Gruppe darf eine Rückfrage stellen."
- },
- {
-  "id": 53,
-  "category": "party",
-  "kind": "schluck",
-  "text": "Wer schon einmal seine Jacke auf einer Feier vergessen hat, nimmt freiwillig einen Schluck. Bonus: Die Gruppe darf eine Rückfrage stellen."
- },
- {
-  "id": 54,
-  "category": "party",
-  "kind": "schluck",
-  "text": "Wer schon einmal ein Getränk vor Lachen verschüttet hat, nimmt freiwillig einen Schluck. Bonus: Die Gruppe darf eine Rückfrage stellen."
- },
- {
-  "id": 55,
-  "category": "party",
-  "kind": "shot",
-  "text": "Nenne fünf Dinge, die in einer Kneipe stehen. Wenn du scheiterst, kannst du einen Shot wählen. Bonus: Die Gruppe darf eine Rückfrage stellen."
- },
- {
-  "id": 56,
-  "category": "party",
-  "kind": "shot",
-  "text": "Erfinde einen Trinkspruch für die Gruppe. Anschließend darfst du einen Shot wählen. Bonus: Die Gruppe darf eine Rückfrage stellen."
- },
- {
-  "id": 57,
-  "category": "party",
-  "kind": "shot",
-  "text": "Wer heute als Letztes angekommen ist, darf einen Shot wählen. Bonus: Die Gruppe darf eine Rückfrage stellen."
- },
- {
-  "id": 58,
-  "category": "party",
-  "kind": "glas",
-  "text": "Wer schon einmal etwas auf einer Party verloren hat, darf einen kleinen Schluck aus dem Glas wählen. Bonus: Die Gruppe darf eine Rückfrage stellen."
- },
- {
-  "id": 59,
-  "category": "party",
-  "kind": "glas",
-  "text": "Wer schon einmal eine völlig verrückte Partynacht erlebt hat, darf einen kleinen Schluck aus dem Glas wählen. Bonus: Die Gruppe darf eine Rückfrage stellen."
- },
- {
-  "id": 60,
-  "category": "party",
-  "kind": "shot",
-  "text": "Wer hat heute die auffälligsten Schuhe? Diese Person darf einen Shot wählen. Bonus: Die Gruppe darf eine Rückfrage stellen."
- },
- {
-  "id": 61,
-  "category": "party",
-  "kind": "frage",
-  "text": "Imitiere eine Person aus der Runde, ohne ihren Namen zu nennen. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
- },
- {
-  "id": 62,
-  "category": "party",
-  "kind": "frage",
-  "text": "Erfinde einen Werbeslogan für {spieler2}. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
- },
- {
-  "id": 63,
-  "category": "party",
-  "kind": "frage",
-  "text": "Erzähle deinen schlechtesten Witz. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
- },
- {
-  "id": 64,
-  "category": "party",
-  "kind": "frage",
-  "text": "Führe zehn Sekunden lang deinen schlimmsten Tanzmove vor. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
- },
- {
-  "id": 65,
-  "category": "party",
-  "kind": "frage",
-  "text": "Halte eine Oscar-Rede für einen völlig unnötigen Preis. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
- },
- {
-  "id": 66,
-  "category": "party",
-  "kind": "frage",
-  "text": "Erkläre einem Außerirdischen, was eine Kneipe ist. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
- },
- {
-  "id": 67,
-  "category": "party",
-  "kind": "frage",
-  "text": "Verkaufe der Gruppe einen unsichtbaren Staubsauger. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
- },
- {
-  "id": 68,
-  "category": "party",
-  "kind": "frage",
-  "text": "Beschreibe {spieler2} wie einen Gebrauchtwagen. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
- },
- {
-  "id": 69,
-  "category": "party",
-  "kind": "frage",
-  "text": "Erfinde einen neuen Feiertag und seine Regeln. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
- },
- {
-  "id": 70,
-  "category": "party",
-  "kind": "frage",
-  "text": "Halte eine leidenschaftliche Rede über Kartoffeln. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
- },
- {
-  "id": 71,
-  "category": "party",
-  "kind": "frage",
-  "text": "Spiele einen Barkeeper, der alle Bestellungen falsch versteht. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
- },
- {
-  "id": 72,
-  "category": "party",
-  "kind": "frage",
-  "text": "Präsentiere die Gruppe als Fußballmannschaft. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
- },
- {
-  "id": 73,
-  "category": "party",
-  "kind": "frage",
-  "text": "Erfinde einen absurd schlechten Anmachspruch. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
- },
- {
-  "id": 74,
-  "category": "party",
-  "kind": "frage",
-  "text": "Welche berühmte Person würdest du gern auf diese Party holen? Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
- },
- {
-  "id": 75,
-  "category": "party",
-  "kind": "frage",
-  "text": "Welches Lied bringt dich sofort auf die Tanzfläche? Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
- },
- {
-  "id": 76,
-  "category": "party",
-  "kind": "frage",
-  "text": "Was war dein unnötigster Kauf? Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
- },
- {
-  "id": 77,
-  "category": "party",
-  "kind": "frage",
-  "text": "Was ist dein völlig nutzloses Talent? Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
- },
- {
-  "id": 78,
-  "category": "party",
-  "kind": "frage",
-  "text": "Erzähle deinen lustigsten Versprecher. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
- },
- {
-  "id": 79,
-  "category": "party",
-  "kind": "frage",
-  "text": "Wer aus der Runde würde eine Quizshow als Erstes verlieren? Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
- },
- {
-  "id": 80,
-  "category": "party",
-  "kind": "frage",
-  "text": "Wer würde am ehesten auf einer Hochzeit Karaoke singen? Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
- },
- {
-  "id": 81,
-  "category": "party",
-  "kind": "schluck",
-  "text": "Alle, die schon einmal auf einer Party eingeschlafen sind, nehmen freiwillig einen Schluck. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
- },
- {
-  "id": 82,
-  "category": "party",
-  "kind": "schluck",
-  "text": "Alle, die schon einmal beim Tanzen hingefallen sind, nehmen freiwillig einen Schluck. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
- },
- {
-  "id": 83,
-  "category": "party",
-  "kind": "schluck",
-  "text": "Wer schon einmal seine Jacke auf einer Feier vergessen hat, nimmt freiwillig einen Schluck. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
- },
- {
-  "id": 84,
-  "category": "party",
-  "kind": "schluck",
-  "text": "Wer schon einmal ein Getränk vor Lachen verschüttet hat, nimmt freiwillig einen Schluck. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
- },
- {
-  "id": 85,
-  "category": "party",
-  "kind": "shot",
-  "text": "Nenne fünf Dinge, die in einer Kneipe stehen. Wenn du scheiterst, kannst du einen Shot wählen. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
- },
- {
-  "id": 86,
-  "category": "party",
-  "kind": "shot",
-  "text": "Erfinde einen Trinkspruch für die Gruppe. Anschließend darfst du einen Shot wählen. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
- },
- {
-  "id": 87,
-  "category": "party",
-  "kind": "shot",
-  "text": "Wer heute als Letztes angekommen ist, darf einen Shot wählen. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
- },
- {
-  "id": 88,
-  "category": "party",
-  "kind": "glas",
-  "text": "Wer schon einmal etwas auf einer Party verloren hat, darf einen kleinen Schluck aus dem Glas wählen. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
- },
- {
-  "id": 89,
-  "category": "party",
-  "kind": "glas",
-  "text": "Wer schon einmal eine völlig verrückte Partynacht erlebt hat, darf einen kleinen Schluck aus dem Glas wählen. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
- },
- {
-  "id": 90,
-  "category": "party",
-  "kind": "shot",
-  "text": "Wer hat heute die auffälligsten Schuhe? Diese Person darf einen Shot wählen. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
- },
- {
-  "id": 91,
-  "category": "party",
-  "kind": "frage",
-  "text": "Imitiere eine Person aus der Runde, ohne ihren Namen zu nennen. Bonus: Lass die Gruppe anschließend abstimmen."
- },
- {
-  "id": 92,
-  "category": "party",
-  "kind": "frage",
-  "text": "Erfinde einen Werbeslogan für {spieler2}. Bonus: Lass die Gruppe anschließend abstimmen."
- },
- {
-  "id": 93,
-  "category": "party",
-  "kind": "frage",
-  "text": "Erzähle deinen schlechtesten Witz. Bonus: Lass die Gruppe anschließend abstimmen."
- },
- {
-  "id": 94,
-  "category": "party",
-  "kind": "frage",
-  "text": "Führe zehn Sekunden lang deinen schlimmsten Tanzmove vor. Bonus: Lass die Gruppe anschließend abstimmen."
- },
- {
-  "id": 95,
-  "category": "party",
-  "kind": "frage",
-  "text": "Halte eine Oscar-Rede für einen völlig unnötigen Preis. Bonus: Lass die Gruppe anschließend abstimmen."
- },
- {
-  "id": 96,
-  "category": "party",
-  "kind": "frage",
-  "text": "Erkläre einem Außerirdischen, was eine Kneipe ist. Bonus: Lass die Gruppe anschließend abstimmen."
- },
- {
-  "id": 97,
-  "category": "peinlich",
-  "kind": "frage",
-  "text": "Was war deine peinlichste Situation bei einem Date?"
- },
- {
-  "id": 98,
-  "category": "peinlich",
-  "kind": "frage",
-  "text": "Welche Nachricht würdest du gern ungeschehen machen?"
- },
- {
-  "id": 99,
-  "category": "peinlich",
-  "kind": "frage",
-  "text": "Wann hast du dich zuletzt komplett blamiert?"
- },
- {
-  "id": 100,
-  "category": "peinlich",
-  "kind": "frage",
-  "text": "Was war dein schlimmster Versuch, cool zu wirken?"
- },
- {
-  "id": 101,
-  "category": "peinlich",
-  "kind": "frage",
-  "text": "Welcher alte Spitzname ist dir heute unangenehm?"
- },
- {
-  "id": 102,
-  "category": "peinlich",
-  "kind": "frage",
-  "text": "Was war dein schlimmster Mode-Fauxpas?"
- },
- {
-  "id": 103,
-  "category": "peinlich",
-  "kind": "frage",
-  "text": "Wann hast du dich zuletzt beim Flirten verhaspelt?"
- },
- {
-  "id": 104,
-  "category": "peinlich",
-  "kind": "frage",
-  "text": "Was ist deine absurdeste Ausrede für Zuspätkommen?"
- },
- {
-  "id": 105,
-  "category": "peinlich",
-  "kind": "frage",
-  "text": "Wobei wurdest du zuletzt erwischt?"
- },
- {
-  "id": 106,
-  "category": "peinlich",
-  "kind": "frage",
-  "text": "Was war dein peinlichstes Missverständnis?"
- },
- {
-  "id": 107,
-  "category": "peinlich",
-  "kind": "frage",
-  "text": "Wer aus der Runde ist der größte Klugscheißer?"
- },
- {
-  "id": 108,
-  "category": "peinlich",
-  "kind": "frage",
-  "text": "Wer könnte am schlechtesten ein Geheimnis bewahren?"
- },
- {
-  "id": 109,
-  "category": "peinlich",
-  "kind": "frage",
-  "text": "Wer aus der Runde braucht immer das letzte Wort?"
- },
- {
-  "id": 110,
-  "category": "peinlich",
-  "kind": "frage",
-  "text": "Welche Angewohnheit von dir ist dir selbst peinlich?"
- },
- {
-  "id": 111,
-  "category": "peinlich",
-  "kind": "frage",
-  "text": "Welches alte Foto von dir dürfte niemand sehen?"
- },
- {
-  "id": 112,
-  "category": "peinlich",
-  "kind": "schluck",
-  "text": "Alle, die schon einmal die falsche Person angeschrieben haben, nehmen freiwillig einen Schluck."
- },
- {
-  "id": 113,
-  "category": "peinlich",
-  "kind": "schluck",
-  "text": "Alle, die schon einmal eine Nachricht bereut haben, nehmen freiwillig einen Schluck."
- },
- {
-  "id": 114,
-  "category": "peinlich",
-  "kind": "schluck",
-  "text": "Wer schon einmal beim Lügen erwischt wurde, nimmt freiwillig einen Schluck."
- },
- {
-  "id": 115,
-  "category": "peinlich",
-  "kind": "schluck",
-  "text": "Wer schon einmal vor anderen hingefallen ist, nimmt freiwillig einen Schluck."
- },
- {
-  "id": 116,
-  "category": "peinlich",
-  "kind": "schluck",
-  "text": "Wer schon einmal jemanden absichtlich ignoriert hat, nimmt freiwillig einen Schluck."
- },
- {
-  "id": 117,
-  "category": "peinlich",
-  "kind": "shot",
-  "text": "Erzähle von einer Dating-Panne oder wähle freiwillig einen Shot."
- },
- {
-  "id": 118,
-  "category": "peinlich",
-  "kind": "shot",
-  "text": "Verrate eine peinliche Angewohnheit oder wähle freiwillig einen Shot."
- },
- {
-  "id": 119,
-  "category": "peinlich",
-  "kind": "shot",
-  "text": "Wer heute die meisten ungelesenen Nachrichten hat, darf einen Shot wählen."
- },
- {
-  "id": 120,
-  "category": "peinlich",
-  "kind": "glas",
-  "text": "Wer schon einmal beim Lästern erwischt wurde, darf einen kleinen Schluck aus dem Glas wählen."
- },
- {
-  "id": 121,
-  "category": "peinlich",
-  "kind": "glas",
-  "text": "Wer schon einmal beim Flirten einen Korb bekommen hat, darf einen kleinen Schluck aus dem Glas wählen."
- },
- {
-  "id": 122,
-  "category": "peinlich",
-  "kind": "frage",
-  "text": "Was war deine peinlichste Situation bei einem Date? Falls du magst, verrate, wie die Geschichte ausging."
- },
- {
-  "id": 123,
-  "category": "peinlich",
-  "kind": "frage",
-  "text": "Welche Nachricht würdest du gern ungeschehen machen? Falls du magst, verrate, wie die Geschichte ausging."
- },
- {
-  "id": 124,
-  "category": "peinlich",
-  "kind": "frage",
-  "text": "Wann hast du dich zuletzt komplett blamiert? Falls du magst, verrate, wie die Geschichte ausging."
- },
- {
-  "id": 125,
-  "category": "peinlich",
-  "kind": "frage",
-  "text": "Was war dein schlimmster Versuch, cool zu wirken? Falls du magst, verrate, wie die Geschichte ausging."
- },
- {
-  "id": 126,
-  "category": "peinlich",
-  "kind": "frage",
-  "text": "Welcher alte Spitzname ist dir heute unangenehm? Falls du magst, verrate, wie die Geschichte ausging."
- },
- {
-  "id": 127,
-  "category": "peinlich",
-  "kind": "frage",
-  "text": "Was war dein schlimmster Mode-Fauxpas? Falls du magst, verrate, wie die Geschichte ausging."
- },
- {
-  "id": 128,
-  "category": "peinlich",
-  "kind": "frage",
-  "text": "Wann hast du dich zuletzt beim Flirten verhaspelt? Falls du magst, verrate, wie die Geschichte ausging."
- },
- {
-  "id": 129,
-  "category": "peinlich",
-  "kind": "frage",
-  "text": "Was ist deine absurdeste Ausrede für Zuspätkommen? Falls du magst, verrate, wie die Geschichte ausging."
- },
- {
-  "id": 130,
-  "category": "peinlich",
-  "kind": "frage",
-  "text": "Wobei wurdest du zuletzt erwischt? Falls du magst, verrate, wie die Geschichte ausging."
- },
- {
-  "id": 131,
-  "category": "peinlich",
-  "kind": "frage",
-  "text": "Was war dein peinlichstes Missverständnis? Falls du magst, verrate, wie die Geschichte ausging."
- },
- {
-  "id": 132,
-  "category": "peinlich",
-  "kind": "frage",
-  "text": "Wer aus der Runde ist der größte Klugscheißer? Falls du magst, verrate, wie die Geschichte ausging."
- },
- {
-  "id": 133,
-  "category": "peinlich",
-  "kind": "frage",
-  "text": "Wer könnte am schlechtesten ein Geheimnis bewahren? Falls du magst, verrate, wie die Geschichte ausging."
- },
- {
-  "id": 134,
-  "category": "peinlich",
-  "kind": "frage",
-  "text": "Wer aus der Runde braucht immer das letzte Wort? Falls du magst, verrate, wie die Geschichte ausging."
- },
- {
-  "id": 135,
-  "category": "peinlich",
-  "kind": "frage",
-  "text": "Welche Angewohnheit von dir ist dir selbst peinlich? Falls du magst, verrate, wie die Geschichte ausging."
- },
- {
-  "id": 136,
-  "category": "peinlich",
-  "kind": "frage",
-  "text": "Welches alte Foto von dir dürfte niemand sehen? Falls du magst, verrate, wie die Geschichte ausging."
- },
- {
-  "id": 137,
-  "category": "peinlich",
-  "kind": "schluck",
-  "text": "Alle, die schon einmal die falsche Person angeschrieben haben, nehmen freiwillig einen Schluck. Falls du magst, verrate, wie die Geschichte ausging."
- },
- {
-  "id": 138,
-  "category": "peinlich",
-  "kind": "schluck",
-  "text": "Alle, die schon einmal eine Nachricht bereut haben, nehmen freiwillig einen Schluck. Falls du magst, verrate, wie die Geschichte ausging."
- },
- {
-  "id": 139,
-  "category": "peinlich",
-  "kind": "schluck",
-  "text": "Wer schon einmal beim Lügen erwischt wurde, nimmt freiwillig einen Schluck. Falls du magst, verrate, wie die Geschichte ausging."
- },
- {
-  "id": 140,
-  "category": "peinlich",
-  "kind": "schluck",
-  "text": "Wer schon einmal vor anderen hingefallen ist, nimmt freiwillig einen Schluck. Falls du magst, verrate, wie die Geschichte ausging."
- },
- {
-  "id": 141,
-  "category": "peinlich",
-  "kind": "schluck",
-  "text": "Wer schon einmal jemanden absichtlich ignoriert hat, nimmt freiwillig einen Schluck. Falls du magst, verrate, wie die Geschichte ausging."
- },
- {
-  "id": 142,
-  "category": "peinlich",
-  "kind": "shot",
-  "text": "Erzähle von einer Dating-Panne oder wähle freiwillig einen Shot. Falls du magst, verrate, wie die Geschichte ausging."
- },
- {
-  "id": 143,
-  "category": "peinlich",
-  "kind": "shot",
-  "text": "Verrate eine peinliche Angewohnheit oder wähle freiwillig einen Shot. Falls du magst, verrate, wie die Geschichte ausging."
- },
- {
-  "id": 144,
-  "category": "peinlich",
-  "kind": "shot",
-  "text": "Wer heute die meisten ungelesenen Nachrichten hat, darf einen Shot wählen. Falls du magst, verrate, wie die Geschichte ausging."
- },
- {
-  "id": 145,
-  "category": "peinlich",
-  "kind": "glas",
-  "text": "Wer schon einmal beim Lästern erwischt wurde, darf einen kleinen Schluck aus dem Glas wählen. Falls du magst, verrate, wie die Geschichte ausging."
- },
- {
-  "id": 146,
-  "category": "peinlich",
-  "kind": "glas",
-  "text": "Wer schon einmal beim Flirten einen Korb bekommen hat, darf einen kleinen Schluck aus dem Glas wählen. Falls du magst, verrate, wie die Geschichte ausging."
- },
- {
-  "id": 147,
-  "category": "peinlich",
-  "kind": "frage",
-  "text": "Was war deine peinlichste Situation bei einem Date? Die Gruppe darf eine harmlose Rückfrage stellen."
- },
- {
-  "id": 148,
-  "category": "peinlich",
-  "kind": "frage",
-  "text": "Welche Nachricht würdest du gern ungeschehen machen? Die Gruppe darf eine harmlose Rückfrage stellen."
- },
- {
-  "id": 149,
-  "category": "peinlich",
-  "kind": "frage",
-  "text": "Wann hast du dich zuletzt komplett blamiert? Die Gruppe darf eine harmlose Rückfrage stellen."
- },
- {
-  "id": 150,
-  "category": "peinlich",
-  "kind": "frage",
-  "text": "Was war dein schlimmster Versuch, cool zu wirken? Die Gruppe darf eine harmlose Rückfrage stellen."
- },
- {
-  "id": 151,
-  "category": "peinlich",
-  "kind": "frage",
-  "text": "Welcher alte Spitzname ist dir heute unangenehm? Die Gruppe darf eine harmlose Rückfrage stellen."
- },
- {
-  "id": 152,
-  "category": "peinlich",
-  "kind": "frage",
-  "text": "Was war dein schlimmster Mode-Fauxpas? Die Gruppe darf eine harmlose Rückfrage stellen."
- },
- {
-  "id": 153,
-  "category": "peinlich",
-  "kind": "frage",
-  "text": "Wann hast du dich zuletzt beim Flirten verhaspelt? Die Gruppe darf eine harmlose Rückfrage stellen."
- },
- {
-  "id": 154,
-  "category": "peinlich",
-  "kind": "frage",
-  "text": "Was ist deine absurdeste Ausrede für Zuspätkommen? Die Gruppe darf eine harmlose Rückfrage stellen."
- },
- {
-  "id": 155,
-  "category": "peinlich",
-  "kind": "frage",
-  "text": "Wobei wurdest du zuletzt erwischt? Die Gruppe darf eine harmlose Rückfrage stellen."
- },
- {
-  "id": 156,
-  "category": "peinlich",
-  "kind": "frage",
-  "text": "Was war dein peinlichstes Missverständnis? Die Gruppe darf eine harmlose Rückfrage stellen."
- },
- {
-  "id": 157,
-  "category": "peinlich",
-  "kind": "frage",
-  "text": "Wer aus der Runde ist der größte Klugscheißer? Die Gruppe darf eine harmlose Rückfrage stellen."
- },
- {
-  "id": 158,
-  "category": "peinlich",
-  "kind": "frage",
-  "text": "Wer könnte am schlechtesten ein Geheimnis bewahren? Die Gruppe darf eine harmlose Rückfrage stellen."
- },
- {
-  "id": 159,
-  "category": "peinlich",
-  "kind": "frage",
-  "text": "Wer aus der Runde braucht immer das letzte Wort? Die Gruppe darf eine harmlose Rückfrage stellen."
- },
- {
-  "id": 160,
-  "category": "peinlich",
-  "kind": "frage",
-  "text": "Welche Angewohnheit von dir ist dir selbst peinlich? Die Gruppe darf eine harmlose Rückfrage stellen."
- },
- {
-  "id": 161,
-  "category": "peinlich",
-  "kind": "frage",
-  "text": "Welches alte Foto von dir dürfte niemand sehen? Die Gruppe darf eine harmlose Rückfrage stellen."
- },
- {
-  "id": 162,
-  "category": "peinlich",
-  "kind": "schluck",
-  "text": "Alle, die schon einmal die falsche Person angeschrieben haben, nehmen freiwillig einen Schluck. Die Gruppe darf eine harmlose Rückfrage stellen."
- },
- {
-  "id": 163,
-  "category": "peinlich",
-  "kind": "schluck",
-  "text": "Alle, die schon einmal eine Nachricht bereut haben, nehmen freiwillig einen Schluck. Die Gruppe darf eine harmlose Rückfrage stellen."
- },
- {
-  "id": 164,
-  "category": "peinlich",
-  "kind": "schluck",
-  "text": "Wer schon einmal beim Lügen erwischt wurde, nimmt freiwillig einen Schluck. Die Gruppe darf eine harmlose Rückfrage stellen."
- },
- {
-  "id": 165,
-  "category": "peinlich",
-  "kind": "schluck",
-  "text": "Wer schon einmal vor anderen hingefallen ist, nimmt freiwillig einen Schluck. Die Gruppe darf eine harmlose Rückfrage stellen."
- },
- {
-  "id": 166,
-  "category": "peinlich",
-  "kind": "schluck",
-  "text": "Wer schon einmal jemanden absichtlich ignoriert hat, nimmt freiwillig einen Schluck. Die Gruppe darf eine harmlose Rückfrage stellen."
- },
- {
-  "id": 167,
-  "category": "peinlich",
-  "kind": "shot",
-  "text": "Erzähle von einer Dating-Panne oder wähle freiwillig einen Shot. Die Gruppe darf eine harmlose Rückfrage stellen."
- },
- {
-  "id": 168,
-  "category": "peinlich",
-  "kind": "shot",
-  "text": "Verrate eine peinliche Angewohnheit oder wähle freiwillig einen Shot. Die Gruppe darf eine harmlose Rückfrage stellen."
- },
- {
-  "id": 169,
-  "category": "peinlich",
-  "kind": "shot",
-  "text": "Wer heute die meisten ungelesenen Nachrichten hat, darf einen Shot wählen. Die Gruppe darf eine harmlose Rückfrage stellen."
- },
- {
-  "id": 170,
-  "category": "peinlich",
-  "kind": "glas",
-  "text": "Wer schon einmal beim Lästern erwischt wurde, darf einen kleinen Schluck aus dem Glas wählen. Die Gruppe darf eine harmlose Rückfrage stellen."
- },
- {
-  "id": 171,
-  "category": "peinlich",
-  "kind": "glas",
-  "text": "Wer schon einmal beim Flirten einen Korb bekommen hat, darf einen kleinen Schluck aus dem Glas wählen. Die Gruppe darf eine harmlose Rückfrage stellen."
- },
- {
-  "id": 172,
-  "category": "peinlich",
-  "kind": "frage",
-  "text": "Was war deine peinlichste Situation bei einem Date? Beschreibe die Situation in drei Worten, bevor du antwortest."
- },
- {
-  "id": 173,
-  "category": "peinlich",
-  "kind": "frage",
-  "text": "Welche Nachricht würdest du gern ungeschehen machen? Beschreibe die Situation in drei Worten, bevor du antwortest."
- },
- {
-  "id": 174,
-  "category": "peinlich",
-  "kind": "frage",
-  "text": "Wann hast du dich zuletzt komplett blamiert? Beschreibe die Situation in drei Worten, bevor du antwortest."
- },
- {
-  "id": 175,
-  "category": "peinlich",
-  "kind": "frage",
-  "text": "Was war dein schlimmster Versuch, cool zu wirken? Beschreibe die Situation in drei Worten, bevor du antwortest."
- },
- {
-  "id": 176,
-  "category": "peinlich",
-  "kind": "frage",
-  "text": "Welcher alte Spitzname ist dir heute unangenehm? Beschreibe die Situation in drei Worten, bevor du antwortest."
- },
- {
-  "id": 177,
-  "category": "peinlich",
-  "kind": "frage",
-  "text": "Was war dein schlimmster Mode-Fauxpas? Beschreibe die Situation in drei Worten, bevor du antwortest."
- },
- {
-  "id": 178,
-  "category": "peinlich",
-  "kind": "frage",
-  "text": "Wann hast du dich zuletzt beim Flirten verhaspelt? Beschreibe die Situation in drei Worten, bevor du antwortest."
- },
- {
-  "id": 179,
-  "category": "peinlich",
-  "kind": "frage",
-  "text": "Was ist deine absurdeste Ausrede für Zuspätkommen? Beschreibe die Situation in drei Worten, bevor du antwortest."
- },
- {
-  "id": 180,
-  "category": "peinlich",
-  "kind": "frage",
-  "text": "Wobei wurdest du zuletzt erwischt? Beschreibe die Situation in drei Worten, bevor du antwortest."
- },
- {
-  "id": 181,
-  "category": "peinlich",
-  "kind": "frage",
-  "text": "Was war dein peinlichstes Missverständnis? Beschreibe die Situation in drei Worten, bevor du antwortest."
- },
- {
-  "id": 182,
-  "category": "peinlich",
-  "kind": "frage",
-  "text": "Wer aus der Runde ist der größte Klugscheißer? Beschreibe die Situation in drei Worten, bevor du antwortest."
- },
- {
-  "id": 183,
-  "category": "peinlich",
-  "kind": "frage",
-  "text": "Wer könnte am schlechtesten ein Geheimnis bewahren? Beschreibe die Situation in drei Worten, bevor du antwortest."
- },
- {
-  "id": 184,
-  "category": "peinlich",
-  "kind": "frage",
-  "text": "Wer aus der Runde braucht immer das letzte Wort? Beschreibe die Situation in drei Worten, bevor du antwortest."
- },
- {
-  "id": 185,
-  "category": "peinlich",
-  "kind": "frage",
-  "text": "Welche Angewohnheit von dir ist dir selbst peinlich? Beschreibe die Situation in drei Worten, bevor du antwortest."
- },
- {
-  "id": 186,
-  "category": "peinlich",
-  "kind": "frage",
-  "text": "Welches alte Foto von dir dürfte niemand sehen? Beschreibe die Situation in drei Worten, bevor du antwortest."
- },
- {
-  "id": 187,
-  "category": "peinlich",
-  "kind": "schluck",
-  "text": "Alle, die schon einmal die falsche Person angeschrieben haben, nehmen freiwillig einen Schluck. Beschreibe die Situation in drei Worten, bevor du antwortest."
- },
- {
-  "id": 188,
-  "category": "peinlich",
-  "kind": "schluck",
-  "text": "Alle, die schon einmal eine Nachricht bereut haben, nehmen freiwillig einen Schluck. Beschreibe die Situation in drei Worten, bevor du antwortest."
- },
- {
-  "id": 189,
-  "category": "peinlich",
-  "kind": "schluck",
-  "text": "Wer schon einmal beim Lügen erwischt wurde, nimmt freiwillig einen Schluck. Beschreibe die Situation in drei Worten, bevor du antwortest."
- },
- {
-  "id": 190,
-  "category": "peinlich",
-  "kind": "schluck",
-  "text": "Wer schon einmal vor anderen hingefallen ist, nimmt freiwillig einen Schluck. Beschreibe die Situation in drei Worten, bevor du antwortest."
- },
- {
-  "id": 191,
-  "category": "peinlich",
-  "kind": "schluck",
-  "text": "Wer schon einmal jemanden absichtlich ignoriert hat, nimmt freiwillig einen Schluck. Beschreibe die Situation in drei Worten, bevor du antwortest."
- },
- {
-  "id": 192,
-  "category": "peinlich",
-  "kind": "shot",
-  "text": "Erzähle von einer Dating-Panne oder wähle freiwillig einen Shot. Beschreibe die Situation in drei Worten, bevor du antwortest."
- },
- {
-  "id": 193,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Was war die gewagteste Nachricht, die du jemals verschickt hast?"
- },
- {
-  "id": 194,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Welche Eigenschaft findest du überraschend sexy?"
- },
- {
-  "id": 195,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Was ist für dich ein absoluter Stimmungskiller beim Küssen?"
- },
- {
-  "id": 196,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Welche intime Frage würdest du bei einem ersten Date niemals stellen?"
- },
- {
-  "id": 197,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Was war dein ungewöhnlichster Ort für einen Kuss?"
- },
- {
-  "id": 198,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Welche romantische Fantasie würdest du dich trauen anzusprechen?"
- },
- {
-  "id": 199,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Was war dein bisher aufregendstes Date?"
- },
- {
-  "id": 200,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Hast du schon einmal einen Kuss sofort bereut?"
- },
- {
-  "id": 201,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Was ist das Verführerischste, das jemand zu dir gesagt hat?"
- },
- {
-  "id": 202,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Was war dein peinlichster Moment beim Küssen?"
- },
- {
-  "id": 203,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Hast du schon einmal jemanden geküsst, dessen Namen du nicht kanntest?"
- },
- {
-  "id": 204,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Hast du schon einmal heimlich auf jemanden aus deinem Freundeskreis gestanden?"
- },
- {
-  "id": 205,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Welches Kleidungsstück findest du an anderen besonders attraktiv?"
- },
- {
-  "id": 206,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Was ist deine größte Schwäche beim Flirten?"
- },
- {
-  "id": 207,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Wer aus der Runde hat vermutlich die wildesten Dating-Geschichten?"
- },
- {
-  "id": 208,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Wer aus der Runde flirtet deiner Meinung nach am überzeugendsten?"
- },
- {
-  "id": 209,
-  "category": "dirty",
-  "kind": "schluck",
-  "text": "Alle, die schon einmal eine anzügliche Nachricht verschickt haben, nehmen freiwillig einen Schluck."
- },
- {
-  "id": 210,
-  "category": "dirty",
-  "kind": "schluck",
-  "text": "Alle, die schon einmal einen One-Night-Stand hatten, nehmen freiwillig einen Schluck."
- },
- {
-  "id": 211,
-  "category": "dirty",
-  "kind": "schluck",
-  "text": "Alle, die schon einmal ein freches Selfie verschickt haben, nehmen freiwillig einen Schluck."
- },
- {
-  "id": 212,
-  "category": "dirty",
-  "kind": "schluck",
-  "text": "Wer schon einmal beim Küssen unterbrochen wurde, nimmt freiwillig einen Schluck."
- },
- {
-  "id": 213,
-  "category": "dirty",
-  "kind": "glas",
-  "text": "Wer schon einmal einen heimlichen Flirt hatte, darf einen kleinen Schluck aus dem Glas wählen."
- },
- {
-  "id": 214,
-  "category": "dirty",
-  "kind": "shot",
-  "text": "Verrate deinen mutigsten Flirtversuch oder wähle freiwillig einen Shot."
- },
- {
-  "id": 215,
-  "category": "dirty",
-  "kind": "shot",
-  "text": "Erzähle von einer besonders zweideutigen Nachricht oder wähle freiwillig einen Shot."
- },
- {
-  "id": 216,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Was war die gewagteste Nachricht, die du jemals verschickt hast? Du darfst die Frage auch allgemein beantworten."
- },
- {
-  "id": 217,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Welche Eigenschaft findest du überraschend sexy? Du darfst die Frage auch allgemein beantworten."
- },
- {
-  "id": 218,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Was ist für dich ein absoluter Stimmungskiller beim Küssen? Du darfst die Frage auch allgemein beantworten."
- },
- {
-  "id": 219,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Welche intime Frage würdest du bei einem ersten Date niemals stellen? Du darfst die Frage auch allgemein beantworten."
- },
- {
-  "id": 220,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Was war dein ungewöhnlichster Ort für einen Kuss? Du darfst die Frage auch allgemein beantworten."
- },
- {
-  "id": 221,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Welche romantische Fantasie würdest du dich trauen anzusprechen? Du darfst die Frage auch allgemein beantworten."
- },
- {
-  "id": 222,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Was war dein bisher aufregendstes Date? Du darfst die Frage auch allgemein beantworten."
- },
- {
-  "id": 223,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Hast du schon einmal einen Kuss sofort bereut? Du darfst die Frage auch allgemein beantworten."
- },
- {
-  "id": 224,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Was ist das Verführerischste, das jemand zu dir gesagt hat? Du darfst die Frage auch allgemein beantworten."
- },
- {
-  "id": 225,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Was war dein peinlichster Moment beim Küssen? Du darfst die Frage auch allgemein beantworten."
- },
- {
-  "id": 226,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Hast du schon einmal jemanden geküsst, dessen Namen du nicht kanntest? Du darfst die Frage auch allgemein beantworten."
- },
- {
-  "id": 227,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Hast du schon einmal heimlich auf jemanden aus deinem Freundeskreis gestanden? Du darfst die Frage auch allgemein beantworten."
- },
- {
-  "id": 228,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Welches Kleidungsstück findest du an anderen besonders attraktiv? Du darfst die Frage auch allgemein beantworten."
- },
- {
-  "id": 229,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Was ist deine größte Schwäche beim Flirten? Du darfst die Frage auch allgemein beantworten."
- },
- {
-  "id": 230,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Wer aus der Runde hat vermutlich die wildesten Dating-Geschichten? Du darfst die Frage auch allgemein beantworten."
- },
- {
-  "id": 231,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Wer aus der Runde flirtet deiner Meinung nach am überzeugendsten? Du darfst die Frage auch allgemein beantworten."
- },
- {
-  "id": 232,
-  "category": "dirty",
-  "kind": "schluck",
-  "text": "Alle, die schon einmal eine anzügliche Nachricht verschickt haben, nehmen freiwillig einen Schluck. Du darfst die Frage auch allgemein beantworten."
- },
- {
-  "id": 233,
-  "category": "dirty",
-  "kind": "schluck",
-  "text": "Alle, die schon einmal einen One-Night-Stand hatten, nehmen freiwillig einen Schluck. Du darfst die Frage auch allgemein beantworten."
- },
- {
-  "id": 234,
-  "category": "dirty",
-  "kind": "schluck",
-  "text": "Alle, die schon einmal ein freches Selfie verschickt haben, nehmen freiwillig einen Schluck. Du darfst die Frage auch allgemein beantworten."
- },
- {
-  "id": 235,
-  "category": "dirty",
-  "kind": "schluck",
-  "text": "Wer schon einmal beim Küssen unterbrochen wurde, nimmt freiwillig einen Schluck. Du darfst die Frage auch allgemein beantworten."
- },
- {
-  "id": 236,
-  "category": "dirty",
-  "kind": "glas",
-  "text": "Wer schon einmal einen heimlichen Flirt hatte, darf einen kleinen Schluck aus dem Glas wählen. Du darfst die Frage auch allgemein beantworten."
- },
- {
-  "id": 237,
-  "category": "dirty",
-  "kind": "shot",
-  "text": "Verrate deinen mutigsten Flirtversuch oder wähle freiwillig einen Shot. Du darfst die Frage auch allgemein beantworten."
- },
- {
-  "id": 238,
-  "category": "dirty",
-  "kind": "shot",
-  "text": "Erzähle von einer besonders zweideutigen Nachricht oder wähle freiwillig einen Shot. Du darfst die Frage auch allgemein beantworten."
- },
- {
-  "id": 239,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Was war die gewagteste Nachricht, die du jemals verschickt hast? Du entscheidest selbst, wie viel du preisgibst."
- },
- {
-  "id": 240,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Welche Eigenschaft findest du überraschend sexy? Du entscheidest selbst, wie viel du preisgibst."
- },
- {
-  "id": 241,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Was ist für dich ein absoluter Stimmungskiller beim Küssen? Du entscheidest selbst, wie viel du preisgibst."
- },
- {
-  "id": 242,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Welche intime Frage würdest du bei einem ersten Date niemals stellen? Du entscheidest selbst, wie viel du preisgibst."
- },
- {
-  "id": 243,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Was war dein ungewöhnlichster Ort für einen Kuss? Du entscheidest selbst, wie viel du preisgibst."
- },
- {
-  "id": 244,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Welche romantische Fantasie würdest du dich trauen anzusprechen? Du entscheidest selbst, wie viel du preisgibst."
- },
- {
-  "id": 245,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Was war dein bisher aufregendstes Date? Du entscheidest selbst, wie viel du preisgibst."
- },
- {
-  "id": 246,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Hast du schon einmal einen Kuss sofort bereut? Du entscheidest selbst, wie viel du preisgibst."
- },
- {
-  "id": 247,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Was ist das Verführerischste, das jemand zu dir gesagt hat? Du entscheidest selbst, wie viel du preisgibst."
- },
- {
-  "id": 248,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Was war dein peinlichster Moment beim Küssen? Du entscheidest selbst, wie viel du preisgibst."
- },
- {
-  "id": 249,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Hast du schon einmal jemanden geküsst, dessen Namen du nicht kanntest? Du entscheidest selbst, wie viel du preisgibst."
- },
- {
-  "id": 250,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Hast du schon einmal heimlich auf jemanden aus deinem Freundeskreis gestanden? Du entscheidest selbst, wie viel du preisgibst."
- },
- {
-  "id": 251,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Welches Kleidungsstück findest du an anderen besonders attraktiv? Du entscheidest selbst, wie viel du preisgibst."
- },
- {
-  "id": 252,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Was ist deine größte Schwäche beim Flirten? Du entscheidest selbst, wie viel du preisgibst."
- },
- {
-  "id": 253,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Wer aus der Runde hat vermutlich die wildesten Dating-Geschichten? Du entscheidest selbst, wie viel du preisgibst."
- },
- {
-  "id": 254,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Wer aus der Runde flirtet deiner Meinung nach am überzeugendsten? Du entscheidest selbst, wie viel du preisgibst."
- },
- {
-  "id": 255,
-  "category": "dirty",
-  "kind": "schluck",
-  "text": "Alle, die schon einmal eine anzügliche Nachricht verschickt haben, nehmen freiwillig einen Schluck. Du entscheidest selbst, wie viel du preisgibst."
- },
- {
-  "id": 256,
-  "category": "dirty",
-  "kind": "schluck",
-  "text": "Alle, die schon einmal einen One-Night-Stand hatten, nehmen freiwillig einen Schluck. Du entscheidest selbst, wie viel du preisgibst."
- },
- {
-  "id": 257,
-  "category": "dirty",
-  "kind": "schluck",
-  "text": "Alle, die schon einmal ein freches Selfie verschickt haben, nehmen freiwillig einen Schluck. Du entscheidest selbst, wie viel du preisgibst."
- },
- {
-  "id": 258,
-  "category": "dirty",
-  "kind": "schluck",
-  "text": "Wer schon einmal beim Küssen unterbrochen wurde, nimmt freiwillig einen Schluck. Du entscheidest selbst, wie viel du preisgibst."
- },
- {
-  "id": 259,
-  "category": "dirty",
-  "kind": "glas",
-  "text": "Wer schon einmal einen heimlichen Flirt hatte, darf einen kleinen Schluck aus dem Glas wählen. Du entscheidest selbst, wie viel du preisgibst."
- },
- {
-  "id": 260,
-  "category": "dirty",
-  "kind": "shot",
-  "text": "Verrate deinen mutigsten Flirtversuch oder wähle freiwillig einen Shot. Du entscheidest selbst, wie viel du preisgibst."
- },
- {
-  "id": 261,
-  "category": "dirty",
-  "kind": "shot",
-  "text": "Erzähle von einer besonders zweideutigen Nachricht oder wähle freiwillig einen Shot. Du entscheidest selbst, wie viel du preisgibst."
- },
- {
-  "id": 262,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Was war die gewagteste Nachricht, die du jemals verschickt hast? Eine kurze Antwort reicht – keine Details nötig."
- },
- {
-  "id": 263,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Welche Eigenschaft findest du überraschend sexy? Eine kurze Antwort reicht – keine Details nötig."
- },
- {
-  "id": 264,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Was ist für dich ein absoluter Stimmungskiller beim Küssen? Eine kurze Antwort reicht – keine Details nötig."
- },
- {
-  "id": 265,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Welche intime Frage würdest du bei einem ersten Date niemals stellen? Eine kurze Antwort reicht – keine Details nötig."
- },
- {
-  "id": 266,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Was war dein ungewöhnlichster Ort für einen Kuss? Eine kurze Antwort reicht – keine Details nötig."
- },
- {
-  "id": 267,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Welche romantische Fantasie würdest du dich trauen anzusprechen? Eine kurze Antwort reicht – keine Details nötig."
- },
- {
-  "id": 268,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Was war dein bisher aufregendstes Date? Eine kurze Antwort reicht – keine Details nötig."
- },
- {
-  "id": 269,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Hast du schon einmal einen Kuss sofort bereut? Eine kurze Antwort reicht – keine Details nötig."
- },
- {
-  "id": 270,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Was ist das Verführerischste, das jemand zu dir gesagt hat? Eine kurze Antwort reicht – keine Details nötig."
- },
- {
-  "id": 271,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Was war dein peinlichster Moment beim Küssen? Eine kurze Antwort reicht – keine Details nötig."
- },
- {
-  "id": 272,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Hast du schon einmal jemanden geküsst, dessen Namen du nicht kanntest? Eine kurze Antwort reicht – keine Details nötig."
- },
- {
-  "id": 273,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Hast du schon einmal heimlich auf jemanden aus deinem Freundeskreis gestanden? Eine kurze Antwort reicht – keine Details nötig."
- },
- {
-  "id": 274,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Welches Kleidungsstück findest du an anderen besonders attraktiv? Eine kurze Antwort reicht – keine Details nötig."
- },
- {
-  "id": 275,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Was ist deine größte Schwäche beim Flirten? Eine kurze Antwort reicht – keine Details nötig."
- },
- {
-  "id": 276,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Wer aus der Runde hat vermutlich die wildesten Dating-Geschichten? Eine kurze Antwort reicht – keine Details nötig."
- },
- {
-  "id": 277,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Wer aus der Runde flirtet deiner Meinung nach am überzeugendsten? Eine kurze Antwort reicht – keine Details nötig."
- },
- {
-  "id": 278,
-  "category": "dirty",
-  "kind": "schluck",
-  "text": "Alle, die schon einmal eine anzügliche Nachricht verschickt haben, nehmen freiwillig einen Schluck. Eine kurze Antwort reicht – keine Details nötig."
- },
- {
-  "id": 279,
-  "category": "dirty",
-  "kind": "schluck",
-  "text": "Alle, die schon einmal einen One-Night-Stand hatten, nehmen freiwillig einen Schluck. Eine kurze Antwort reicht – keine Details nötig."
- },
- {
-  "id": 280,
-  "category": "dirty",
-  "kind": "schluck",
-  "text": "Alle, die schon einmal ein freches Selfie verschickt haben, nehmen freiwillig einen Schluck. Eine kurze Antwort reicht – keine Details nötig."
- },
- {
-  "id": 281,
-  "category": "dirty",
-  "kind": "schluck",
-  "text": "Wer schon einmal beim Küssen unterbrochen wurde, nimmt freiwillig einen Schluck. Eine kurze Antwort reicht – keine Details nötig."
- },
- {
-  "id": 282,
-  "category": "dirty",
-  "kind": "glas",
-  "text": "Wer schon einmal einen heimlichen Flirt hatte, darf einen kleinen Schluck aus dem Glas wählen. Eine kurze Antwort reicht – keine Details nötig."
- },
- {
-  "id": 283,
-  "category": "dirty",
-  "kind": "shot",
-  "text": "Verrate deinen mutigsten Flirtversuch oder wähle freiwillig einen Shot. Eine kurze Antwort reicht – keine Details nötig."
- },
- {
-  "id": 284,
-  "category": "dirty",
-  "kind": "shot",
-  "text": "Erzähle von einer besonders zweideutigen Nachricht oder wähle freiwillig einen Shot. Eine kurze Antwort reicht – keine Details nötig."
- },
- {
-  "id": 285,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Was war die gewagteste Nachricht, die du jemals verschickt hast? Wer möchte, darf eine eigene Erfahrung ergänzen."
- },
- {
-  "id": 286,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Welche Eigenschaft findest du überraschend sexy? Wer möchte, darf eine eigene Erfahrung ergänzen."
- },
- {
-  "id": 287,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Was ist für dich ein absoluter Stimmungskiller beim Küssen? Wer möchte, darf eine eigene Erfahrung ergänzen."
- },
- {
-  "id": 288,
-  "category": "dirty",
-  "kind": "frage",
-  "text": "Welche intime Frage würdest du bei einem ersten Date niemals stellen? Wer möchte, darf eine eigene Erfahrung ergänzen."
- },
- {
-  "id": 289,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie jemanden geküsst, dessen Namen ich nicht kannte."
- },
- {
-  "id": 290,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie eine peinliche Nachricht an die falsche Person geschickt."
- },
- {
-  "id": 291,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie ein Date mit einer Ausrede abgesagt."
- },
- {
-  "id": 292,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie heimlich auf jemanden aus meinem Freundeskreis gestanden."
- },
- {
-  "id": 293,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie eine Dating-App benutzt."
- },
- {
-  "id": 294,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie einen Flirt komplett falsch verstanden."
- },
- {
-  "id": 295,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie jemanden auf einer Party geküsst."
- },
- {
-  "id": 296,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie einen One-Night-Stand gehabt."
- },
- {
-  "id": 297,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie jemanden absichtlich eifersüchtig gemacht."
- },
- {
-  "id": 298,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie beim ersten Date gelogen."
- },
- {
-  "id": 299,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie eine anzügliche Nachricht verschickt."
- },
- {
-  "id": 300,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie ein freizügiges Foto von mir gemacht."
- },
- {
-  "id": 301,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie beim Küssen einen Lachanfall bekommen."
- },
- {
-  "id": 302,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie einen heimlichen Schwarm auf der Arbeit gehabt."
- },
- {
-  "id": 303,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie jemanden beim ersten Date geküsst."
- },
- {
-  "id": 304,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie eine Nachricht mitten in der Nacht bereut."
- },
- {
-  "id": 305,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie einen Kuss vor meinen Freunden verheimlicht."
- },
- {
-  "id": 306,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie ein Date vergessen."
- },
- {
-  "id": 307,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie jemanden wegen seiner Stimme attraktiv gefunden."
- },
- {
-  "id": 308,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie ein romantisches Treffen spontan verlängert."
- },
- {
-  "id": 309,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie ein peinliches Foto von mir gelöscht."
- },
- {
-  "id": 310,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie einen Korb bekommen."
- },
- {
-  "id": 311,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie mit jemandem geflirtet, um ein Getränk zu bekommen."
- },
- {
-  "id": 312,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie eine romantische Überraschung ruiniert."
- },
- {
-  "id": 313,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie jemanden geküsst, dessen Namen ich nicht kannte. Wer mag, erzählt anschließend die Geschichte."
- },
- {
-  "id": 314,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie eine peinliche Nachricht an die falsche Person geschickt. Wer mag, erzählt anschließend die Geschichte."
- },
- {
-  "id": 315,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie ein Date mit einer Ausrede abgesagt. Wer mag, erzählt anschließend die Geschichte."
- },
- {
-  "id": 316,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie heimlich auf jemanden aus meinem Freundeskreis gestanden. Wer mag, erzählt anschließend die Geschichte."
- },
- {
-  "id": 317,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie eine Dating-App benutzt. Wer mag, erzählt anschließend die Geschichte."
- },
- {
-  "id": 318,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie einen Flirt komplett falsch verstanden. Wer mag, erzählt anschließend die Geschichte."
- },
- {
-  "id": 319,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie jemanden auf einer Party geküsst. Wer mag, erzählt anschließend die Geschichte."
- },
- {
-  "id": 320,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie einen One-Night-Stand gehabt. Wer mag, erzählt anschließend die Geschichte."
- },
- {
-  "id": 321,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie jemanden absichtlich eifersüchtig gemacht. Wer mag, erzählt anschließend die Geschichte."
- },
- {
-  "id": 322,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie beim ersten Date gelogen. Wer mag, erzählt anschließend die Geschichte."
- },
- {
-  "id": 323,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie eine anzügliche Nachricht verschickt. Wer mag, erzählt anschließend die Geschichte."
- },
- {
-  "id": 324,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie ein freizügiges Foto von mir gemacht. Wer mag, erzählt anschließend die Geschichte."
- },
- {
-  "id": 325,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie beim Küssen einen Lachanfall bekommen. Wer mag, erzählt anschließend die Geschichte."
- },
- {
-  "id": 326,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie einen heimlichen Schwarm auf der Arbeit gehabt. Wer mag, erzählt anschließend die Geschichte."
- },
- {
-  "id": 327,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie jemanden beim ersten Date geküsst. Wer mag, erzählt anschließend die Geschichte."
- },
- {
-  "id": 328,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie eine Nachricht mitten in der Nacht bereut. Wer mag, erzählt anschließend die Geschichte."
- },
- {
-  "id": 329,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie einen Kuss vor meinen Freunden verheimlicht. Wer mag, erzählt anschließend die Geschichte."
- },
- {
-  "id": 330,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie ein Date vergessen. Wer mag, erzählt anschließend die Geschichte."
- },
- {
-  "id": 331,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie jemanden wegen seiner Stimme attraktiv gefunden. Wer mag, erzählt anschließend die Geschichte."
- },
- {
-  "id": 332,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie ein romantisches Treffen spontan verlängert. Wer mag, erzählt anschließend die Geschichte."
- },
- {
-  "id": 333,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie ein peinliches Foto von mir gelöscht. Wer mag, erzählt anschließend die Geschichte."
- },
- {
-  "id": 334,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie einen Korb bekommen. Wer mag, erzählt anschließend die Geschichte."
- },
- {
-  "id": 335,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie mit jemandem geflirtet, um ein Getränk zu bekommen. Wer mag, erzählt anschließend die Geschichte."
- },
- {
-  "id": 336,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie eine romantische Überraschung ruiniert. Wer mag, erzählt anschließend die Geschichte."
- },
- {
-  "id": 337,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie jemanden geküsst, dessen Namen ich nicht kannte. Wer möchte, verrät, wann das passiert ist."
- },
- {
-  "id": 338,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie eine peinliche Nachricht an die falsche Person geschickt. Wer möchte, verrät, wann das passiert ist."
- },
- {
-  "id": 339,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie ein Date mit einer Ausrede abgesagt. Wer möchte, verrät, wann das passiert ist."
- },
- {
-  "id": 340,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie heimlich auf jemanden aus meinem Freundeskreis gestanden. Wer möchte, verrät, wann das passiert ist."
- },
- {
-  "id": 341,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie eine Dating-App benutzt. Wer möchte, verrät, wann das passiert ist."
- },
- {
-  "id": 342,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie einen Flirt komplett falsch verstanden. Wer möchte, verrät, wann das passiert ist."
- },
- {
-  "id": 343,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie jemanden auf einer Party geküsst. Wer möchte, verrät, wann das passiert ist."
- },
- {
-  "id": 344,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie einen One-Night-Stand gehabt. Wer möchte, verrät, wann das passiert ist."
- },
- {
-  "id": 345,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie jemanden absichtlich eifersüchtig gemacht. Wer möchte, verrät, wann das passiert ist."
- },
- {
-  "id": 346,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie beim ersten Date gelogen. Wer möchte, verrät, wann das passiert ist."
- },
- {
-  "id": 347,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie eine anzügliche Nachricht verschickt. Wer möchte, verrät, wann das passiert ist."
- },
- {
-  "id": 348,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie ein freizügiges Foto von mir gemacht. Wer möchte, verrät, wann das passiert ist."
- },
- {
-  "id": 349,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie beim Küssen einen Lachanfall bekommen. Wer möchte, verrät, wann das passiert ist."
- },
- {
-  "id": 350,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie einen heimlichen Schwarm auf der Arbeit gehabt. Wer möchte, verrät, wann das passiert ist."
- },
- {
-  "id": 351,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie jemanden beim ersten Date geküsst. Wer möchte, verrät, wann das passiert ist."
- },
- {
-  "id": 352,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie eine Nachricht mitten in der Nacht bereut. Wer möchte, verrät, wann das passiert ist."
- },
- {
-  "id": 353,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie einen Kuss vor meinen Freunden verheimlicht. Wer möchte, verrät, wann das passiert ist."
- },
- {
-  "id": 354,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie ein Date vergessen. Wer möchte, verrät, wann das passiert ist."
- },
- {
-  "id": 355,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie jemanden wegen seiner Stimme attraktiv gefunden. Wer möchte, verrät, wann das passiert ist."
- },
- {
-  "id": 356,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie ein romantisches Treffen spontan verlängert. Wer möchte, verrät, wann das passiert ist."
- },
- {
-  "id": 357,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie ein peinliches Foto von mir gelöscht. Wer möchte, verrät, wann das passiert ist."
- },
- {
-  "id": 358,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie einen Korb bekommen. Wer möchte, verrät, wann das passiert ist."
- },
- {
-  "id": 359,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie mit jemandem geflirtet, um ein Getränk zu bekommen. Wer möchte, verrät, wann das passiert ist."
- },
- {
-  "id": 360,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie eine romantische Überraschung ruiniert. Wer möchte, verrät, wann das passiert ist."
- },
- {
-  "id": 361,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie jemanden geküsst, dessen Namen ich nicht kannte. Die Runde darf freiwillig nachfragen."
- },
- {
-  "id": 362,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie eine peinliche Nachricht an die falsche Person geschickt. Die Runde darf freiwillig nachfragen."
- },
- {
-  "id": 363,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie ein Date mit einer Ausrede abgesagt. Die Runde darf freiwillig nachfragen."
- },
- {
-  "id": 364,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie heimlich auf jemanden aus meinem Freundeskreis gestanden. Die Runde darf freiwillig nachfragen."
- },
- {
-  "id": 365,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie eine Dating-App benutzt. Die Runde darf freiwillig nachfragen."
- },
- {
-  "id": 366,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie einen Flirt komplett falsch verstanden. Die Runde darf freiwillig nachfragen."
- },
- {
-  "id": 367,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie jemanden auf einer Party geküsst. Die Runde darf freiwillig nachfragen."
- },
- {
-  "id": 368,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie einen One-Night-Stand gehabt. Die Runde darf freiwillig nachfragen."
- },
- {
-  "id": 369,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie jemanden absichtlich eifersüchtig gemacht. Die Runde darf freiwillig nachfragen."
- },
- {
-  "id": 370,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie beim ersten Date gelogen. Die Runde darf freiwillig nachfragen."
- },
- {
-  "id": 371,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie eine anzügliche Nachricht verschickt. Die Runde darf freiwillig nachfragen."
- },
- {
-  "id": 372,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie ein freizügiges Foto von mir gemacht. Die Runde darf freiwillig nachfragen."
- },
- {
-  "id": 373,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie beim Küssen einen Lachanfall bekommen. Die Runde darf freiwillig nachfragen."
- },
- {
-  "id": 374,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie einen heimlichen Schwarm auf der Arbeit gehabt. Die Runde darf freiwillig nachfragen."
- },
- {
-  "id": 375,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie jemanden beim ersten Date geküsst. Die Runde darf freiwillig nachfragen."
- },
- {
-  "id": 376,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie eine Nachricht mitten in der Nacht bereut. Die Runde darf freiwillig nachfragen."
- },
- {
-  "id": 377,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie einen Kuss vor meinen Freunden verheimlicht. Die Runde darf freiwillig nachfragen."
- },
- {
-  "id": 378,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie ein Date vergessen. Die Runde darf freiwillig nachfragen."
- },
- {
-  "id": 379,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie jemanden wegen seiner Stimme attraktiv gefunden. Die Runde darf freiwillig nachfragen."
- },
- {
-  "id": 380,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie ein romantisches Treffen spontan verlängert. Die Runde darf freiwillig nachfragen."
- },
- {
-  "id": 381,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie ein peinliches Foto von mir gelöscht. Die Runde darf freiwillig nachfragen."
- },
- {
-  "id": 382,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie einen Korb bekommen. Die Runde darf freiwillig nachfragen."
- },
- {
-  "id": 383,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie mit jemandem geflirtet, um ein Getränk zu bekommen. Die Runde darf freiwillig nachfragen."
- },
- {
-  "id": 384,
-  "category": "nie",
-  "kind": "nie",
-  "text": "Ich hab noch nie eine romantische Überraschung ruiniert. Die Runde darf freiwillig nachfragen."
- },
- {
-  "id": 385,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "Alle zeigen auf die Person, die am ehesten eine Kneipe kaufen würde."
- },
- {
-  "id": 386,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "Wer ist der größte Chaot in dieser Runde?"
- },
- {
-  "id": 387,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "Wer würde bei einem Junggesellenabschied verloren gehen?"
- },
- {
-  "id": 388,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "Wer würde bei Monopoly am ehesten ausrasten?"
- },
- {
-  "id": 389,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "Wer könnte am besten eine Lüge erzählen, ohne rot zu werden?"
- },
- {
-  "id": 390,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "Erfindet gemeinsam einen absurden Namen für eure heutige Party."
- },
- {
-  "id": 391,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "Jeder nennt ein Wort. {spieler1} muss daraus einen Satz bauen."
- },
- {
-  "id": 392,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "{spieler1} und {spieler2}: Erfindet gemeinsam einen absurden Cocktailnamen."
- },
- {
-  "id": 393,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "{spieler1}: Bewirb dich als professioneller Partygast."
- },
- {
-  "id": 394,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "{spieler1}: Präsentiere eine nutzlose Erfindung."
- },
- {
-  "id": 395,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "{spieler1}: Verkaufe einen gebrauchten Kaugummi als Luxusprodukt."
- },
- {
-  "id": 396,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "{spieler1}: Halte eine Pressekonferenz über das Verbot von Montagen."
- },
- {
-  "id": 397,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "Alle machen ein Pokerface. Wer zuerst lacht, verliert."
- },
- {
-  "id": 398,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "Alle nennen einen Filmtitel, der zu {spieler1} passt."
- },
- {
-  "id": 399,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "Wer wäre der schlechteste Bürgermeister dieser Runde?"
- },
- {
-  "id": 400,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "Wer wäre in einer Zombie-Apokalypse als Erstes verloren?"
- },
- {
-  "id": 401,
-  "category": "chaos",
-  "kind": "schluck",
-  "text": "Alle, die schon einmal eine Überraschung verraten haben, nehmen freiwillig einen Schluck."
- },
- {
-  "id": 402,
-  "category": "chaos",
-  "kind": "schluck",
-  "text": "Alle, die schon einmal eine Verabredung vergessen haben, nehmen freiwillig einen Schluck."
- },
- {
-  "id": 403,
-  "category": "chaos",
-  "kind": "schluck",
-  "text": "Alle, die schon einmal einen kompletten Abend durchgefeiert haben, nehmen freiwillig einen Schluck."
- },
- {
-  "id": 404,
-  "category": "chaos",
-  "kind": "shot",
-  "text": "Wer heute die lustigste Geschichte erzählt hat, darf einen Shot wählen."
- },
- {
-  "id": 405,
-  "category": "chaos",
-  "kind": "shot",
-  "text": "Wer am ehesten eine Party bis morgens durchzieht, darf einen Shot wählen."
- },
- {
-  "id": 406,
-  "category": "chaos",
-  "kind": "shot",
-  "text": "{spieler1}: Nenne fünf deutsche Städte in zehn Sekunden. Sonst kannst du einen Shot wählen."
- },
- {
-  "id": 407,
-  "category": "chaos",
-  "kind": "shot",
-  "text": "{spieler1}: Sage dreimal schnell „Fischers Fritz fischt frische Fische“. Bei einem Fehler kannst du einen Shot wählen."
- },
- {
-  "id": 408,
-  "category": "chaos",
-  "kind": "glas",
-  "text": "Wer schon einmal eine Feier völlig falsch verstanden hat, darf einen kleinen Schluck aus dem Glas wählen."
- },
- {
-  "id": 409,
-  "category": "chaos",
-  "kind": "glas",
-  "text": "Wer schon einmal nach einer Feier eine absurde Geschichte erzählen musste, darf einen kleinen Schluck aus dem Glas wählen."
- },
- {
-  "id": 410,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "Alle zeigen auf die Person, die am ehesten eine Kneipe kaufen würde. Die Gruppe stimmt anschließend über das Ergebnis ab."
- },
- {
-  "id": 411,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "Wer ist der größte Chaot in dieser Runde? Die Gruppe stimmt anschließend über das Ergebnis ab."
- },
- {
-  "id": 412,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "Wer würde bei einem Junggesellenabschied verloren gehen? Die Gruppe stimmt anschließend über das Ergebnis ab."
- },
- {
-  "id": 413,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "Wer würde bei Monopoly am ehesten ausrasten? Die Gruppe stimmt anschließend über das Ergebnis ab."
- },
- {
-  "id": 414,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "Wer könnte am besten eine Lüge erzählen, ohne rot zu werden? Die Gruppe stimmt anschließend über das Ergebnis ab."
- },
- {
-  "id": 415,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "Erfindet gemeinsam einen absurden Namen für eure heutige Party. Die Gruppe stimmt anschließend über das Ergebnis ab."
- },
- {
-  "id": 416,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "Jeder nennt ein Wort. {spieler1} muss daraus einen Satz bauen. Die Gruppe stimmt anschließend über das Ergebnis ab."
- },
- {
-  "id": 417,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "{spieler1} und {spieler2}: Erfindet gemeinsam einen absurden Cocktailnamen. Die Gruppe stimmt anschließend über das Ergebnis ab."
- },
- {
-  "id": 418,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "{spieler1}: Bewirb dich als professioneller Partygast. Die Gruppe stimmt anschließend über das Ergebnis ab."
- },
- {
-  "id": 419,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "{spieler1}: Präsentiere eine nutzlose Erfindung. Die Gruppe stimmt anschließend über das Ergebnis ab."
- },
- {
-  "id": 420,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "{spieler1}: Verkaufe einen gebrauchten Kaugummi als Luxusprodukt. Die Gruppe stimmt anschließend über das Ergebnis ab."
- },
- {
-  "id": 421,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "{spieler1}: Halte eine Pressekonferenz über das Verbot von Montagen. Die Gruppe stimmt anschließend über das Ergebnis ab."
- },
- {
-  "id": 422,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "Alle machen ein Pokerface. Wer zuerst lacht, verliert. Die Gruppe stimmt anschließend über das Ergebnis ab."
- },
- {
-  "id": 423,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "Alle nennen einen Filmtitel, der zu {spieler1} passt. Die Gruppe stimmt anschließend über das Ergebnis ab."
- },
- {
-  "id": 424,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "Wer wäre der schlechteste Bürgermeister dieser Runde? Die Gruppe stimmt anschließend über das Ergebnis ab."
- },
- {
-  "id": 425,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "Wer wäre in einer Zombie-Apokalypse als Erstes verloren? Die Gruppe stimmt anschließend über das Ergebnis ab."
- },
- {
-  "id": 426,
-  "category": "chaos",
-  "kind": "schluck",
-  "text": "Alle, die schon einmal eine Überraschung verraten haben, nehmen freiwillig einen Schluck. Die Gruppe stimmt anschließend über das Ergebnis ab."
- },
- {
-  "id": 427,
-  "category": "chaos",
-  "kind": "schluck",
-  "text": "Alle, die schon einmal eine Verabredung vergessen haben, nehmen freiwillig einen Schluck. Die Gruppe stimmt anschließend über das Ergebnis ab."
- },
- {
-  "id": 428,
-  "category": "chaos",
-  "kind": "schluck",
-  "text": "Alle, die schon einmal einen kompletten Abend durchgefeiert haben, nehmen freiwillig einen Schluck. Die Gruppe stimmt anschließend über das Ergebnis ab."
- },
- {
-  "id": 429,
-  "category": "chaos",
-  "kind": "shot",
-  "text": "Wer heute die lustigste Geschichte erzählt hat, darf einen Shot wählen. Die Gruppe stimmt anschließend über das Ergebnis ab."
- },
- {
-  "id": 430,
-  "category": "chaos",
-  "kind": "shot",
-  "text": "Wer am ehesten eine Party bis morgens durchzieht, darf einen Shot wählen. Die Gruppe stimmt anschließend über das Ergebnis ab."
- },
- {
-  "id": 431,
-  "category": "chaos",
-  "kind": "shot",
-  "text": "{spieler1}: Nenne fünf deutsche Städte in zehn Sekunden. Sonst kannst du einen Shot wählen. Die Gruppe stimmt anschließend über das Ergebnis ab."
- },
- {
-  "id": 432,
-  "category": "chaos",
-  "kind": "shot",
-  "text": "{spieler1}: Sage dreimal schnell „Fischers Fritz fischt frische Fische“. Bei einem Fehler kannst du einen Shot wählen. Die Gruppe stimmt anschließend über das Ergebnis ab."
- },
- {
-  "id": 433,
-  "category": "chaos",
-  "kind": "glas",
-  "text": "Wer schon einmal eine Feier völlig falsch verstanden hat, darf einen kleinen Schluck aus dem Glas wählen. Die Gruppe stimmt anschließend über das Ergebnis ab."
- },
- {
-  "id": 434,
-  "category": "chaos",
-  "kind": "glas",
-  "text": "Wer schon einmal nach einer Feier eine absurde Geschichte erzählen musste, darf einen kleinen Schluck aus dem Glas wählen. Die Gruppe stimmt anschließend über das Ergebnis ab."
- },
- {
-  "id": 435,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "Alle zeigen auf die Person, die am ehesten eine Kneipe kaufen würde. Zeitlimit: 20 Sekunden."
- },
- {
-  "id": 436,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "Wer ist der größte Chaot in dieser Runde? Zeitlimit: 20 Sekunden."
- },
- {
-  "id": 437,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "Wer würde bei einem Junggesellenabschied verloren gehen? Zeitlimit: 20 Sekunden."
- },
- {
-  "id": 438,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "Wer würde bei Monopoly am ehesten ausrasten? Zeitlimit: 20 Sekunden."
- },
- {
-  "id": 439,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "Wer könnte am besten eine Lüge erzählen, ohne rot zu werden? Zeitlimit: 20 Sekunden."
- },
- {
-  "id": 440,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "Erfindet gemeinsam einen absurden Namen für eure heutige Party. Zeitlimit: 20 Sekunden."
- },
- {
-  "id": 441,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "Jeder nennt ein Wort. {spieler1} muss daraus einen Satz bauen. Zeitlimit: 20 Sekunden."
- },
- {
-  "id": 442,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "{spieler1} und {spieler2}: Erfindet gemeinsam einen absurden Cocktailnamen. Zeitlimit: 20 Sekunden."
- },
- {
-  "id": 443,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "{spieler1}: Bewirb dich als professioneller Partygast. Zeitlimit: 20 Sekunden."
- },
- {
-  "id": 444,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "{spieler1}: Präsentiere eine nutzlose Erfindung. Zeitlimit: 20 Sekunden."
- },
- {
-  "id": 445,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "{spieler1}: Verkaufe einen gebrauchten Kaugummi als Luxusprodukt. Zeitlimit: 20 Sekunden."
- },
- {
-  "id": 446,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "{spieler1}: Halte eine Pressekonferenz über das Verbot von Montagen. Zeitlimit: 20 Sekunden."
- },
- {
-  "id": 447,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "Alle machen ein Pokerface. Wer zuerst lacht, verliert. Zeitlimit: 20 Sekunden."
- },
- {
-  "id": 448,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "Alle nennen einen Filmtitel, der zu {spieler1} passt. Zeitlimit: 20 Sekunden."
- },
- {
-  "id": 449,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "Wer wäre der schlechteste Bürgermeister dieser Runde? Zeitlimit: 20 Sekunden."
- },
- {
-  "id": 450,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "Wer wäre in einer Zombie-Apokalypse als Erstes verloren? Zeitlimit: 20 Sekunden."
- },
- {
-  "id": 451,
-  "category": "chaos",
-  "kind": "schluck",
-  "text": "Alle, die schon einmal eine Überraschung verraten haben, nehmen freiwillig einen Schluck. Zeitlimit: 20 Sekunden."
- },
- {
-  "id": 452,
-  "category": "chaos",
-  "kind": "schluck",
-  "text": "Alle, die schon einmal eine Verabredung vergessen haben, nehmen freiwillig einen Schluck. Zeitlimit: 20 Sekunden."
- },
- {
-  "id": 453,
-  "category": "chaos",
-  "kind": "schluck",
-  "text": "Alle, die schon einmal einen kompletten Abend durchgefeiert haben, nehmen freiwillig einen Schluck. Zeitlimit: 20 Sekunden."
- },
- {
-  "id": 454,
-  "category": "chaos",
-  "kind": "shot",
-  "text": "Wer heute die lustigste Geschichte erzählt hat, darf einen Shot wählen. Zeitlimit: 20 Sekunden."
- },
- {
-  "id": 455,
-  "category": "chaos",
-  "kind": "shot",
-  "text": "Wer am ehesten eine Party bis morgens durchzieht, darf einen Shot wählen. Zeitlimit: 20 Sekunden."
- },
- {
-  "id": 456,
-  "category": "chaos",
-  "kind": "shot",
-  "text": "{spieler1}: Nenne fünf deutsche Städte in zehn Sekunden. Sonst kannst du einen Shot wählen. Zeitlimit: 20 Sekunden."
- },
- {
-  "id": 457,
-  "category": "chaos",
-  "kind": "shot",
-  "text": "{spieler1}: Sage dreimal schnell „Fischers Fritz fischt frische Fische“. Bei einem Fehler kannst du einen Shot wählen. Zeitlimit: 20 Sekunden."
- },
- {
-  "id": 458,
-  "category": "chaos",
-  "kind": "glas",
-  "text": "Wer schon einmal eine Feier völlig falsch verstanden hat, darf einen kleinen Schluck aus dem Glas wählen. Zeitlimit: 20 Sekunden."
- },
- {
-  "id": 459,
-  "category": "chaos",
-  "kind": "glas",
-  "text": "Wer schon einmal nach einer Feier eine absurde Geschichte erzählen musste, darf einen kleinen Schluck aus dem Glas wählen. Zeitlimit: 20 Sekunden."
- },
- {
-  "id": 460,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "Alle zeigen auf die Person, die am ehesten eine Kneipe kaufen würde. Alle dürfen einen Kommentar dazu abgeben."
- },
- {
-  "id": 461,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "Wer ist der größte Chaot in dieser Runde? Alle dürfen einen Kommentar dazu abgeben."
- },
- {
-  "id": 462,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "Wer würde bei einem Junggesellenabschied verloren gehen? Alle dürfen einen Kommentar dazu abgeben."
- },
- {
-  "id": 463,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "Wer würde bei Monopoly am ehesten ausrasten? Alle dürfen einen Kommentar dazu abgeben."
- },
- {
-  "id": 464,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "Wer könnte am besten eine Lüge erzählen, ohne rot zu werden? Alle dürfen einen Kommentar dazu abgeben."
- },
- {
-  "id": 465,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "Erfindet gemeinsam einen absurden Namen für eure heutige Party. Alle dürfen einen Kommentar dazu abgeben."
- },
- {
-  "id": 466,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "Jeder nennt ein Wort. {spieler1} muss daraus einen Satz bauen. Alle dürfen einen Kommentar dazu abgeben."
- },
- {
-  "id": 467,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "{spieler1} und {spieler2}: Erfindet gemeinsam einen absurden Cocktailnamen. Alle dürfen einen Kommentar dazu abgeben."
- },
- {
-  "id": 468,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "{spieler1}: Bewirb dich als professioneller Partygast. Alle dürfen einen Kommentar dazu abgeben."
- },
- {
-  "id": 469,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "{spieler1}: Präsentiere eine nutzlose Erfindung. Alle dürfen einen Kommentar dazu abgeben."
- },
- {
-  "id": 470,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "{spieler1}: Verkaufe einen gebrauchten Kaugummi als Luxusprodukt. Alle dürfen einen Kommentar dazu abgeben."
- },
- {
-  "id": 471,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "{spieler1}: Halte eine Pressekonferenz über das Verbot von Montagen. Alle dürfen einen Kommentar dazu abgeben."
- },
- {
-  "id": 472,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "Alle machen ein Pokerface. Wer zuerst lacht, verliert. Alle dürfen einen Kommentar dazu abgeben."
- },
- {
-  "id": 473,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "Alle nennen einen Filmtitel, der zu {spieler1} passt. Alle dürfen einen Kommentar dazu abgeben."
- },
- {
-  "id": 474,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "Wer wäre der schlechteste Bürgermeister dieser Runde? Alle dürfen einen Kommentar dazu abgeben."
- },
- {
-  "id": 475,
-  "category": "chaos",
-  "kind": "frage",
-  "text": "Wer wäre in einer Zombie-Apokalypse als Erstes verloren? Alle dürfen einen Kommentar dazu abgeben."
- },
- {
-  "id": 476,
-  "category": "paare",
-  "kind": "frage",
-  "text": "{spieler1}, was findest du an deinem Partner besonders attraktiv?"
- },
- {
-  "id": 477,
-  "category": "paare",
-  "kind": "frage",
-  "text": "Wer von euch beiden hat beim Kennenlernen den ersten Schritt gemacht?"
- },
- {
-  "id": 478,
-  "category": "paare",
-  "kind": "frage",
-  "text": "{spieler1}, was würdest du gern einmal mit deinem Partner unternehmen?"
- },
- {
-  "id": 479,
-  "category": "paare",
-  "kind": "frage",
-  "text": "Wer von euch beiden ist romantischer?"
- },
- {
-  "id": 480,
-  "category": "paare",
-  "kind": "frage",
-  "text": "{spieler1}, gib deinem Partner einen Kuss, wenn ihr beide möchtet."
- },
- {
-  "id": 481,
-  "category": "paare",
-  "kind": "frage",
-  "text": "Wer von euch beiden plant eher eine Überraschung?"
- },
- {
-  "id": 482,
-  "category": "paare",
-  "kind": "frage",
-  "text": "{spieler1}, was war euer aufregendstes gemeinsames Erlebnis?"
- },
- {
-  "id": 483,
-  "category": "paare",
-  "kind": "frage",
-  "text": "Wer von euch beiden kann schlechter Geheimnisse bewahren?"
- },
- {
-  "id": 484,
-  "category": "paare",
-  "kind": "frage",
-  "text": "{spieler1}, flüstere deinem Partner ein freches Kompliment zu, wenn ihr beide möchtet."
- },
- {
-  "id": 485,
-  "category": "paare",
-  "kind": "frage",
-  "text": "Wer von euch beiden ist beim Küssen leidenschaftlicher?"
- },
- {
-  "id": 486,
-  "category": "paare",
-  "kind": "frage",
-  "text": "{spieler1}, was war dein erster Gedanke über deinen Partner?"
- },
- {
-  "id": 487,
-  "category": "paare",
-  "kind": "schluck",
-  "text": "Wenn ihr euch schon einmal wegen einer Kleinigkeit gestritten habt, dürft ihr beide einen Schluck nehmen."
- },
- {
-  "id": 488,
-  "category": "paare",
-  "kind": "frage",
-  "text": "{spieler1}, gib deinem Partner einen Stirnkuss, wenn ihr beide möchtet."
- },
- {
-  "id": 489,
-  "category": "paare",
-  "kind": "frage",
-  "text": "Wer von euch beiden ist morgens schlechter gelaunt?"
- },
- {
-  "id": 490,
-  "category": "paare",
-  "kind": "shot",
-  "text": "Wer von euch beiden hat beim ersten Date mehr geredet? Ihr könnt freiwillig einen Shot wählen."
- },
- {
-  "id": 491,
-  "category": "paare",
-  "kind": "frage",
-  "text": "{spieler1}, was findest du an deinem Partner besonders verführerisch?"
- },
- {
-  "id": 492,
-  "category": "paare",
-  "kind": "schluck",
-  "text": "Wenn ihr schon einmal heimlich ein Geschenk vorbereitet habt, dürft ihr beide einen Schluck nehmen."
- },
- {
-  "id": 493,
-  "category": "paare",
-  "kind": "frage",
-  "text": "Wer von euch beiden würde eher einen Kurzurlaub planen?"
- },
- {
-  "id": 494,
-  "category": "paare",
-  "kind": "frage",
-  "text": "{spieler1}, welche gemeinsame Erinnerung bringt dich zum Grinsen?"
- },
- {
-  "id": 495,
-  "category": "paare",
-  "kind": "glas",
-  "text": "Wenn ihr gemeinsam etwas Peinliches erlebt habt, dürft ihr einen kleinen Schluck aus dem Glas wählen."
- },
- {
-  "id": 496,
-  "category": "paare",
-  "kind": "frage",
-  "text": "{spieler1}, verrate deinem Partner einen Wunsch für euer nächstes Date."
- },
- {
-  "id": 497,
-  "category": "paare",
-  "kind": "frage",
-  "text": "{spieler1}, welches gemeinsame Erlebnis würdest du gerne wiederholen?"
- },
- {
-  "id": 498,
-  "category": "paare",
-  "kind": "frage",
-  "text": "{spieler1}, sag deinem Partner etwas, das du ihm zu selten sagst."
- },
- {
-  "id": 499,
-  "category": "paare",
-  "kind": "frage",
-  "text": "Wenn ihr beide Lust habt, umarmt euch für zehn Sekunden."
- },
- {
-  "id": 500,
-  "category": "paare",
-  "kind": "frage",
-  "text": "{spieler1}, welches Abenteuer würdest du gerne gemeinsam erleben?"
- }
+  {
+    "id": 1,
+    "category": "party",
+    "kind": "frage",
+    "text": "Imitiere eine Person aus der Runde, ohne ihren Namen zu nennen."
+  },
+  {
+    "id": 2,
+    "category": "party",
+    "kind": "frage",
+    "text": "Erfinde einen Werbeslogan für {spieler2}."
+  },
+  {
+    "id": 3,
+    "category": "party",
+    "kind": "frage",
+    "text": "Erzähle deinen schlechtesten Witz."
+  },
+  {
+    "id": 4,
+    "category": "party",
+    "kind": "frage",
+    "text": "Führe zehn Sekunden lang deinen schlimmsten Tanzmove vor."
+  },
+  {
+    "id": 5,
+    "category": "party",
+    "kind": "frage",
+    "text": "Halte eine Oscar-Rede für einen völlig unnötigen Preis."
+  },
+  {
+    "id": 6,
+    "category": "party",
+    "kind": "frage",
+    "text": "Erkläre einem Außerirdischen, was eine Kneipe ist."
+  },
+  {
+    "id": 7,
+    "category": "party",
+    "kind": "frage",
+    "text": "Verkaufe der Gruppe einen unsichtbaren Staubsauger."
+  },
+  {
+    "id": 8,
+    "category": "party",
+    "kind": "frage",
+    "text": "Beschreibe {spieler2} wie einen Gebrauchtwagen."
+  },
+  {
+    "id": 9,
+    "category": "party",
+    "kind": "frage",
+    "text": "Erfinde einen neuen Feiertag und seine Regeln."
+  },
+  {
+    "id": 10,
+    "category": "party",
+    "kind": "frage",
+    "text": "Halte eine leidenschaftliche Rede über Kartoffeln."
+  },
+  {
+    "id": 11,
+    "category": "party",
+    "kind": "frage",
+    "text": "Spiele einen Barkeeper, der alle Bestellungen falsch versteht."
+  },
+  {
+    "id": 12,
+    "category": "party",
+    "kind": "frage",
+    "text": "Präsentiere die Gruppe als Fußballmannschaft."
+  },
+  {
+    "id": 13,
+    "category": "party",
+    "kind": "frage",
+    "text": "Erfinde einen absurd schlechten Anmachspruch."
+  },
+  {
+    "id": 14,
+    "category": "party",
+    "kind": "frage",
+    "text": "Welche berühmte Person würdest du gern auf diese Party holen?"
+  },
+  {
+    "id": 15,
+    "category": "party",
+    "kind": "frage",
+    "text": "Welches Lied bringt dich sofort auf die Tanzfläche?"
+  },
+  {
+    "id": 16,
+    "category": "party",
+    "kind": "frage",
+    "text": "Was war dein unnötigster Kauf?"
+  },
+  {
+    "id": 17,
+    "category": "party",
+    "kind": "frage",
+    "text": "Was ist dein völlig nutzloses Talent?"
+  },
+  {
+    "id": 18,
+    "category": "party",
+    "kind": "frage",
+    "text": "Erzähle deinen lustigsten Versprecher."
+  },
+  {
+    "id": 19,
+    "category": "party",
+    "kind": "frage",
+    "text": "Wer aus der Runde würde eine Quizshow als Erstes verlieren?"
+  },
+  {
+    "id": 20,
+    "category": "party",
+    "kind": "frage",
+    "text": "Wer würde am ehesten auf einer Hochzeit Karaoke singen?"
+  },
+  {
+    "id": 21,
+    "category": "party",
+    "kind": "schluck",
+    "text": "Alle, die schon einmal auf einer Party eingeschlafen sind, nehmen freiwillig einen Schluck."
+  },
+  {
+    "id": 22,
+    "category": "party",
+    "kind": "schluck",
+    "text": "Alle, die schon einmal beim Tanzen hingefallen sind, nehmen freiwillig einen Schluck."
+  },
+  {
+    "id": 23,
+    "category": "party",
+    "kind": "schluck",
+    "text": "Wer schon einmal seine Jacke auf einer Feier vergessen hat, nimmt freiwillig einen Schluck."
+  },
+  {
+    "id": 24,
+    "category": "party",
+    "kind": "schluck",
+    "text": "Wer schon einmal ein Getränk vor Lachen verschüttet hat, nimmt freiwillig einen Schluck."
+  },
+  {
+    "id": 25,
+    "category": "party",
+    "kind": "shot",
+    "text": "Nenne fünf Dinge, die in einer Kneipe stehen. Wenn du scheiterst, kannst du einen Shot wählen."
+  },
+  {
+    "id": 26,
+    "category": "party",
+    "kind": "shot",
+    "text": "Erfinde einen Trinkspruch für die Gruppe. Anschließend darfst du einen Shot wählen."
+  },
+  {
+    "id": 27,
+    "category": "party",
+    "kind": "shot",
+    "text": "Wer heute als Letztes angekommen ist, darf einen Shot wählen."
+  },
+  {
+    "id": 28,
+    "category": "party",
+    "kind": "glas",
+    "text": "Wer schon einmal etwas auf einer Party verloren hat, darf einen kleinen Schluck aus dem Glas wählen."
+  },
+  {
+    "id": 29,
+    "category": "party",
+    "kind": "glas",
+    "text": "Wer schon einmal eine völlig verrückte Partynacht erlebt hat, darf einen kleinen Schluck aus dem Glas wählen."
+  },
+  {
+    "id": 30,
+    "category": "party",
+    "kind": "shot",
+    "text": "Wer hat heute die auffälligsten Schuhe? Diese Person darf einen Shot wählen."
+  },
+  {
+    "id": 31,
+    "category": "party",
+    "kind": "frage",
+    "text": "Imitiere eine Person aus der Runde, ohne ihren Namen zu nennen. Bonus: Die Gruppe darf eine Rückfrage stellen."
+  },
+  {
+    "id": 32,
+    "category": "party",
+    "kind": "frage",
+    "text": "Erfinde einen Werbeslogan für {spieler2}. Bonus: Die Gruppe darf eine Rückfrage stellen."
+  },
+  {
+    "id": 33,
+    "category": "party",
+    "kind": "frage",
+    "text": "Erzähle deinen schlechtesten Witz. Bonus: Die Gruppe darf eine Rückfrage stellen."
+  },
+  {
+    "id": 34,
+    "category": "party",
+    "kind": "frage",
+    "text": "Führe zehn Sekunden lang deinen schlimmsten Tanzmove vor. Bonus: Die Gruppe darf eine Rückfrage stellen."
+  },
+  {
+    "id": 35,
+    "category": "party",
+    "kind": "frage",
+    "text": "Halte eine Oscar-Rede für einen völlig unnötigen Preis. Bonus: Die Gruppe darf eine Rückfrage stellen."
+  },
+  {
+    "id": 36,
+    "category": "party",
+    "kind": "frage",
+    "text": "Erkläre einem Außerirdischen, was eine Kneipe ist. Bonus: Die Gruppe darf eine Rückfrage stellen."
+  },
+  {
+    "id": 37,
+    "category": "party",
+    "kind": "frage",
+    "text": "Verkaufe der Gruppe einen unsichtbaren Staubsauger. Bonus: Die Gruppe darf eine Rückfrage stellen."
+  },
+  {
+    "id": 38,
+    "category": "party",
+    "kind": "frage",
+    "text": "Beschreibe {spieler2} wie einen Gebrauchtwagen. Bonus: Die Gruppe darf eine Rückfrage stellen."
+  },
+  {
+    "id": 39,
+    "category": "party",
+    "kind": "frage",
+    "text": "Erfinde einen neuen Feiertag und seine Regeln. Bonus: Die Gruppe darf eine Rückfrage stellen."
+  },
+  {
+    "id": 40,
+    "category": "party",
+    "kind": "frage",
+    "text": "Halte eine leidenschaftliche Rede über Kartoffeln. Bonus: Die Gruppe darf eine Rückfrage stellen."
+  },
+  {
+    "id": 41,
+    "category": "party",
+    "kind": "frage",
+    "text": "Spiele einen Barkeeper, der alle Bestellungen falsch versteht. Bonus: Die Gruppe darf eine Rückfrage stellen."
+  },
+  {
+    "id": 42,
+    "category": "party",
+    "kind": "frage",
+    "text": "Präsentiere die Gruppe als Fußballmannschaft. Bonus: Die Gruppe darf eine Rückfrage stellen."
+  },
+  {
+    "id": 43,
+    "category": "party",
+    "kind": "frage",
+    "text": "Erfinde einen absurd schlechten Anmachspruch. Bonus: Die Gruppe darf eine Rückfrage stellen."
+  },
+  {
+    "id": 44,
+    "category": "party",
+    "kind": "frage",
+    "text": "Welche berühmte Person würdest du gern auf diese Party holen? Bonus: Die Gruppe darf eine Rückfrage stellen."
+  },
+  {
+    "id": 45,
+    "category": "party",
+    "kind": "frage",
+    "text": "Welches Lied bringt dich sofort auf die Tanzfläche? Bonus: Die Gruppe darf eine Rückfrage stellen."
+  },
+  {
+    "id": 46,
+    "category": "party",
+    "kind": "frage",
+    "text": "Was war dein unnötigster Kauf? Bonus: Die Gruppe darf eine Rückfrage stellen."
+  },
+  {
+    "id": 47,
+    "category": "party",
+    "kind": "frage",
+    "text": "Was ist dein völlig nutzloses Talent? Bonus: Die Gruppe darf eine Rückfrage stellen."
+  },
+  {
+    "id": 48,
+    "category": "party",
+    "kind": "frage",
+    "text": "Erzähle deinen lustigsten Versprecher. Bonus: Die Gruppe darf eine Rückfrage stellen."
+  },
+  {
+    "id": 49,
+    "category": "party",
+    "kind": "frage",
+    "text": "Wer aus der Runde würde eine Quizshow als Erstes verlieren? Bonus: Die Gruppe darf eine Rückfrage stellen."
+  },
+  {
+    "id": 50,
+    "category": "party",
+    "kind": "frage",
+    "text": "Wer würde am ehesten auf einer Hochzeit Karaoke singen? Bonus: Die Gruppe darf eine Rückfrage stellen."
+  },
+  {
+    "id": 51,
+    "category": "party",
+    "kind": "schluck",
+    "text": "Alle, die schon einmal auf einer Party eingeschlafen sind, nehmen freiwillig einen Schluck. Bonus: Die Gruppe darf eine Rückfrage stellen."
+  },
+  {
+    "id": 52,
+    "category": "party",
+    "kind": "schluck",
+    "text": "Alle, die schon einmal beim Tanzen hingefallen sind, nehmen freiwillig einen Schluck. Bonus: Die Gruppe darf eine Rückfrage stellen."
+  },
+  {
+    "id": 53,
+    "category": "party",
+    "kind": "schluck",
+    "text": "Wer schon einmal seine Jacke auf einer Feier vergessen hat, nimmt freiwillig einen Schluck. Bonus: Die Gruppe darf eine Rückfrage stellen."
+  },
+  {
+    "id": 54,
+    "category": "party",
+    "kind": "schluck",
+    "text": "Wer schon einmal ein Getränk vor Lachen verschüttet hat, nimmt freiwillig einen Schluck. Bonus: Die Gruppe darf eine Rückfrage stellen."
+  },
+  {
+    "id": 55,
+    "category": "party",
+    "kind": "shot",
+    "text": "Nenne fünf Dinge, die in einer Kneipe stehen. Wenn du scheiterst, kannst du einen Shot wählen. Bonus: Die Gruppe darf eine Rückfrage stellen."
+  },
+  {
+    "id": 56,
+    "category": "party",
+    "kind": "shot",
+    "text": "Erfinde einen Trinkspruch für die Gruppe. Anschließend darfst du einen Shot wählen. Bonus: Die Gruppe darf eine Rückfrage stellen."
+  },
+  {
+    "id": 57,
+    "category": "party",
+    "kind": "shot",
+    "text": "Wer heute als Letztes angekommen ist, darf einen Shot wählen. Bonus: Die Gruppe darf eine Rückfrage stellen."
+  },
+  {
+    "id": 58,
+    "category": "party",
+    "kind": "glas",
+    "text": "Wer schon einmal etwas auf einer Party verloren hat, darf einen kleinen Schluck aus dem Glas wählen. Bonus: Die Gruppe darf eine Rückfrage stellen."
+  },
+  {
+    "id": 59,
+    "category": "party",
+    "kind": "glas",
+    "text": "Wer schon einmal eine völlig verrückte Partynacht erlebt hat, darf einen kleinen Schluck aus dem Glas wählen. Bonus: Die Gruppe darf eine Rückfrage stellen."
+  },
+  {
+    "id": 60,
+    "category": "party",
+    "kind": "shot",
+    "text": "Wer hat heute die auffälligsten Schuhe? Diese Person darf einen Shot wählen. Bonus: Die Gruppe darf eine Rückfrage stellen."
+  },
+  {
+    "id": 61,
+    "category": "party",
+    "kind": "frage",
+    "text": "Imitiere eine Person aus der Runde, ohne ihren Namen zu nennen. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
+  },
+  {
+    "id": 62,
+    "category": "party",
+    "kind": "frage",
+    "text": "Erfinde einen Werbeslogan für {spieler2}. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
+  },
+  {
+    "id": 63,
+    "category": "party",
+    "kind": "frage",
+    "text": "Erzähle deinen schlechtesten Witz. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
+  },
+  {
+    "id": 64,
+    "category": "party",
+    "kind": "frage",
+    "text": "Führe zehn Sekunden lang deinen schlimmsten Tanzmove vor. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
+  },
+  {
+    "id": 65,
+    "category": "party",
+    "kind": "frage",
+    "text": "Halte eine Oscar-Rede für einen völlig unnötigen Preis. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
+  },
+  {
+    "id": 66,
+    "category": "party",
+    "kind": "frage",
+    "text": "Erkläre einem Außerirdischen, was eine Kneipe ist. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
+  },
+  {
+    "id": 67,
+    "category": "party",
+    "kind": "frage",
+    "text": "Verkaufe der Gruppe einen unsichtbaren Staubsauger. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
+  },
+  {
+    "id": 68,
+    "category": "party",
+    "kind": "frage",
+    "text": "Beschreibe {spieler2} wie einen Gebrauchtwagen. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
+  },
+  {
+    "id": 69,
+    "category": "party",
+    "kind": "frage",
+    "text": "Erfinde einen neuen Feiertag und seine Regeln. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
+  },
+  {
+    "id": 70,
+    "category": "party",
+    "kind": "frage",
+    "text": "Halte eine leidenschaftliche Rede über Kartoffeln. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
+  },
+  {
+    "id": 71,
+    "category": "party",
+    "kind": "frage",
+    "text": "Spiele einen Barkeeper, der alle Bestellungen falsch versteht. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
+  },
+  {
+    "id": 72,
+    "category": "party",
+    "kind": "frage",
+    "text": "Präsentiere die Gruppe als Fußballmannschaft. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
+  },
+  {
+    "id": 73,
+    "category": "party",
+    "kind": "frage",
+    "text": "Erfinde einen absurd schlechten Anmachspruch. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
+  },
+  {
+    "id": 74,
+    "category": "party",
+    "kind": "frage",
+    "text": "Welche berühmte Person würdest du gern auf diese Party holen? Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
+  },
+  {
+    "id": 75,
+    "category": "party",
+    "kind": "frage",
+    "text": "Welches Lied bringt dich sofort auf die Tanzfläche? Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
+  },
+  {
+    "id": 76,
+    "category": "party",
+    "kind": "frage",
+    "text": "Was war dein unnötigster Kauf? Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
+  },
+  {
+    "id": 77,
+    "category": "party",
+    "kind": "frage",
+    "text": "Was ist dein völlig nutzloses Talent? Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
+  },
+  {
+    "id": 78,
+    "category": "party",
+    "kind": "frage",
+    "text": "Erzähle deinen lustigsten Versprecher. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
+  },
+  {
+    "id": 79,
+    "category": "party",
+    "kind": "frage",
+    "text": "Wer aus der Runde würde eine Quizshow als Erstes verlieren? Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
+  },
+  {
+    "id": 80,
+    "category": "party",
+    "kind": "frage",
+    "text": "Wer würde am ehesten auf einer Hochzeit Karaoke singen? Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
+  },
+  {
+    "id": 81,
+    "category": "party",
+    "kind": "schluck",
+    "text": "Alle, die schon einmal auf einer Party eingeschlafen sind, nehmen freiwillig einen Schluck. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
+  },
+  {
+    "id": 82,
+    "category": "party",
+    "kind": "schluck",
+    "text": "Alle, die schon einmal beim Tanzen hingefallen sind, nehmen freiwillig einen Schluck. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
+  },
+  {
+    "id": 83,
+    "category": "party",
+    "kind": "schluck",
+    "text": "Wer schon einmal seine Jacke auf einer Feier vergessen hat, nimmt freiwillig einen Schluck. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
+  },
+  {
+    "id": 84,
+    "category": "party",
+    "kind": "schluck",
+    "text": "Wer schon einmal ein Getränk vor Lachen verschüttet hat, nimmt freiwillig einen Schluck. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
+  },
+  {
+    "id": 85,
+    "category": "party",
+    "kind": "shot",
+    "text": "Nenne fünf Dinge, die in einer Kneipe stehen. Wenn du scheiterst, kannst du einen Shot wählen. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
+  },
+  {
+    "id": 86,
+    "category": "party",
+    "kind": "shot",
+    "text": "Erfinde einen Trinkspruch für die Gruppe. Anschließend darfst du einen Shot wählen. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
+  },
+  {
+    "id": 87,
+    "category": "party",
+    "kind": "shot",
+    "text": "Wer heute als Letztes angekommen ist, darf einen Shot wählen. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
+  },
+  {
+    "id": 88,
+    "category": "party",
+    "kind": "glas",
+    "text": "Wer schon einmal etwas auf einer Party verloren hat, darf einen kleinen Schluck aus dem Glas wählen. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
+  },
+  {
+    "id": 89,
+    "category": "party",
+    "kind": "glas",
+    "text": "Wer schon einmal eine völlig verrückte Partynacht erlebt hat, darf einen kleinen Schluck aus dem Glas wählen. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
+  },
+  {
+    "id": 90,
+    "category": "party",
+    "kind": "shot",
+    "text": "Wer hat heute die auffälligsten Schuhe? Diese Person darf einen Shot wählen. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
+  },
+  {
+    "id": 91,
+    "category": "party",
+    "kind": "frage",
+    "text": "Imitiere eine Person aus der Runde, ohne ihren Namen zu nennen. Bonus: Lass die Gruppe anschließend abstimmen."
+  },
+  {
+    "id": 92,
+    "category": "party",
+    "kind": "frage",
+    "text": "Erfinde einen Werbeslogan für {spieler2}. Bonus: Lass die Gruppe anschließend abstimmen."
+  },
+  {
+    "id": 93,
+    "category": "party",
+    "kind": "frage",
+    "text": "Erzähle deinen schlechtesten Witz. Bonus: Lass die Gruppe anschließend abstimmen."
+  },
+  {
+    "id": 94,
+    "category": "party",
+    "kind": "frage",
+    "text": "Führe zehn Sekunden lang deinen schlimmsten Tanzmove vor. Bonus: Lass die Gruppe anschließend abstimmen."
+  },
+  {
+    "id": 95,
+    "category": "party",
+    "kind": "frage",
+    "text": "Halte eine Oscar-Rede für einen völlig unnötigen Preis. Bonus: Lass die Gruppe anschließend abstimmen."
+  },
+  {
+    "id": 96,
+    "category": "party",
+    "kind": "frage",
+    "text": "Erkläre einem Außerirdischen, was eine Kneipe ist. Bonus: Lass die Gruppe anschließend abstimmen."
+  },
+  {
+    "id": 97,
+    "category": "peinlich",
+    "kind": "frage",
+    "text": "Was war deine peinlichste Situation bei einem Date?"
+  },
+  {
+    "id": 98,
+    "category": "peinlich",
+    "kind": "frage",
+    "text": "Welche Nachricht würdest du gern ungeschehen machen?"
+  },
+  {
+    "id": 99,
+    "category": "peinlich",
+    "kind": "frage",
+    "text": "Wann hast du dich zuletzt komplett blamiert?"
+  },
+  {
+    "id": 100,
+    "category": "peinlich",
+    "kind": "frage",
+    "text": "Was war dein schlimmster Versuch, cool zu wirken?"
+  },
+  {
+    "id": 101,
+    "category": "peinlich",
+    "kind": "frage",
+    "text": "Welcher alte Spitzname ist dir heute unangenehm?"
+  },
+  {
+    "id": 102,
+    "category": "peinlich",
+    "kind": "frage",
+    "text": "Was war dein schlimmster Mode-Fauxpas?"
+  },
+  {
+    "id": 103,
+    "category": "peinlich",
+    "kind": "frage",
+    "text": "Wann hast du dich zuletzt beim Flirten verhaspelt?"
+  },
+  {
+    "id": 104,
+    "category": "peinlich",
+    "kind": "frage",
+    "text": "Was ist deine absurdeste Ausrede für Zuspätkommen?"
+  },
+  {
+    "id": 105,
+    "category": "peinlich",
+    "kind": "frage",
+    "text": "Wobei wurdest du zuletzt erwischt?"
+  },
+  {
+    "id": 106,
+    "category": "peinlich",
+    "kind": "frage",
+    "text": "Was war dein peinlichstes Missverständnis?"
+  },
+  {
+    "id": 107,
+    "category": "peinlich",
+    "kind": "frage",
+    "text": "Wer aus der Runde ist der größte Klugscheißer?"
+  },
+  {
+    "id": 108,
+    "category": "peinlich",
+    "kind": "frage",
+    "text": "Wer könnte am schlechtesten ein Geheimnis bewahren?"
+  },
+  {
+    "id": 109,
+    "category": "peinlich",
+    "kind": "frage",
+    "text": "Wer aus der Runde braucht immer das letzte Wort?"
+  },
+  {
+    "id": 110,
+    "category": "peinlich",
+    "kind": "frage",
+    "text": "Welche Angewohnheit von dir ist dir selbst peinlich?"
+  },
+  {
+    "id": 111,
+    "category": "peinlich",
+    "kind": "frage",
+    "text": "Welches alte Foto von dir dürfte niemand sehen?"
+  },
+  {
+    "id": 112,
+    "category": "peinlich",
+    "kind": "schluck",
+    "text": "Alle, die schon einmal die falsche Person angeschrieben haben, nehmen freiwillig einen Schluck."
+  },
+  {
+    "id": 113,
+    "category": "peinlich",
+    "kind": "schluck",
+    "text": "Alle, die schon einmal eine Nachricht bereut haben, nehmen freiwillig einen Schluck."
+  },
+  {
+    "id": 114,
+    "category": "peinlich",
+    "kind": "schluck",
+    "text": "Wer schon einmal beim Lügen erwischt wurde, nimmt freiwillig einen Schluck."
+  },
+  {
+    "id": 115,
+    "category": "peinlich",
+    "kind": "schluck",
+    "text": "Wer schon einmal vor anderen hingefallen ist, nimmt freiwillig einen Schluck."
+  },
+  {
+    "id": 116,
+    "category": "peinlich",
+    "kind": "schluck",
+    "text": "Wer schon einmal jemanden absichtlich ignoriert hat, nimmt freiwillig einen Schluck."
+  },
+  {
+    "id": 117,
+    "category": "peinlich",
+    "kind": "shot",
+    "text": "Erzähle von einer Dating-Panne oder wähle freiwillig einen Shot."
+  },
+  {
+    "id": 118,
+    "category": "peinlich",
+    "kind": "shot",
+    "text": "Verrate eine peinliche Angewohnheit oder wähle freiwillig einen Shot."
+  },
+  {
+    "id": 119,
+    "category": "peinlich",
+    "kind": "shot",
+    "text": "Wer heute die meisten ungelesenen Nachrichten hat, darf einen Shot wählen."
+  },
+  {
+    "id": 120,
+    "category": "peinlich",
+    "kind": "glas",
+    "text": "Wer schon einmal beim Lästern erwischt wurde, darf einen kleinen Schluck aus dem Glas wählen."
+  },
+  {
+    "id": 121,
+    "category": "peinlich",
+    "kind": "glas",
+    "text": "Wer schon einmal beim Flirten einen Korb bekommen hat, darf einen kleinen Schluck aus dem Glas wählen."
+  },
+  {
+    "id": 122,
+    "category": "peinlich",
+    "kind": "frage",
+    "text": "Was war deine peinlichste Situation bei einem Date? Falls du magst, verrate, wie die Geschichte ausging."
+  },
+  {
+    "id": 123,
+    "category": "peinlich",
+    "kind": "frage",
+    "text": "Welche Nachricht würdest du gern ungeschehen machen? Falls du magst, verrate, wie die Geschichte ausging."
+  },
+  {
+    "id": 124,
+    "category": "peinlich",
+    "kind": "frage",
+    "text": "Wann hast du dich zuletzt komplett blamiert? Falls du magst, verrate, wie die Geschichte ausging."
+  },
+  {
+    "id": 125,
+    "category": "peinlich",
+    "kind": "frage",
+    "text": "Was war dein schlimmster Versuch, cool zu wirken? Falls du magst, verrate, wie die Geschichte ausging."
+  },
+  {
+    "id": 126,
+    "category": "peinlich",
+    "kind": "frage",
+    "text": "Welcher alte Spitzname ist dir heute unangenehm? Falls du magst, verrate, wie die Geschichte ausging."
+  },
+  {
+    "id": 127,
+    "category": "peinlich",
+    "kind": "frage",
+    "text": "Was war dein schlimmster Mode-Fauxpas? Falls du magst, verrate, wie die Geschichte ausging."
+  },
+  {
+    "id": 128,
+    "category": "peinlich",
+    "kind": "frage",
+    "text": "Wann hast du dich zuletzt beim Flirten verhaspelt? Falls du magst, verrate, wie die Geschichte ausging."
+  },
+  {
+    "id": 129,
+    "category": "peinlich",
+    "kind": "frage",
+    "text": "Was ist deine absurdeste Ausrede für Zuspätkommen? Falls du magst, verrate, wie die Geschichte ausging."
+  },
+  {
+    "id": 130,
+    "category": "peinlich",
+    "kind": "frage",
+    "text": "Wobei wurdest du zuletzt erwischt? Falls du magst, verrate, wie die Geschichte ausging."
+  },
+  {
+    "id": 131,
+    "category": "peinlich",
+    "kind": "frage",
+    "text": "Was war dein peinlichstes Missverständnis? Falls du magst, verrate, wie die Geschichte ausging."
+  },
+  {
+    "id": 132,
+    "category": "peinlich",
+    "kind": "frage",
+    "text": "Wer aus der Runde ist der größte Klugscheißer? Falls du magst, verrate, wie die Geschichte ausging."
+  },
+  {
+    "id": 133,
+    "category": "peinlich",
+    "kind": "frage",
+    "text": "Wer könnte am schlechtesten ein Geheimnis bewahren? Falls du magst, verrate, wie die Geschichte ausging."
+  },
+  {
+    "id": 134,
+    "category": "peinlich",
+    "kind": "frage",
+    "text": "Wer aus der Runde braucht immer das letzte Wort? Falls du magst, verrate, wie die Geschichte ausging."
+  },
+  {
+    "id": 135,
+    "category": "peinlich",
+    "kind": "frage",
+    "text": "Welche Angewohnheit von dir ist dir selbst peinlich? Falls du magst, verrate, wie die Geschichte ausging."
+  },
+  {
+    "id": 136,
+    "category": "peinlich",
+    "kind": "frage",
+    "text": "Welches alte Foto von dir dürfte niemand sehen? Falls du magst, verrate, wie die Geschichte ausging."
+  },
+  {
+    "id": 137,
+    "category": "peinlich",
+    "kind": "schluck",
+    "text": "Alle, die schon einmal die falsche Person angeschrieben haben, nehmen freiwillig einen Schluck. Falls du magst, verrate, wie die Geschichte ausging."
+  },
+  {
+    "id": 138,
+    "category": "peinlich",
+    "kind": "schluck",
+    "text": "Alle, die schon einmal eine Nachricht bereut haben, nehmen freiwillig einen Schluck. Falls du magst, verrate, wie die Geschichte ausging."
+  },
+  {
+    "id": 139,
+    "category": "peinlich",
+    "kind": "schluck",
+    "text": "Wer schon einmal beim Lügen erwischt wurde, nimmt freiwillig einen Schluck. Falls du magst, verrate, wie die Geschichte ausging."
+  },
+  {
+    "id": 140,
+    "category": "peinlich",
+    "kind": "schluck",
+    "text": "Wer schon einmal vor anderen hingefallen ist, nimmt freiwillig einen Schluck. Falls du magst, verrate, wie die Geschichte ausging."
+  },
+  {
+    "id": 141,
+    "category": "peinlich",
+    "kind": "schluck",
+    "text": "Wer schon einmal jemanden absichtlich ignoriert hat, nimmt freiwillig einen Schluck. Falls du magst, verrate, wie die Geschichte ausging."
+  },
+  {
+    "id": 142,
+    "category": "peinlich",
+    "kind": "shot",
+    "text": "Erzähle von einer Dating-Panne oder wähle freiwillig einen Shot. Falls du magst, verrate, wie die Geschichte ausging."
+  },
+  {
+    "id": 143,
+    "category": "peinlich",
+    "kind": "shot",
+    "text": "Verrate eine peinliche Angewohnheit oder wähle freiwillig einen Shot. Falls du magst, verrate, wie die Geschichte ausging."
+  },
+  {
+    "id": 144,
+    "category": "peinlich",
+    "kind": "shot",
+    "text": "Wer heute die meisten ungelesenen Nachrichten hat, darf einen Shot wählen. Falls du magst, verrate, wie die Geschichte ausging."
+  },
+  {
+    "id": 145,
+    "category": "peinlich",
+    "kind": "glas",
+    "text": "Wer schon einmal beim Lästern erwischt wurde, darf einen kleinen Schluck aus dem Glas wählen. Falls du magst, verrate, wie die Geschichte ausging."
+  },
+  {
+    "id": 146,
+    "category": "peinlich",
+    "kind": "glas",
+    "text": "Wer schon einmal beim Flirten einen Korb bekommen hat, darf einen kleinen Schluck aus dem Glas wählen. Falls du magst, verrate, wie die Geschichte ausging."
+  },
+  {
+    "id": 147,
+    "category": "peinlich",
+    "kind": "frage",
+    "text": "Was war deine peinlichste Situation bei einem Date? Die Gruppe darf eine harmlose Rückfrage stellen."
+  },
+  {
+    "id": 148,
+    "category": "peinlich",
+    "kind": "frage",
+    "text": "Welche Nachricht würdest du gern ungeschehen machen? Die Gruppe darf eine harmlose Rückfrage stellen."
+  },
+  {
+    "id": 149,
+    "category": "peinlich",
+    "kind": "frage",
+    "text": "Wann hast du dich zuletzt komplett blamiert? Die Gruppe darf eine harmlose Rückfrage stellen."
+  },
+  {
+    "id": 150,
+    "category": "peinlich",
+    "kind": "frage",
+    "text": "Was war dein schlimmster Versuch, cool zu wirken? Die Gruppe darf eine harmlose Rückfrage stellen."
+  },
+  {
+    "id": 151,
+    "category": "peinlich",
+    "kind": "frage",
+    "text": "Welcher alte Spitzname ist dir heute unangenehm? Die Gruppe darf eine harmlose Rückfrage stellen."
+  },
+  {
+    "id": 152,
+    "category": "peinlich",
+    "kind": "frage",
+    "text": "Was war dein schlimmster Mode-Fauxpas? Die Gruppe darf eine harmlose Rückfrage stellen."
+  },
+  {
+    "id": 153,
+    "category": "peinlich",
+    "kind": "frage",
+    "text": "Wann hast du dich zuletzt beim Flirten verhaspelt? Die Gruppe darf eine harmlose Rückfrage stellen."
+  },
+  {
+    "id": 154,
+    "category": "peinlich",
+    "kind": "frage",
+    "text": "Was ist deine absurdeste Ausrede für Zuspätkommen? Die Gruppe darf eine harmlose Rückfrage stellen."
+  },
+  {
+    "id": 155,
+    "category": "peinlich",
+    "kind": "frage",
+    "text": "Wobei wurdest du zuletzt erwischt? Die Gruppe darf eine harmlose Rückfrage stellen."
+  },
+  {
+    "id": 156,
+    "category": "peinlich",
+    "kind": "frage",
+    "text": "Was war dein peinlichstes Missverständnis? Die Gruppe darf eine harmlose Rückfrage stellen."
+  },
+  {
+    "id": 157,
+    "category": "peinlich",
+    "kind": "frage",
+    "text": "Wer aus der Runde ist der größte Klugscheißer? Die Gruppe darf eine harmlose Rückfrage stellen."
+  },
+  {
+    "id": 158,
+    "category": "peinlich",
+    "kind": "frage",
+    "text": "Wer könnte am schlechtesten ein Geheimnis bewahren? Die Gruppe darf eine harmlose Rückfrage stellen."
+  },
+  {
+    "id": 159,
+    "category": "peinlich",
+    "kind": "frage",
+    "text": "Wer aus der Runde braucht immer das letzte Wort? Die Gruppe darf eine harmlose Rückfrage stellen."
+  },
+  {
+    "id": 160,
+    "category": "peinlich",
+    "kind": "frage",
+    "text": "Welche Angewohnheit von dir ist dir selbst peinlich? Die Gruppe darf eine harmlose Rückfrage stellen."
+  },
+  {
+    "id": 161,
+    "category": "peinlich",
+    "kind": "frage",
+    "text": "Welches alte Foto von dir dürfte niemand sehen? Die Gruppe darf eine harmlose Rückfrage stellen."
+  },
+  {
+    "id": 162,
+    "category": "peinlich",
+    "kind": "schluck",
+    "text": "Alle, die schon einmal die falsche Person angeschrieben haben, nehmen freiwillig einen Schluck. Die Gruppe darf eine harmlose Rückfrage stellen."
+  },
+  {
+    "id": 163,
+    "category": "peinlich",
+    "kind": "schluck",
+    "text": "Alle, die schon einmal eine Nachricht bereut haben, nehmen freiwillig einen Schluck. Die Gruppe darf eine harmlose Rückfrage stellen."
+  },
+  {
+    "id": 164,
+    "category": "peinlich",
+    "kind": "schluck",
+    "text": "Wer schon einmal beim Lügen erwischt wurde, nimmt freiwillig einen Schluck. Die Gruppe darf eine harmlose Rückfrage stellen."
+  },
+  {
+    "id": 165,
+    "category": "peinlich",
+    "kind": "schluck",
+    "text": "Wer schon einmal vor anderen hingefallen ist, nimmt freiwillig einen Schluck. Die Gruppe darf eine harmlose Rückfrage stellen."
+  },
+  {
+    "id": 166,
+    "category": "peinlich",
+    "kind": "schluck",
+    "text": "Wer schon einmal jemanden absichtlich ignoriert hat, nimmt freiwillig einen Schluck. Die Gruppe darf eine harmlose Rückfrage stellen."
+  },
+  {
+    "id": 167,
+    "category": "peinlich",
+    "kind": "shot",
+    "text": "Erzähle von einer Dating-Panne oder wähle freiwillig einen Shot. Die Gruppe darf eine harmlose Rückfrage stellen."
+  },
+  {
+    "id": 168,
+    "category": "peinlich",
+    "kind": "shot",
+    "text": "Verrate eine peinliche Angewohnheit oder wähle freiwillig einen Shot. Die Gruppe darf eine harmlose Rückfrage stellen."
+  },
+  {
+    "id": 169,
+    "category": "peinlich",
+    "kind": "shot",
+    "text": "Wer heute die meisten ungelesenen Nachrichten hat, darf einen Shot wählen. Die Gruppe darf eine harmlose Rückfrage stellen."
+  },
+  {
+    "id": 170,
+    "category": "peinlich",
+    "kind": "glas",
+    "text": "Wer schon einmal beim Lästern erwischt wurde, darf einen kleinen Schluck aus dem Glas wählen. Die Gruppe darf eine harmlose Rückfrage stellen."
+  },
+  {
+    "id": 171,
+    "category": "peinlich",
+    "kind": "glas",
+    "text": "Wer schon einmal beim Flirten einen Korb bekommen hat, darf einen kleinen Schluck aus dem Glas wählen. Die Gruppe darf eine harmlose Rückfrage stellen."
+  },
+  {
+    "id": 172,
+    "category": "peinlich",
+    "kind": "frage",
+    "text": "Was war deine peinlichste Situation bei einem Date? Beschreibe die Situation in drei Worten, bevor du antwortest."
+  },
+  {
+    "id": 173,
+    "category": "peinlich",
+    "kind": "frage",
+    "text": "Welche Nachricht würdest du gern ungeschehen machen? Beschreibe die Situation in drei Worten, bevor du antwortest."
+  },
+  {
+    "id": 174,
+    "category": "peinlich",
+    "kind": "frage",
+    "text": "Wann hast du dich zuletzt komplett blamiert? Beschreibe die Situation in drei Worten, bevor du antwortest."
+  },
+  {
+    "id": 175,
+    "category": "peinlich",
+    "kind": "frage",
+    "text": "Was war dein schlimmster Versuch, cool zu wirken? Beschreibe die Situation in drei Worten, bevor du antwortest."
+  },
+  {
+    "id": 176,
+    "category": "peinlich",
+    "kind": "frage",
+    "text": "Welcher alte Spitzname ist dir heute unangenehm? Beschreibe die Situation in drei Worten, bevor du antwortest."
+  },
+  {
+    "id": 177,
+    "category": "peinlich",
+    "kind": "frage",
+    "text": "Was war dein schlimmster Mode-Fauxpas? Beschreibe die Situation in drei Worten, bevor du antwortest."
+  },
+  {
+    "id": 178,
+    "category": "peinlich",
+    "kind": "frage",
+    "text": "Wann hast du dich zuletzt beim Flirten verhaspelt? Beschreibe die Situation in drei Worten, bevor du antwortest."
+  },
+  {
+    "id": 179,
+    "category": "peinlich",
+    "kind": "frage",
+    "text": "Was ist deine absurdeste Ausrede für Zuspätkommen? Beschreibe die Situation in drei Worten, bevor du antwortest."
+  },
+  {
+    "id": 180,
+    "category": "peinlich",
+    "kind": "frage",
+    "text": "Wobei wurdest du zuletzt erwischt? Beschreibe die Situation in drei Worten, bevor du antwortest."
+  },
+  {
+    "id": 181,
+    "category": "peinlich",
+    "kind": "frage",
+    "text": "Was war dein peinlichstes Missverständnis? Beschreibe die Situation in drei Worten, bevor du antwortest."
+  },
+  {
+    "id": 182,
+    "category": "peinlich",
+    "kind": "frage",
+    "text": "Wer aus der Runde ist der größte Klugscheißer? Beschreibe die Situation in drei Worten, bevor du antwortest."
+  },
+  {
+    "id": 183,
+    "category": "peinlich",
+    "kind": "frage",
+    "text": "Wer könnte am schlechtesten ein Geheimnis bewahren? Beschreibe die Situation in drei Worten, bevor du antwortest."
+  },
+  {
+    "id": 184,
+    "category": "peinlich",
+    "kind": "frage",
+    "text": "Wer aus der Runde braucht immer das letzte Wort? Beschreibe die Situation in drei Worten, bevor du antwortest."
+  },
+  {
+    "id": 185,
+    "category": "peinlich",
+    "kind": "frage",
+    "text": "Welche Angewohnheit von dir ist dir selbst peinlich? Beschreibe die Situation in drei Worten, bevor du antwortest."
+  },
+  {
+    "id": 186,
+    "category": "peinlich",
+    "kind": "frage",
+    "text": "Welches alte Foto von dir dürfte niemand sehen? Beschreibe die Situation in drei Worten, bevor du antwortest."
+  },
+  {
+    "id": 187,
+    "category": "peinlich",
+    "kind": "schluck",
+    "text": "Alle, die schon einmal die falsche Person angeschrieben haben, nehmen freiwillig einen Schluck. Beschreibe die Situation in drei Worten, bevor du antwortest."
+  },
+  {
+    "id": 188,
+    "category": "peinlich",
+    "kind": "schluck",
+    "text": "Alle, die schon einmal eine Nachricht bereut haben, nehmen freiwillig einen Schluck. Beschreibe die Situation in drei Worten, bevor du antwortest."
+  },
+  {
+    "id": 189,
+    "category": "peinlich",
+    "kind": "schluck",
+    "text": "Wer schon einmal beim Lügen erwischt wurde, nimmt freiwillig einen Schluck. Beschreibe die Situation in drei Worten, bevor du antwortest."
+  },
+  {
+    "id": 190,
+    "category": "peinlich",
+    "kind": "schluck",
+    "text": "Wer schon einmal vor anderen hingefallen ist, nimmt freiwillig einen Schluck. Beschreibe die Situation in drei Worten, bevor du antwortest."
+  },
+  {
+    "id": 191,
+    "category": "peinlich",
+    "kind": "schluck",
+    "text": "Wer schon einmal jemanden absichtlich ignoriert hat, nimmt freiwillig einen Schluck. Beschreibe die Situation in drei Worten, bevor du antwortest."
+  },
+  {
+    "id": 192,
+    "category": "peinlich",
+    "kind": "shot",
+    "text": "Erzähle von einer Dating-Panne oder wähle freiwillig einen Shot. Beschreibe die Situation in drei Worten, bevor du antwortest."
+  },
+  {
+    "id": 193,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Was war dein peinlichster Moment beim Sex?"
+  },
+  {
+    "id": 194,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Welche sexuelle Fantasie hast du bisher kaum jemandem erzählt?"
+  },
+  {
+    "id": 195,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Hast du schon einmal einen Orgasmus vorgetäuscht? Warum?"
+  },
+  {
+    "id": 196,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Was war dein ungewöhnlichster Ort für Sex?"
+  },
+  {
+    "id": 197,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Welche intime Vorliebe würdest du nur schwer beim ersten Date ansprechen?"
+  },
+  {
+    "id": 198,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Was war deine größte Panne beim Ausziehen vor jemandem?"
+  },
+  {
+    "id": 199,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Hast du schon einmal beim Sex lachen müssen? Weshalb?"
+  },
+  {
+    "id": 200,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Was ist deine unangenehmste Erinnerung an einen One-Night-Stand?"
+  },
+  {
+    "id": 201,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Hast du schon einmal beim Sex den falschen Namen gesagt?"
+  },
+  {
+    "id": 202,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Welche erotische Nachricht würdest du am liebsten zurückholen?"
+  },
+  {
+    "id": 203,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Was war dein mutigster Versuch, jemanden zu verführen?"
+  },
+  {
+    "id": 204,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Hast du schon einmal eine Affäre geheim gehalten?"
+  },
+  {
+    "id": 205,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Was war dein schlechtester Kuss, der trotzdem zu mehr führte?"
+  },
+  {
+    "id": 206,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Welche Frage über dein Sexleben würdest du am liebsten vermeiden?"
+  },
+  {
+    "id": 207,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Was ist das Peinlichste, das dir beim Kauf von Kondomen passiert ist?"
+  },
+  {
+    "id": 208,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Hast du schon einmal einen intimen Moment durch dein Handy ruiniert?"
+  },
+  {
+    "id": 209,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Welche Grenze hast du beim Dating erst spät für dich entdeckt?"
+  },
+  {
+    "id": 210,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Was war dein unangenehmstes Gespräch über Verhütung?"
+  },
+  {
+    "id": 211,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Welche intime Überraschung ging bei dir komplett schief?"
+  },
+  {
+    "id": 212,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Hast du schon einmal einen Ex-Partner aus Einsamkeit kontaktiert?"
+  },
+  {
+    "id": 213,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Welche sexuelle Erfahrung war völlig anders als erwartet?"
+  },
+  {
+    "id": 214,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Was ist der absurdeste Grund, aus dem du jemanden attraktiv fandest?"
+  },
+  {
+    "id": 215,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Hast du schon einmal jemanden nur wegen der körperlichen Anziehung gedatet?"
+  },
+  {
+    "id": 216,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Welche intime Lüge hast du irgendwann zugegeben?"
+  },
+  {
+    "id": 217,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Was war der schlechteste Zeitpunkt für einen leidenschaftlichen Kuss?"
+  },
+  {
+    "id": 218,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Hast du schon einmal einen One-Night-Stand am nächsten Morgen bereut?"
+  },
+  {
+    "id": 219,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Was ist deine größte Unsicherheit beim Sex?"
+  },
+  {
+    "id": 220,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Welche ungewöhnliche Sache findest du heimlich anziehend?"
+  },
+  {
+    "id": 221,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Was war deine peinlichste Begegnung mit den Eltern eines Dates?"
+  },
+  {
+    "id": 222,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Hast du schon einmal aus Versehen eine zweideutige Sprachnachricht verschickt?"
+  },
+  {
+    "id": 223,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Welche Erfahrung aus deinem Liebesleben würdest du niemals wiederholen?"
+  },
+  {
+    "id": 224,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Was war dein größter Flirt-Fail in einem Schlafzimmer?"
+  },
+  {
+    "id": 225,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Hast du schon einmal erotische Träume von einer unerwarteten Person gehabt?"
+  },
+  {
+    "id": 226,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Welche intime Frage würdest du deinem früheren Ich stellen?"
+  },
+  {
+    "id": 227,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Was war das Unromantischste, das jemand nach dem Sex gesagt hat?"
+  },
+  {
+    "id": 228,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Hast du schon einmal beim Dating über deine Erfahrung übertrieben?"
+  },
+  {
+    "id": 229,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Was war dein unangenehmster Moment beim gemeinsamen Duschen?"
+  },
+  {
+    "id": 230,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Welche geheime Vorliebe hat dich selbst überrascht?"
+  },
+  {
+    "id": 231,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Hast du schon einmal einen Kuss nur aus Höflichkeit erwidert?"
+  },
+  {
+    "id": 232,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Was ist die seltsamste Ausrede, mit der du ein Date beendet hast?"
+  },
+  {
+    "id": 233,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Welche Situation hat dir beim Flirten sofort die Lust verdorben?"
+  },
+  {
+    "id": 234,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Hast du schon einmal einen romantischen Abend komplett falsch eingeschätzt?"
+  },
+  {
+    "id": 235,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Was war dein peinlichster Moment beim Sexting?"
+  },
+  {
+    "id": 236,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Hast du schon einmal eine intime Nachricht an den falschen Chat geschickt?"
+  },
+  {
+    "id": 237,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Was war das Mutigste, das du jemandem über deine Wünsche gesagt hast?"
+  },
+  {
+    "id": 238,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Welche Frage über deinen letzten Sex würdest du nicht beantworten wollen?"
+  },
+  {
+    "id": 239,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Hast du schon einmal einen Crush auf jemanden gehabt, der vergeben war?"
+  },
+  {
+    "id": 240,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Was war deine kurioseste Begegnung nach einem One-Night-Stand?"
+  },
+  {
+    "id": 241,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Welche intime Angewohnheit von dir könnte andere überraschen?"
+  },
+  {
+    "id": 242,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Hast du schon einmal beim Küssen an jemand anderen gedacht?"
+  },
+  {
+    "id": 243,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Was war dein peinlichster Moment mit einem Liebesspielzeug?"
+  },
+  {
+    "id": 244,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Welche Fantasie findest du reizvoll, würdest sie aber nicht ausleben?"
+  },
+  {
+    "id": 245,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Hast du schon einmal aus Eifersucht jemanden absichtlich angeflirtet?"
+  },
+  {
+    "id": 246,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Was war deine größte Überraschung bei einem ersten gemeinsamen Übernachten?"
+  },
+  {
+    "id": 247,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Welche intime Wahrheit hast du einem Partner erst spät erzählt?"
+  },
+  {
+    "id": 248,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Hast du schon einmal eine erotische Nachricht geschrieben und dann doch gelöscht?"
+  },
+  {
+    "id": 249,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Was war das Schrägste, das jemand beim Vorspiel gesagt hat?"
+  },
+  {
+    "id": 250,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Welche romantische Geste war dir im Nachhinein extrem peinlich?"
+  },
+  {
+    "id": 251,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Hast du schon einmal einen heimlichen Flirt vor Freunden verheimlicht?"
+  },
+  {
+    "id": 252,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Was war dein seltsamster Grund, Sex abzulehnen?"
+  },
+  {
+    "id": 253,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Welche Vorstellung von gutem Sex hat sich bei dir völlig verändert?"
+  },
+  {
+    "id": 254,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Hast du schon einmal beim ersten Treffen viel zu schnell zu viel erzählt?"
+  },
+  {
+    "id": 255,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Was war deine unangenehmste Begegnung mit einer früheren Affäre?"
+  },
+  {
+    "id": 256,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Welche intime Situation würdest du gern aus deinem Gedächtnis löschen?"
+  },
+  {
+    "id": 257,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Hast du schon einmal ein Date nur wegen eines Kusses verlängert?"
+  },
+  {
+    "id": 258,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Was war das Peinlichste, das dir beim Übernachten bei jemandem passiert ist?"
+  },
+  {
+    "id": 259,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Welche erotische Vorliebe würdest du nur einer vertrauten Person verraten?"
+  },
+  {
+    "id": 260,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Hast du schon einmal eine Beziehung aus körperlicher Anziehung begonnen?"
+  },
+  {
+    "id": 261,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Was war deine absurdeste Ausrede nach einem schlechten Date?"
+  },
+  {
+    "id": 262,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Welche intime Frage hast du dich nie getraut zu stellen?"
+  },
+  {
+    "id": 263,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Hast du schon einmal jemanden geküsst und dabei sofort an Flucht gedacht?"
+  },
+  {
+    "id": 264,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Was war dein größtes Missverständnis bei einer zweideutigen Einladung?"
+  },
+  {
+    "id": 265,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Welche Erfahrung hat deine Vorstellung von Attraktivität verändert?"
+  },
+  {
+    "id": 266,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Hast du schon einmal eine Ex-Beziehung wegen der körperlichen Nähe vermisst?"
+  },
+  {
+    "id": 267,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Was war der peinlichste Gegenstand, der bei einem Date entdeckt wurde?"
+  },
+  {
+    "id": 268,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Welche intime Geschichte erzählst du normalerweise nur deinen engsten Freunden?"
+  },
+  {
+    "id": 269,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Hast du schon einmal ein Date aus Versehen mit einem anderen Namen angesprochen?"
+  },
+  {
+    "id": 270,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Was war dein überraschendster Stimmungskiller beim Sex?"
+  },
+  {
+    "id": 271,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Welche Fantasie würdest du gern einmal offen besprechen?"
+  },
+  {
+    "id": 272,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Hast du schon einmal eine anzügliche Nachricht vor der falschen Person geöffnet?"
+  },
+  {
+    "id": 273,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Was war dein unangenehmstes Gespräch über sexuelle Vorlieben?"
+  },
+  {
+    "id": 274,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Welche Situation hat dich beim Flirten komplett sprachlos gemacht?"
+  },
+  {
+    "id": 275,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Hast du schon einmal ein Geheimnis über dein Liebesleben zu lange behalten?"
+  },
+  {
+    "id": 276,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Was war die schlechteste Idee, die du für ein romantisches Treffen hattest?"
+  },
+  {
+    "id": 277,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Welche intime Erfahrung war dir erst im Nachhinein peinlich?"
+  },
+  {
+    "id": 278,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Hast du schon einmal beim Sex durch ein Geräusch einen Lachanfall bekommen?"
+  },
+  {
+    "id": 279,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Was war deine gewagteste Frage bei einem Date?"
+  },
+  {
+    "id": 280,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Welche überraschende Eigenschaft macht jemanden für dich sexuell attraktiv?"
+  },
+  {
+    "id": 281,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Hast du schon einmal eine Nachricht verschickt, die eindeutig zu viel verraten hat?"
+  },
+  {
+    "id": 282,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Was war dein peinlichster Versuch, sexy auszusehen?"
+  },
+  {
+    "id": 283,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Welche Wahrheit über deine Dating-Vergangenheit würde Freunde überraschen?"
+  },
+  {
+    "id": 284,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Hast du schon einmal eine intime Begegnung geheim gehalten, obwohl alle etwas ahnten?"
+  },
+  {
+    "id": 285,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Was war dein seltsamster Moment direkt nach einem Kuss?"
+  },
+  {
+    "id": 286,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Welche sexuelle Vorliebe hast du erst durch ein Gespräch kennengelernt?"
+  },
+  {
+    "id": 287,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Hast du schon einmal jemanden aus einem völlig unromantischen Grund geküsst?"
+  },
+  {
+    "id": 288,
+    "category": "dirty",
+    "kind": "frage",
+    "text": "Was war das Unangenehmste, das du bei einem Date über dich preisgegeben hast?"
+  },
+  {
+    "id": 289,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie einen Orgasmus vorgetäuscht."
+  },
+  {
+    "id": 290,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie beim Sex den falschen Namen gesagt."
+  },
+  {
+    "id": 291,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie eine Nacktnachricht an die falsche Person geschickt."
+  },
+  {
+    "id": 292,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie einen One-Night-Stand vor Freunden verheimlicht."
+  },
+  {
+    "id": 293,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie beim Sex einen Lachanfall bekommen."
+  },
+  {
+    "id": 294,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie erotische Träume von einem Freund oder einer Freundin gehabt."
+  },
+  {
+    "id": 295,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie jemanden geküsst, obwohl ich seinen Namen nicht kannte."
+  },
+  {
+    "id": 296,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie beim Sexting einen Screenshot versehentlich weitergeschickt."
+  },
+  {
+    "id": 297,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie ein Date nur wegen körperlicher Anziehung gehabt."
+  },
+  {
+    "id": 298,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie jemanden direkt nach dem ersten Kuss bereut."
+  },
+  {
+    "id": 299,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie eine Affäre geheim gehalten."
+  },
+  {
+    "id": 300,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie beim Dating über meine sexuelle Erfahrung gelogen."
+  },
+  {
+    "id": 301,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie einen Ex aus Einsamkeit angeschrieben."
+  },
+  {
+    "id": 302,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie ein intimes Foto verschickt."
+  },
+  {
+    "id": 303,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie ein intimes Foto erhalten, das mich überrascht hat."
+  },
+  {
+    "id": 304,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie beim Küssen an eine andere Person gedacht."
+  },
+  {
+    "id": 305,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie einen One-Night-Stand am Morgen danach bereut."
+  },
+  {
+    "id": 306,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie ein Liebesspielzeug vor Besuch versteckt."
+  },
+  {
+    "id": 307,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie ein Date mit einer erfundenen Ausrede abgebrochen."
+  },
+  {
+    "id": 308,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie jemanden nur wegen seines Aussehens gedatet."
+  },
+  {
+    "id": 309,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie beim ersten Date über meinen Beziehungsstatus gelogen."
+  },
+  {
+    "id": 310,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie heimlich auf jemanden aus meinem Freundeskreis gestanden."
+  },
+  {
+    "id": 311,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie eine zweideutige Nachricht an einen Kollegen geschickt."
+  },
+  {
+    "id": 312,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie ein freizügiges Selfie gemacht und sofort gelöscht."
+  },
+  {
+    "id": 313,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie einen romantischen Abend mit einer peinlichen Panne beendet."
+  },
+  {
+    "id": 314,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie einen Kuss nur aus Höflichkeit erwidert."
+  },
+  {
+    "id": 315,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie jemanden aus Eifersucht angeflirtet."
+  },
+  {
+    "id": 316,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie erotische Inhalte im falschen Moment auf dem Handy geöffnet."
+  },
+  {
+    "id": 317,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie beim Sex an etwas völlig Unpassendes gedacht."
+  },
+  {
+    "id": 318,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie eine intime Vorliebe aus Scham verschwiegen."
+  },
+  {
+    "id": 319,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie nach einem Date sofort den Kontakt abgebrochen."
+  },
+  {
+    "id": 320,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie eine Beziehung nur wegen der körperlichen Nähe vermisst."
+  },
+  {
+    "id": 321,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie mit einem Ex heimlich geflirtet."
+  },
+  {
+    "id": 322,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie eine sexuelle Fantasie gehabt, die mir selbst peinlich war."
+  },
+  {
+    "id": 323,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie beim Übernachten bei jemandem etwas extrem Peinliches erlebt."
+  },
+  {
+    "id": 324,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie ein Date mit zwei Personen gleichzeitig vereinbart."
+  },
+  {
+    "id": 325,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie jemanden geküsst, der eigentlich vergeben war."
+  },
+  {
+    "id": 326,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie eine erotische Nachricht an den falschen Gruppenchat geschickt."
+  },
+  {
+    "id": 327,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie so getan, als hätte ich eine zweideutige Anspielung nicht verstanden."
+  },
+  {
+    "id": 328,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie ein Date wegen eines schlechten Kusses beendet."
+  },
+  {
+    "id": 329,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie heimlich das Dating-Profil eines Ex angeschaut."
+  },
+  {
+    "id": 330,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie ein intimes Gespräch belauscht, das nicht für mich bestimmt war."
+  },
+  {
+    "id": 331,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie vor einem Date heimlich nach Tipps für einen Kuss gesucht."
+  },
+  {
+    "id": 332,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie jemanden attraktiv gefunden, den ich eigentlich nicht leiden konnte."
+  },
+  {
+    "id": 333,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie eine intime Nachricht am nächsten Tag bereut."
+  },
+  {
+    "id": 334,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie beim Flirten den falschen Namen verwendet."
+  },
+  {
+    "id": 335,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie eine erotische Fantasie mit meinem Partner besprochen."
+  },
+  {
+    "id": 336,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie eine peinliche Sexgeschichte erfunden, um cooler zu wirken."
+  },
+  {
+    "id": 337,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie ein Date vor Freunden komplett anders dargestellt."
+  },
+  {
+    "id": 338,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie nach einem One-Night-Stand den Namen vergessen."
+  },
+  {
+    "id": 339,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie beim Sex versehentlich jemanden angerufen."
+  },
+  {
+    "id": 340,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie ein intimes Gespräch per Sprachnachricht geführt."
+  },
+  {
+    "id": 341,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie einen Crush auf den Partner einer befreundeten Person gehabt."
+  },
+  {
+    "id": 342,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie einen romantischen Moment durch einen Lachanfall ruiniert."
+  },
+  {
+    "id": 343,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie jemanden geküsst, nur um eine andere Person eifersüchtig zu machen."
+  },
+  {
+    "id": 344,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie eine intime Überraschung vorbereitet, die schiefging."
+  },
+  {
+    "id": 345,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie bei einem Date ein wichtiges Detail über mich verschwiegen."
+  },
+  {
+    "id": 346,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie eine anzügliche Nachricht absichtlich unbeantwortet gelassen."
+  },
+  {
+    "id": 347,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie bei einer Party mit jemandem heimlich geknutscht."
+  },
+  {
+    "id": 348,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie einen peinlichen Gegenstand vor einem Date versteckt."
+  },
+  {
+    "id": 349,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie nach einem Date die Nachrichten mit Freunden analysiert."
+  },
+  {
+    "id": 350,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie jemanden gedatet, obwohl ich wusste, dass es nichts Ernstes wird."
+  },
+  {
+    "id": 351,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie eine Beziehungspause für einen Flirt genutzt."
+  },
+  {
+    "id": 352,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie aus Versehen eine private Nachricht laut vorgelesen."
+  },
+  {
+    "id": 353,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie beim Sex durch ein Geräusch lachen müssen."
+  },
+  {
+    "id": 354,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie beim Küssen eine völlig unpassende Bemerkung gemacht."
+  },
+  {
+    "id": 355,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie jemandem eine intime Vorliebe verschwiegen, weil sie ungewöhnlich ist."
+  },
+  {
+    "id": 356,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie heimlich jemanden aus dieser Runde attraktiv gefunden."
+  },
+  {
+    "id": 357,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie einen One-Night-Stand wiedergetroffen und so getan, als wäre nichts."
+  },
+  {
+    "id": 358,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie eine alte Flamme kontaktiert, obwohl ich vergeben war."
+  },
+  {
+    "id": 359,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie ein Date nur wegen einer anzüglichen Nachricht vereinbart."
+  },
+  {
+    "id": 360,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie einen Kuss abgebrochen, weil es unangenehm wurde."
+  },
+  {
+    "id": 361,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie vor einem Date meinen Suchverlauf gelöscht."
+  },
+  {
+    "id": 362,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie aus Versehen ein freches Foto jemandem gezeigt."
+  },
+  {
+    "id": 363,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie einen intimen Moment wegen eines Handyalarms unterbrochen."
+  },
+  {
+    "id": 364,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie jemandem eine sexuelle Fantasie gestanden."
+  },
+  {
+    "id": 365,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie ein Date absichtlich heiß gemacht und dann abgesagt."
+  },
+  {
+    "id": 366,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie jemanden nach einem Kuss geghostet."
+  },
+  {
+    "id": 367,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie eine zweideutige Nachricht geschrieben und nicht abgeschickt."
+  },
+  {
+    "id": 368,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie beim Dating mit einem falschen Alter angegeben."
+  },
+  {
+    "id": 369,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie einen Flirt vor meinem Partner verheimlicht."
+  },
+  {
+    "id": 370,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie eine intime Frage gestellt und die Antwort bereut."
+  },
+  {
+    "id": 371,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie ein peinliches Geräusch beim Sex verursacht."
+  },
+  {
+    "id": 372,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie jemanden geküsst, um eine Wette zu gewinnen."
+  },
+  {
+    "id": 373,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie ein Date nur wegen einer körperlichen Eigenschaft interessant gefunden."
+  },
+  {
+    "id": 374,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie ein intimes Geheimnis länger als ein Jahr für mich behalten."
+  },
+  {
+    "id": 375,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie eine anzügliche Nachricht versehentlich im Familienchat gepostet."
+  },
+  {
+    "id": 376,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie jemanden gedatet, der mir eigentlich zu unsympathisch war."
+  },
+  {
+    "id": 377,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie nach einem intimen Erlebnis eine peinliche Ausrede gebraucht."
+  },
+  {
+    "id": 378,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie eine Sexgeschichte erzählt und entscheidende Details weggelassen."
+  },
+  {
+    "id": 379,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie heimlich mit einer vergebenen Person geflirtet."
+  },
+  {
+    "id": 380,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie einen Ex nur wegen eines nächtlichen Treffens angeschrieben."
+  },
+  {
+    "id": 381,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie einen intimen Moment erlebt, bei dem jemand unerwartet hereinkam."
+  },
+  {
+    "id": 382,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie nach einem Date eine peinliche Nachricht an Freunde geschickt."
+  },
+  {
+    "id": 383,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie jemanden geküsst und danach sofort Reue empfunden."
+  },
+  {
+    "id": 384,
+    "category": "nie",
+    "kind": "frage",
+    "text": "Ich hab noch nie etwas Intimes erlebt, von dem niemand in meinem Freundeskreis weiß."
+  },
+  {
+    "id": 385,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "Alle zeigen auf die Person, die am ehesten eine Kneipe kaufen würde."
+  },
+  {
+    "id": 386,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "Wer ist der größte Chaot in dieser Runde?"
+  },
+  {
+    "id": 387,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "Wer würde bei einem Junggesellenabschied verloren gehen?"
+  },
+  {
+    "id": 388,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "Wer würde bei Monopoly am ehesten ausrasten?"
+  },
+  {
+    "id": 389,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "Wer könnte am besten eine Lüge erzählen, ohne rot zu werden?"
+  },
+  {
+    "id": 390,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "Erfindet gemeinsam einen absurden Namen für eure heutige Party."
+  },
+  {
+    "id": 391,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "Jeder nennt ein Wort. {spieler1} muss daraus einen Satz bauen."
+  },
+  {
+    "id": 392,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "{spieler1} und {spieler2}: Erfindet gemeinsam einen absurden Cocktailnamen."
+  },
+  {
+    "id": 393,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "{spieler1}: Bewirb dich als professioneller Partygast."
+  },
+  {
+    "id": 394,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "{spieler1}: Präsentiere eine nutzlose Erfindung."
+  },
+  {
+    "id": 395,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "{spieler1}: Verkaufe einen gebrauchten Kaugummi als Luxusprodukt."
+  },
+  {
+    "id": 396,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "{spieler1}: Halte eine Pressekonferenz über das Verbot von Montagen."
+  },
+  {
+    "id": 397,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "Alle machen ein Pokerface. Wer zuerst lacht, verliert."
+  },
+  {
+    "id": 398,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "Alle nennen einen Filmtitel, der zu {spieler1} passt."
+  },
+  {
+    "id": 399,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "Wer wäre der schlechteste Bürgermeister dieser Runde?"
+  },
+  {
+    "id": 400,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "Wer wäre in einer Zombie-Apokalypse als Erstes verloren?"
+  },
+  {
+    "id": 401,
+    "category": "chaos",
+    "kind": "schluck",
+    "text": "Alle, die schon einmal eine Überraschung verraten haben, nehmen freiwillig einen Schluck."
+  },
+  {
+    "id": 402,
+    "category": "chaos",
+    "kind": "schluck",
+    "text": "Alle, die schon einmal eine Verabredung vergessen haben, nehmen freiwillig einen Schluck."
+  },
+  {
+    "id": 403,
+    "category": "chaos",
+    "kind": "schluck",
+    "text": "Alle, die schon einmal einen kompletten Abend durchgefeiert haben, nehmen freiwillig einen Schluck."
+  },
+  {
+    "id": 404,
+    "category": "chaos",
+    "kind": "shot",
+    "text": "Wer heute die lustigste Geschichte erzählt hat, darf einen Shot wählen."
+  },
+  {
+    "id": 405,
+    "category": "chaos",
+    "kind": "shot",
+    "text": "Wer am ehesten eine Party bis morgens durchzieht, darf einen Shot wählen."
+  },
+  {
+    "id": 406,
+    "category": "chaos",
+    "kind": "shot",
+    "text": "{spieler1}: Nenne fünf deutsche Städte in zehn Sekunden. Sonst kannst du einen Shot wählen."
+  },
+  {
+    "id": 407,
+    "category": "chaos",
+    "kind": "shot",
+    "text": "{spieler1}: Sage dreimal schnell „Fischers Fritz fischt frische Fische“. Bei einem Fehler kannst du einen Shot wählen."
+  },
+  {
+    "id": 408,
+    "category": "chaos",
+    "kind": "glas",
+    "text": "Wer schon einmal eine Feier völlig falsch verstanden hat, darf einen kleinen Schluck aus dem Glas wählen."
+  },
+  {
+    "id": 409,
+    "category": "chaos",
+    "kind": "glas",
+    "text": "Wer schon einmal nach einer Feier eine absurde Geschichte erzählen musste, darf einen kleinen Schluck aus dem Glas wählen."
+  },
+  {
+    "id": 410,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "Alle zeigen auf die Person, die am ehesten eine Kneipe kaufen würde. Die Gruppe stimmt anschließend über das Ergebnis ab."
+  },
+  {
+    "id": 411,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "Wer ist der größte Chaot in dieser Runde? Die Gruppe stimmt anschließend über das Ergebnis ab."
+  },
+  {
+    "id": 412,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "Wer würde bei einem Junggesellenabschied verloren gehen? Die Gruppe stimmt anschließend über das Ergebnis ab."
+  },
+  {
+    "id": 413,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "Wer würde bei Monopoly am ehesten ausrasten? Die Gruppe stimmt anschließend über das Ergebnis ab."
+  },
+  {
+    "id": 414,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "Wer könnte am besten eine Lüge erzählen, ohne rot zu werden? Die Gruppe stimmt anschließend über das Ergebnis ab."
+  },
+  {
+    "id": 415,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "Erfindet gemeinsam einen absurden Namen für eure heutige Party. Die Gruppe stimmt anschließend über das Ergebnis ab."
+  },
+  {
+    "id": 416,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "Jeder nennt ein Wort. {spieler1} muss daraus einen Satz bauen. Die Gruppe stimmt anschließend über das Ergebnis ab."
+  },
+  {
+    "id": 417,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "{spieler1} und {spieler2}: Erfindet gemeinsam einen absurden Cocktailnamen. Die Gruppe stimmt anschließend über das Ergebnis ab."
+  },
+  {
+    "id": 418,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "{spieler1}: Bewirb dich als professioneller Partygast. Die Gruppe stimmt anschließend über das Ergebnis ab."
+  },
+  {
+    "id": 419,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "{spieler1}: Präsentiere eine nutzlose Erfindung. Die Gruppe stimmt anschließend über das Ergebnis ab."
+  },
+  {
+    "id": 420,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "{spieler1}: Verkaufe einen gebrauchten Kaugummi als Luxusprodukt. Die Gruppe stimmt anschließend über das Ergebnis ab."
+  },
+  {
+    "id": 421,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "{spieler1}: Halte eine Pressekonferenz über das Verbot von Montagen. Die Gruppe stimmt anschließend über das Ergebnis ab."
+  },
+  {
+    "id": 422,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "Alle machen ein Pokerface. Wer zuerst lacht, verliert. Die Gruppe stimmt anschließend über das Ergebnis ab."
+  },
+  {
+    "id": 423,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "Alle nennen einen Filmtitel, der zu {spieler1} passt. Die Gruppe stimmt anschließend über das Ergebnis ab."
+  },
+  {
+    "id": 424,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "Wer wäre der schlechteste Bürgermeister dieser Runde? Die Gruppe stimmt anschließend über das Ergebnis ab."
+  },
+  {
+    "id": 425,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "Wer wäre in einer Zombie-Apokalypse als Erstes verloren? Die Gruppe stimmt anschließend über das Ergebnis ab."
+  },
+  {
+    "id": 426,
+    "category": "chaos",
+    "kind": "schluck",
+    "text": "Alle, die schon einmal eine Überraschung verraten haben, nehmen freiwillig einen Schluck. Die Gruppe stimmt anschließend über das Ergebnis ab."
+  },
+  {
+    "id": 427,
+    "category": "chaos",
+    "kind": "schluck",
+    "text": "Alle, die schon einmal eine Verabredung vergessen haben, nehmen freiwillig einen Schluck. Die Gruppe stimmt anschließend über das Ergebnis ab."
+  },
+  {
+    "id": 428,
+    "category": "chaos",
+    "kind": "schluck",
+    "text": "Alle, die schon einmal einen kompletten Abend durchgefeiert haben, nehmen freiwillig einen Schluck. Die Gruppe stimmt anschließend über das Ergebnis ab."
+  },
+  {
+    "id": 429,
+    "category": "chaos",
+    "kind": "shot",
+    "text": "Wer heute die lustigste Geschichte erzählt hat, darf einen Shot wählen. Die Gruppe stimmt anschließend über das Ergebnis ab."
+  },
+  {
+    "id": 430,
+    "category": "chaos",
+    "kind": "shot",
+    "text": "Wer am ehesten eine Party bis morgens durchzieht, darf einen Shot wählen. Die Gruppe stimmt anschließend über das Ergebnis ab."
+  },
+  {
+    "id": 431,
+    "category": "chaos",
+    "kind": "shot",
+    "text": "{spieler1}: Nenne fünf deutsche Städte in zehn Sekunden. Sonst kannst du einen Shot wählen. Die Gruppe stimmt anschließend über das Ergebnis ab."
+  },
+  {
+    "id": 432,
+    "category": "chaos",
+    "kind": "shot",
+    "text": "{spieler1}: Sage dreimal schnell „Fischers Fritz fischt frische Fische“. Bei einem Fehler kannst du einen Shot wählen. Die Gruppe stimmt anschließend über das Ergebnis ab."
+  },
+  {
+    "id": 433,
+    "category": "chaos",
+    "kind": "glas",
+    "text": "Wer schon einmal eine Feier völlig falsch verstanden hat, darf einen kleinen Schluck aus dem Glas wählen. Die Gruppe stimmt anschließend über das Ergebnis ab."
+  },
+  {
+    "id": 434,
+    "category": "chaos",
+    "kind": "glas",
+    "text": "Wer schon einmal nach einer Feier eine absurde Geschichte erzählen musste, darf einen kleinen Schluck aus dem Glas wählen. Die Gruppe stimmt anschließend über das Ergebnis ab."
+  },
+  {
+    "id": 435,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "Alle zeigen auf die Person, die am ehesten eine Kneipe kaufen würde. Zeitlimit: 20 Sekunden."
+  },
+  {
+    "id": 436,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "Wer ist der größte Chaot in dieser Runde? Zeitlimit: 20 Sekunden."
+  },
+  {
+    "id": 437,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "Wer würde bei einem Junggesellenabschied verloren gehen? Zeitlimit: 20 Sekunden."
+  },
+  {
+    "id": 438,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "Wer würde bei Monopoly am ehesten ausrasten? Zeitlimit: 20 Sekunden."
+  },
+  {
+    "id": 439,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "Wer könnte am besten eine Lüge erzählen, ohne rot zu werden? Zeitlimit: 20 Sekunden."
+  },
+  {
+    "id": 440,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "Erfindet gemeinsam einen absurden Namen für eure heutige Party. Zeitlimit: 20 Sekunden."
+  },
+  {
+    "id": 441,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "Jeder nennt ein Wort. {spieler1} muss daraus einen Satz bauen. Zeitlimit: 20 Sekunden."
+  },
+  {
+    "id": 442,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "{spieler1} und {spieler2}: Erfindet gemeinsam einen absurden Cocktailnamen. Zeitlimit: 20 Sekunden."
+  },
+  {
+    "id": 443,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "{spieler1}: Bewirb dich als professioneller Partygast. Zeitlimit: 20 Sekunden."
+  },
+  {
+    "id": 444,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "{spieler1}: Präsentiere eine nutzlose Erfindung. Zeitlimit: 20 Sekunden."
+  },
+  {
+    "id": 445,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "{spieler1}: Verkaufe einen gebrauchten Kaugummi als Luxusprodukt. Zeitlimit: 20 Sekunden."
+  },
+  {
+    "id": 446,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "{spieler1}: Halte eine Pressekonferenz über das Verbot von Montagen. Zeitlimit: 20 Sekunden."
+  },
+  {
+    "id": 447,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "Alle machen ein Pokerface. Wer zuerst lacht, verliert. Zeitlimit: 20 Sekunden."
+  },
+  {
+    "id": 448,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "Alle nennen einen Filmtitel, der zu {spieler1} passt. Zeitlimit: 20 Sekunden."
+  },
+  {
+    "id": 449,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "Wer wäre der schlechteste Bürgermeister dieser Runde? Zeitlimit: 20 Sekunden."
+  },
+  {
+    "id": 450,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "Wer wäre in einer Zombie-Apokalypse als Erstes verloren? Zeitlimit: 20 Sekunden."
+  },
+  {
+    "id": 451,
+    "category": "chaos",
+    "kind": "schluck",
+    "text": "Alle, die schon einmal eine Überraschung verraten haben, nehmen freiwillig einen Schluck. Zeitlimit: 20 Sekunden."
+  },
+  {
+    "id": 452,
+    "category": "chaos",
+    "kind": "schluck",
+    "text": "Alle, die schon einmal eine Verabredung vergessen haben, nehmen freiwillig einen Schluck. Zeitlimit: 20 Sekunden."
+  },
+  {
+    "id": 453,
+    "category": "chaos",
+    "kind": "schluck",
+    "text": "Alle, die schon einmal einen kompletten Abend durchgefeiert haben, nehmen freiwillig einen Schluck. Zeitlimit: 20 Sekunden."
+  },
+  {
+    "id": 454,
+    "category": "chaos",
+    "kind": "shot",
+    "text": "Wer heute die lustigste Geschichte erzählt hat, darf einen Shot wählen. Zeitlimit: 20 Sekunden."
+  },
+  {
+    "id": 455,
+    "category": "chaos",
+    "kind": "shot",
+    "text": "Wer am ehesten eine Party bis morgens durchzieht, darf einen Shot wählen. Zeitlimit: 20 Sekunden."
+  },
+  {
+    "id": 456,
+    "category": "chaos",
+    "kind": "shot",
+    "text": "{spieler1}: Nenne fünf deutsche Städte in zehn Sekunden. Sonst kannst du einen Shot wählen. Zeitlimit: 20 Sekunden."
+  },
+  {
+    "id": 457,
+    "category": "chaos",
+    "kind": "shot",
+    "text": "{spieler1}: Sage dreimal schnell „Fischers Fritz fischt frische Fische“. Bei einem Fehler kannst du einen Shot wählen. Zeitlimit: 20 Sekunden."
+  },
+  {
+    "id": 458,
+    "category": "chaos",
+    "kind": "glas",
+    "text": "Wer schon einmal eine Feier völlig falsch verstanden hat, darf einen kleinen Schluck aus dem Glas wählen. Zeitlimit: 20 Sekunden."
+  },
+  {
+    "id": 459,
+    "category": "chaos",
+    "kind": "glas",
+    "text": "Wer schon einmal nach einer Feier eine absurde Geschichte erzählen musste, darf einen kleinen Schluck aus dem Glas wählen. Zeitlimit: 20 Sekunden."
+  },
+  {
+    "id": 460,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "Alle zeigen auf die Person, die am ehesten eine Kneipe kaufen würde. Alle dürfen einen Kommentar dazu abgeben."
+  },
+  {
+    "id": 461,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "Wer ist der größte Chaot in dieser Runde? Alle dürfen einen Kommentar dazu abgeben."
+  },
+  {
+    "id": 462,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "Wer würde bei einem Junggesellenabschied verloren gehen? Alle dürfen einen Kommentar dazu abgeben."
+  },
+  {
+    "id": 463,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "Wer würde bei Monopoly am ehesten ausrasten? Alle dürfen einen Kommentar dazu abgeben."
+  },
+  {
+    "id": 464,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "Wer könnte am besten eine Lüge erzählen, ohne rot zu werden? Alle dürfen einen Kommentar dazu abgeben."
+  },
+  {
+    "id": 465,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "Erfindet gemeinsam einen absurden Namen für eure heutige Party. Alle dürfen einen Kommentar dazu abgeben."
+  },
+  {
+    "id": 466,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "Jeder nennt ein Wort. {spieler1} muss daraus einen Satz bauen. Alle dürfen einen Kommentar dazu abgeben."
+  },
+  {
+    "id": 467,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "{spieler1} und {spieler2}: Erfindet gemeinsam einen absurden Cocktailnamen. Alle dürfen einen Kommentar dazu abgeben."
+  },
+  {
+    "id": 468,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "{spieler1}: Bewirb dich als professioneller Partygast. Alle dürfen einen Kommentar dazu abgeben."
+  },
+  {
+    "id": 469,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "{spieler1}: Präsentiere eine nutzlose Erfindung. Alle dürfen einen Kommentar dazu abgeben."
+  },
+  {
+    "id": 470,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "{spieler1}: Verkaufe einen gebrauchten Kaugummi als Luxusprodukt. Alle dürfen einen Kommentar dazu abgeben."
+  },
+  {
+    "id": 471,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "{spieler1}: Halte eine Pressekonferenz über das Verbot von Montagen. Alle dürfen einen Kommentar dazu abgeben."
+  },
+  {
+    "id": 472,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "Alle machen ein Pokerface. Wer zuerst lacht, verliert. Alle dürfen einen Kommentar dazu abgeben."
+  },
+  {
+    "id": 473,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "Alle nennen einen Filmtitel, der zu {spieler1} passt. Alle dürfen einen Kommentar dazu abgeben."
+  },
+  {
+    "id": 474,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "Wer wäre der schlechteste Bürgermeister dieser Runde? Alle dürfen einen Kommentar dazu abgeben."
+  },
+  {
+    "id": 475,
+    "category": "chaos",
+    "kind": "frage",
+    "text": "Wer wäre in einer Zombie-Apokalypse als Erstes verloren? Alle dürfen einen Kommentar dazu abgeben."
+  },
+  {
+    "id": 476,
+    "category": "paare",
+    "kind": "frage",
+    "text": "{spieler1}, was findest du an deinem Partner besonders attraktiv?"
+  },
+  {
+    "id": 477,
+    "category": "paare",
+    "kind": "frage",
+    "text": "Wer von euch beiden hat beim Kennenlernen den ersten Schritt gemacht?"
+  },
+  {
+    "id": 478,
+    "category": "paare",
+    "kind": "frage",
+    "text": "{spieler1}, was würdest du gern einmal mit deinem Partner unternehmen?"
+  },
+  {
+    "id": 479,
+    "category": "paare",
+    "kind": "frage",
+    "text": "Wer von euch beiden ist romantischer?"
+  },
+  {
+    "id": 480,
+    "category": "paare",
+    "kind": "frage",
+    "text": "{spieler1}, gib deinem Partner einen Kuss, wenn ihr beide möchtet."
+  },
+  {
+    "id": 481,
+    "category": "paare",
+    "kind": "frage",
+    "text": "Wer von euch beiden plant eher eine Überraschung?"
+  },
+  {
+    "id": 482,
+    "category": "paare",
+    "kind": "frage",
+    "text": "{spieler1}, was war euer aufregendstes gemeinsames Erlebnis?"
+  },
+  {
+    "id": 483,
+    "category": "paare",
+    "kind": "frage",
+    "text": "Wer von euch beiden kann schlechter Geheimnisse bewahren?"
+  },
+  {
+    "id": 484,
+    "category": "paare",
+    "kind": "frage",
+    "text": "{spieler1}, flüstere deinem Partner ein freches Kompliment zu, wenn ihr beide möchtet."
+  },
+  {
+    "id": 485,
+    "category": "paare",
+    "kind": "frage",
+    "text": "Wer von euch beiden ist beim Küssen leidenschaftlicher?"
+  },
+  {
+    "id": 486,
+    "category": "paare",
+    "kind": "frage",
+    "text": "{spieler1}, was war dein erster Gedanke über deinen Partner?"
+  },
+  {
+    "id": 487,
+    "category": "paare",
+    "kind": "schluck",
+    "text": "Wenn ihr euch schon einmal wegen einer Kleinigkeit gestritten habt, dürft ihr beide einen Schluck nehmen."
+  },
+  {
+    "id": 488,
+    "category": "paare",
+    "kind": "frage",
+    "text": "{spieler1}, gib deinem Partner einen Stirnkuss, wenn ihr beide möchtet."
+  },
+  {
+    "id": 489,
+    "category": "paare",
+    "kind": "frage",
+    "text": "Wer von euch beiden ist morgens schlechter gelaunt?"
+  },
+  {
+    "id": 490,
+    "category": "paare",
+    "kind": "shot",
+    "text": "Wer von euch beiden hat beim ersten Date mehr geredet? Ihr könnt freiwillig einen Shot wählen."
+  },
+  {
+    "id": 491,
+    "category": "paare",
+    "kind": "frage",
+    "text": "{spieler1}, was findest du an deinem Partner besonders verführerisch?"
+  },
+  {
+    "id": 492,
+    "category": "paare",
+    "kind": "schluck",
+    "text": "Wenn ihr schon einmal heimlich ein Geschenk vorbereitet habt, dürft ihr beide einen Schluck nehmen."
+  },
+  {
+    "id": 493,
+    "category": "paare",
+    "kind": "frage",
+    "text": "Wer von euch beiden würde eher einen Kurzurlaub planen?"
+  },
+  {
+    "id": 494,
+    "category": "paare",
+    "kind": "frage",
+    "text": "{spieler1}, welche gemeinsame Erinnerung bringt dich zum Grinsen?"
+  },
+  {
+    "id": 495,
+    "category": "paare",
+    "kind": "glas",
+    "text": "Wenn ihr gemeinsam etwas Peinliches erlebt habt, dürft ihr einen kleinen Schluck aus dem Glas wählen."
+  },
+  {
+    "id": 496,
+    "category": "paare",
+    "kind": "frage",
+    "text": "{spieler1}, verrate deinem Partner einen Wunsch für euer nächstes Date."
+  },
+  {
+    "id": 497,
+    "category": "paare",
+    "kind": "frage",
+    "text": "{spieler1}, welches gemeinsame Erlebnis würdest du gerne wiederholen?"
+  },
+  {
+    "id": 498,
+    "category": "paare",
+    "kind": "frage",
+    "text": "{spieler1}, sag deinem Partner etwas, das du ihm zu selten sagst."
+  },
+  {
+    "id": 499,
+    "category": "paare",
+    "kind": "frage",
+    "text": "Wenn ihr beide Lust habt, umarmt euch für zehn Sekunden."
+  },
+  {
+    "id": 500,
+    "category": "paare",
+    "kind": "frage",
+    "text": "{spieler1}, welches Abenteuer würdest du gerne gemeinsam erleben?"
+  }
 ]
