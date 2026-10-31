@@ -183,181 +183,181 @@
     "id": 31,
     "category": "party",
     "kind": "frage",
-    "text": "Imitiere eine Person aus der Runde, ohne ihren Namen zu nennen. Bonus: Die Gruppe darf eine Rückfrage stellen."
+    "text": "Imitiere eine Person aus der Runde, ohne ihren Namen zu nennen."
   },
   {
     "id": 32,
     "category": "party",
     "kind": "frage",
-    "text": "Erfinde einen Werbeslogan für {spieler2}. Bonus: Die Gruppe darf eine Rückfrage stellen."
+    "text": "Erfinde einen Werbeslogan für {spieler2}."
   },
   {
     "id": 33,
     "category": "party",
     "kind": "frage",
-    "text": "Erzähle deinen schlechtesten Witz. Bonus: Die Gruppe darf eine Rückfrage stellen."
+    "text": "Erzähle deinen schlechtesten Witz."
   },
   {
     "id": 34,
     "category": "party",
     "kind": "frage",
-    "text": "Führe zehn Sekunden lang deinen schlimmsten Tanzmove vor. Bonus: Die Gruppe darf eine Rückfrage stellen."
+    "text": "Führe zehn Sekunden lang deinen schlimmsten Tanzmove vor."
   },
   {
     "id": 35,
     "category": "party",
     "kind": "frage",
-    "text": "Halte eine Oscar-Rede für einen völlig unnötigen Preis. Bonus: Die Gruppe darf eine Rückfrage stellen."
+    "text": "Halte eine Oscar-Rede für einen völlig unnötigen Preis."
   },
   {
     "id": 36,
     "category": "party",
     "kind": "frage",
-    "text": "Erkläre einem Außerirdischen, was eine Kneipe ist. Bonus: Die Gruppe darf eine Rückfrage stellen."
+    "text": "Erkläre einem Außerirdischen, was eine Kneipe ist."
   },
   {
     "id": 37,
     "category": "party",
     "kind": "frage",
-    "text": "Verkaufe der Gruppe einen unsichtbaren Staubsauger. Bonus: Die Gruppe darf eine Rückfrage stellen."
+    "text": "Verkaufe der Gruppe einen unsichtbaren Staubsauger."
   },
   {
     "id": 38,
     "category": "party",
     "kind": "frage",
-    "text": "Beschreibe {spieler2} wie einen Gebrauchtwagen. Bonus: Die Gruppe darf eine Rückfrage stellen."
+    "text": "Beschreibe {spieler2} wie einen Gebrauchtwagen."
   },
   {
     "id": 39,
     "category": "party",
     "kind": "frage",
-    "text": "Erfinde einen neuen Feiertag und seine Regeln. Bonus: Die Gruppe darf eine Rückfrage stellen."
+    "text": "Erfinde einen neuen Feiertag und seine Regeln."
   },
   {
     "id": 40,
     "category": "party",
     "kind": "frage",
-    "text": "Halte eine leidenschaftliche Rede über Kartoffeln. Bonus: Die Gruppe darf eine Rückfrage stellen."
+    "text": "Halte eine leidenschaftliche Rede über Kartoffeln."
   },
   {
     "id": 41,
     "category": "party",
     "kind": "frage",
-    "text": "Spiele einen Barkeeper, der alle Bestellungen falsch versteht. Bonus: Die Gruppe darf eine Rückfrage stellen."
+    "text": "Spiele einen Barkeeper, der alle Bestellungen falsch versteht."
   },
   {
     "id": 42,
     "category": "party",
     "kind": "frage",
-    "text": "Präsentiere die Gruppe als Fußballmannschaft. Bonus: Die Gruppe darf eine Rückfrage stellen."
+    "text": "Präsentiere die Gruppe als Fußballmannschaft."
   },
   {
     "id": 43,
     "category": "party",
     "kind": "frage",
-    "text": "Erfinde einen absurd schlechten Anmachspruch. Bonus: Die Gruppe darf eine Rückfrage stellen."
+    "text": "Erfinde einen absurd schlechten Anmachspruch."
   },
   {
     "id": 44,
     "category": "party",
     "kind": "frage",
-    "text": "Welche berühmte Person würdest du gern auf diese Party holen? Bonus: Die Gruppe darf eine Rückfrage stellen."
+    "text": "Welche berühmte Person würdest du gern auf diese Party holen?"
   },
   {
     "id": 45,
     "category": "party",
     "kind": "frage",
-    "text": "Welches Lied bringt dich sofort auf die Tanzfläche? Bonus: Die Gruppe darf eine Rückfrage stellen."
+    "text": "Welches Lied bringt dich sofort auf die Tanzfläche?"
   },
   {
     "id": 46,
     "category": "party",
     "kind": "frage",
-    "text": "Was war dein unnötigster Kauf? Bonus: Die Gruppe darf eine Rückfrage stellen."
+    "text": "Was war dein unnötigster Kauf?"
   },
   {
     "id": 47,
     "category": "party",
     "kind": "frage",
-    "text": "Was ist dein völlig nutzloses Talent? Bonus: Die Gruppe darf eine Rückfrage stellen."
+    "text": "Was ist dein völlig nutzloses Talent?"
   },
   {
     "id": 48,
     "category": "party",
     "kind": "frage",
-    "text": "Erzähle deinen lustigsten Versprecher. Bonus: Die Gruppe darf eine Rückfrage stellen."
+    "text": "Erzähle deinen lustigsten Versprecher."
   },
   {
     "id": 49,
     "category": "party",
     "kind": "frage",
-    "text": "Wer aus der Runde würde eine Quizshow als Erstes verlieren? Bonus: Die Gruppe darf eine Rückfrage stellen."
+    "text": "Wer aus der Runde würde eine Quizshow als Erstes verlieren?"
   },
   {
     "id": 50,
     "category": "party",
     "kind": "frage",
-    "text": "Wer würde am ehesten auf einer Hochzeit Karaoke singen? Bonus: Die Gruppe darf eine Rückfrage stellen."
+    "text": "Wer würde am ehesten auf einer Hochzeit Karaoke singen?"
   },
   {
     "id": 51,
     "category": "party",
     "kind": "schluck",
-    "text": "Alle, die schon einmal auf einer Party eingeschlafen sind, nehmen freiwillig einen Schluck. Bonus: Die Gruppe darf eine Rückfrage stellen."
+    "text": "Alle, die schon einmal auf einer Party eingeschlafen sind, nehmen freiwillig einen Schluck."
   },
   {
     "id": 52,
     "category": "party",
     "kind": "schluck",
-    "text": "Alle, die schon einmal beim Tanzen hingefallen sind, nehmen freiwillig einen Schluck. Bonus: Die Gruppe darf eine Rückfrage stellen."
+    "text": "Alle, die schon einmal beim Tanzen hingefallen sind, nehmen freiwillig einen Schluck."
   },
   {
     "id": 53,
     "category": "party",
     "kind": "schluck",
-    "text": "Wer schon einmal seine Jacke auf einer Feier vergessen hat, nimmt freiwillig einen Schluck. Bonus: Die Gruppe darf eine Rückfrage stellen."
+    "text": "Wer schon einmal seine Jacke auf einer Feier vergessen hat, nimmt freiwillig einen Schluck."
   },
   {
     "id": 54,
     "category": "party",
     "kind": "schluck",
-    "text": "Wer schon einmal ein Getränk vor Lachen verschüttet hat, nimmt freiwillig einen Schluck. Bonus: Die Gruppe darf eine Rückfrage stellen."
+    "text": "Wer schon einmal ein Getränk vor Lachen verschüttet hat, nimmt freiwillig einen Schluck."
   },
   {
     "id": 55,
     "category": "party",
     "kind": "shot",
-    "text": "Nenne fünf Dinge, die in einer Kneipe stehen. Wenn du scheiterst, kannst du einen Shot wählen. Bonus: Die Gruppe darf eine Rückfrage stellen."
+    "text": "Nenne fünf Dinge, die in einer Kneipe stehen. Wenn du scheiterst, kannst du einen Shot wählen."
   },
   {
     "id": 56,
     "category": "party",
     "kind": "shot",
-    "text": "Erfinde einen Trinkspruch für die Gruppe. Anschließend darfst du einen Shot wählen. Bonus: Die Gruppe darf eine Rückfrage stellen."
+    "text": "Erfinde einen Trinkspruch für die Gruppe. Anschließend darfst du einen Shot wählen."
   },
   {
     "id": 57,
     "category": "party",
     "kind": "shot",
-    "text": "Wer heute als Letztes angekommen ist, darf einen Shot wählen. Bonus: Die Gruppe darf eine Rückfrage stellen."
+    "text": "Wer heute als Letztes angekommen ist, darf einen Shot wählen."
   },
   {
     "id": 58,
     "category": "party",
     "kind": "glas",
-    "text": "Wer schon einmal etwas auf einer Party verloren hat, darf einen kleinen Schluck aus dem Glas wählen. Bonus: Die Gruppe darf eine Rückfrage stellen."
+    "text": "Wer schon einmal etwas auf einer Party verloren hat, darf einen kleinen Schluck aus dem Glas wählen."
   },
   {
     "id": 59,
     "category": "party",
     "kind": "glas",
-    "text": "Wer schon einmal eine völlig verrückte Partynacht erlebt hat, darf einen kleinen Schluck aus dem Glas wählen. Bonus: Die Gruppe darf eine Rückfrage stellen."
+    "text": "Wer schon einmal eine völlig verrückte Partynacht erlebt hat, darf einen kleinen Schluck aus dem Glas wählen."
   },
   {
     "id": 60,
     "category": "party",
     "kind": "shot",
-    "text": "Wer hat heute die auffälligsten Schuhe? Diese Person darf einen Shot wählen. Bonus: Die Gruppe darf eine Rückfrage stellen."
+    "text": "Wer hat heute die auffälligsten Schuhe? Diese Person darf einen Shot wählen."
   },
   {
     "id": 61,
@@ -375,109 +375,109 @@
     "id": 63,
     "category": "party",
     "kind": "frage",
-    "text": "Erzähle deinen schlechtesten Witz. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
+    "text": "Spiele 20 Sekunden lang einen Nachrichtensprecher, der über eine verschwundene Socke berichtet."
   },
   {
     "id": 64,
     "category": "party",
     "kind": "frage",
-    "text": "Führe zehn Sekunden lang deinen schlimmsten Tanzmove vor. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
+    "text": "Verkaufe der Gruppe einen unsichtbaren Kühlschrank für 9.999 Euro."
   },
   {
     "id": 65,
     "category": "party",
     "kind": "frage",
-    "text": "Halte eine Oscar-Rede für einen völlig unnötigen Preis. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
+    "text": "Singe deinen Namen wie den Refrain eines dramatischen Schlagers."
   },
   {
     "id": 66,
     "category": "party",
     "kind": "frage",
-    "text": "Erkläre einem Außerirdischen, was eine Kneipe ist. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
+    "text": "Halte eine völlig ernste Trauerrede für ein leeres Bierglas."
   },
   {
     "id": 67,
     "category": "party",
     "kind": "frage",
-    "text": "Verkaufe der Gruppe einen unsichtbaren Staubsauger. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
+    "text": "Erkläre wie ein Fußballkommentator, wie du dir die Schuhe bindest."
   },
   {
     "id": 68,
     "category": "party",
     "kind": "frage",
-    "text": "Beschreibe {spieler2} wie einen Gebrauchtwagen. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
+    "text": "Führe einen Siegestanz auf, als hättest du gerade die Weltmeisterschaft gewonnen."
   },
   {
     "id": 69,
     "category": "party",
     "kind": "frage",
-    "text": "Erfinde einen neuen Feiertag und seine Regeln. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
+    "text": "Sprich bis zum nächsten Kartenwechsel wie ein übermotivierter Fitnesscoach."
   },
   {
     "id": 70,
     "category": "party",
     "kind": "frage",
-    "text": "Halte eine leidenschaftliche Rede über Kartoffeln. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
+    "text": "Imitiere einen Roboter, der zum ersten Mal Alkohol entdeckt."
   },
   {
     "id": 71,
     "category": "party",
     "kind": "frage",
-    "text": "Spiele einen Barkeeper, der alle Bestellungen falsch versteht. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
+    "text": "Erfinde einen Werbespot für eine Zahnbürste mit WLAN."
   },
   {
     "id": 72,
     "category": "party",
     "kind": "frage",
-    "text": "Präsentiere die Gruppe als Fußballmannschaft. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
+    "text": "Erzähle einen Witz. Lacht niemand, musst du ihn noch dramatischer wiederholen."
   },
   {
     "id": 73,
     "category": "party",
     "kind": "frage",
-    "text": "Erfinde einen absurd schlechten Anmachspruch. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
+    "text": "Führe ein Bewerbungsgespräch für den Beruf „professioneller Sofalieger“."
   },
   {
     "id": 74,
     "category": "party",
     "kind": "frage",
-    "text": "Welche berühmte Person würdest du gern auf diese Party holen? Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
+    "text": "Mache eine Modenschau mit deinem aktuellen Outfit und kommentiere sie selbst."
   },
   {
     "id": 75,
     "category": "party",
     "kind": "frage",
-    "text": "Welches Lied bringt dich sofort auf die Tanzfläche? Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
+    "text": "Verhalte dich 15 Sekunden wie ein König, der seine Untertanen begrüßt."
   },
   {
     "id": 76,
     "category": "party",
     "kind": "frage",
-    "text": "Was war dein unnötigster Kauf? Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
+    "text": "Erfinde eine neue Tanzbewegung. Alle dürfen sie nachmachen."
   },
   {
     "id": 77,
     "category": "party",
     "kind": "frage",
-    "text": "Was ist dein völlig nutzloses Talent? Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
+    "text": "Beschreibe deinen letzten Toilettengang wie einen spannenden Actionfilm – ohne Details."
   },
   {
     "id": 78,
     "category": "party",
     "kind": "frage",
-    "text": "Erzähle deinen lustigsten Versprecher. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
+    "text": "Halte eine Motivationsrede an einen imaginären Toast."
   },
   {
     "id": 79,
     "category": "party",
     "kind": "frage",
-    "text": "Wer aus der Runde würde eine Quizshow als Erstes verlieren? Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
+    "text": "Imitiere drei verschiedene Wecker hintereinander."
   },
   {
     "id": 80,
     "category": "party",
     "kind": "frage",
-    "text": "Wer würde am ehesten auf einer Hochzeit Karaoke singen? Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
+    "text": "Erfinde einen schlechten Rap über die Person links von dir."
   },
   {
     "id": 81,
@@ -543,37 +543,37 @@
     "id": 91,
     "category": "party",
     "kind": "frage",
-    "text": "Imitiere eine Person aus der Runde, ohne ihren Namen zu nennen. Bonus: Lass die Gruppe anschließend abstimmen."
+    "text": "Spiele einen Kellner, der eine völlig absurde Tageskarte vorstellt."
   },
   {
     "id": 92,
     "category": "party",
     "kind": "frage",
-    "text": "Erfinde einen Werbeslogan für {spieler2}. Bonus: Lass die Gruppe anschließend abstimmen."
+    "text": "Sage das Alphabet so verführerisch wie möglich, ohne zu lachen."
   },
   {
     "id": 93,
     "category": "party",
     "kind": "frage",
-    "text": "Erzähle deinen schlechtesten Witz. Bonus: Lass die Gruppe anschließend abstimmen."
+    "text": "Erfinde einen Superheldennamen für dich und demonstriere deine Superkraft."
   },
   {
     "id": 94,
     "category": "party",
     "kind": "frage",
-    "text": "Führe zehn Sekunden lang deinen schlimmsten Tanzmove vor. Bonus: Lass die Gruppe anschließend abstimmen."
+    "text": "Sprich 20 Sekunden wie ein Außerirdischer und übersetze dich selbst."
   },
   {
     "id": 95,
     "category": "party",
     "kind": "frage",
-    "text": "Halte eine Oscar-Rede für einen völlig unnötigen Preis. Bonus: Lass die Gruppe anschließend abstimmen."
+    "text": "Mache eine überzeugende Werbung für Luft in Dosen."
   },
   {
     "id": 96,
     "category": "party",
     "kind": "frage",
-    "text": "Erkläre einem Außerirdischen, was eine Kneipe ist. Bonus: Lass die Gruppe anschließend abstimmen."
+    "text": "Verleihe jemandem aus der Runde einen Oscar für eine völlig absurde Leistung."
   },
   {
     "id": 97,
@@ -879,241 +879,241 @@
     "id": 147,
     "category": "peinlich",
     "kind": "frage",
-    "text": "Was war deine peinlichste Situation bei einem Date? Die Gruppe darf eine harmlose Rückfrage stellen."
+    "text": "Was war deine peinlichste Situation bei einem Date?"
   },
   {
     "id": 148,
     "category": "peinlich",
     "kind": "frage",
-    "text": "Welche Nachricht würdest du gern ungeschehen machen? Die Gruppe darf eine harmlose Rückfrage stellen."
+    "text": "Welche Nachricht würdest du gern ungeschehen machen?"
   },
   {
     "id": 149,
     "category": "peinlich",
     "kind": "frage",
-    "text": "Wann hast du dich zuletzt komplett blamiert? Die Gruppe darf eine harmlose Rückfrage stellen."
+    "text": "Wann hast du dich zuletzt komplett blamiert?"
   },
   {
     "id": 150,
     "category": "peinlich",
     "kind": "frage",
-    "text": "Was war dein schlimmster Versuch, cool zu wirken? Die Gruppe darf eine harmlose Rückfrage stellen."
+    "text": "Was war dein schlimmster Versuch, cool zu wirken?"
   },
   {
     "id": 151,
     "category": "peinlich",
     "kind": "frage",
-    "text": "Welcher alte Spitzname ist dir heute unangenehm? Die Gruppe darf eine harmlose Rückfrage stellen."
+    "text": "Welcher alte Spitzname ist dir heute unangenehm?"
   },
   {
     "id": 152,
     "category": "peinlich",
     "kind": "frage",
-    "text": "Was war dein schlimmster Mode-Fauxpas? Die Gruppe darf eine harmlose Rückfrage stellen."
+    "text": "Was war dein schlimmster Mode-Fauxpas?"
   },
   {
     "id": 153,
     "category": "peinlich",
     "kind": "frage",
-    "text": "Wann hast du dich zuletzt beim Flirten verhaspelt? Die Gruppe darf eine harmlose Rückfrage stellen."
+    "text": "Mache deinen schlechtesten Anmachspruch mit voller Überzeugung vor."
   },
   {
     "id": 154,
     "category": "peinlich",
     "kind": "frage",
-    "text": "Was ist deine absurdeste Ausrede für Zuspätkommen? Die Gruppe darf eine harmlose Rückfrage stellen."
+    "text": "Spiele eine Szene, in der du aus Versehen deiner eigenen Mutter ein Date anbietest."
   },
   {
     "id": 155,
     "category": "peinlich",
     "kind": "frage",
-    "text": "Wobei wurdest du zuletzt erwischt? Die Gruppe darf eine harmlose Rückfrage stellen."
+    "text": "Flirte 15 Sekunden lang mit einem imaginären Parkautomaten."
   },
   {
     "id": 156,
     "category": "peinlich",
     "kind": "frage",
-    "text": "Was war dein peinlichstes Missverständnis? Die Gruppe darf eine harmlose Rückfrage stellen."
+    "text": "Imitiere, wie du aussiehst, wenn du versuchst, heimlich einen Furz zu verstecken."
   },
   {
     "id": 157,
     "category": "peinlich",
     "kind": "frage",
-    "text": "Wer aus der Runde ist der größte Klugscheißer? Die Gruppe darf eine harmlose Rückfrage stellen."
+    "text": "Halte eine Liebeserklärung an deine eigene Frisur."
   },
   {
     "id": 158,
     "category": "peinlich",
     "kind": "frage",
-    "text": "Wer könnte am schlechtesten ein Geheimnis bewahren? Die Gruppe darf eine harmlose Rückfrage stellen."
+    "text": "Stelle deinen peinlichsten Tanzmove vor – ohne Musik."
   },
   {
     "id": 159,
     "category": "peinlich",
     "kind": "frage",
-    "text": "Wer aus der Runde braucht immer das letzte Wort? Die Gruppe darf eine harmlose Rückfrage stellen."
+    "text": "Spiele ein Date nach, bei dem du nur über Kartoffeln redest."
   },
   {
     "id": 160,
     "category": "peinlich",
     "kind": "frage",
-    "text": "Welche Angewohnheit von dir ist dir selbst peinlich? Die Gruppe darf eine harmlose Rückfrage stellen."
+    "text": "Erfinde drei katastrophale Profiltexte für eine Dating-App."
   },
   {
     "id": 161,
     "category": "peinlich",
     "kind": "frage",
-    "text": "Welches alte Foto von dir dürfte niemand sehen? Die Gruppe darf eine harmlose Rückfrage stellen."
+    "text": "Sprich 20 Sekunden mit der Stimme eines übertriebenen Verführers."
   },
   {
     "id": 162,
     "category": "peinlich",
     "kind": "schluck",
-    "text": "Alle, die schon einmal die falsche Person angeschrieben haben, nehmen freiwillig einen Schluck. Die Gruppe darf eine harmlose Rückfrage stellen."
+    "text": "Alle, die schon einmal die falsche Person angeschrieben haben, nehmen freiwillig einen Schluck."
   },
   {
     "id": 163,
     "category": "peinlich",
     "kind": "schluck",
-    "text": "Alle, die schon einmal eine Nachricht bereut haben, nehmen freiwillig einen Schluck. Die Gruppe darf eine harmlose Rückfrage stellen."
+    "text": "Alle, die schon einmal eine Nachricht bereut haben, nehmen freiwillig einen Schluck."
   },
   {
     "id": 164,
     "category": "peinlich",
     "kind": "schluck",
-    "text": "Wer schon einmal beim Lügen erwischt wurde, nimmt freiwillig einen Schluck. Die Gruppe darf eine harmlose Rückfrage stellen."
+    "text": "Wer schon einmal beim Lügen erwischt wurde, nimmt freiwillig einen Schluck."
   },
   {
     "id": 165,
     "category": "peinlich",
     "kind": "schluck",
-    "text": "Wer schon einmal vor anderen hingefallen ist, nimmt freiwillig einen Schluck. Die Gruppe darf eine harmlose Rückfrage stellen."
+    "text": "Wer schon einmal vor anderen hingefallen ist, nimmt freiwillig einen Schluck."
   },
   {
     "id": 166,
     "category": "peinlich",
     "kind": "schluck",
-    "text": "Wer schon einmal jemanden absichtlich ignoriert hat, nimmt freiwillig einen Schluck. Die Gruppe darf eine harmlose Rückfrage stellen."
+    "text": "Wer schon einmal jemanden absichtlich ignoriert hat, nimmt freiwillig einen Schluck."
   },
   {
     "id": 167,
     "category": "peinlich",
     "kind": "shot",
-    "text": "Erzähle von einer Dating-Panne oder wähle freiwillig einen Shot. Die Gruppe darf eine harmlose Rückfrage stellen."
+    "text": "Erzähle von einer Dating-Panne oder wähle freiwillig einen Shot."
   },
   {
     "id": 168,
     "category": "peinlich",
     "kind": "shot",
-    "text": "Verrate eine peinliche Angewohnheit oder wähle freiwillig einen Shot. Die Gruppe darf eine harmlose Rückfrage stellen."
+    "text": "Verrate eine peinliche Angewohnheit oder wähle freiwillig einen Shot."
   },
   {
     "id": 169,
     "category": "peinlich",
     "kind": "shot",
-    "text": "Wer heute die meisten ungelesenen Nachrichten hat, darf einen Shot wählen. Die Gruppe darf eine harmlose Rückfrage stellen."
+    "text": "Wer heute die meisten ungelesenen Nachrichten hat, darf einen Shot wählen."
   },
   {
     "id": 170,
     "category": "peinlich",
     "kind": "glas",
-    "text": "Wer schon einmal beim Lästern erwischt wurde, darf einen kleinen Schluck aus dem Glas wählen. Die Gruppe darf eine harmlose Rückfrage stellen."
+    "text": "Wer schon einmal beim Lästern erwischt wurde, darf einen kleinen Schluck aus dem Glas wählen."
   },
   {
     "id": 171,
     "category": "peinlich",
     "kind": "glas",
-    "text": "Wer schon einmal beim Flirten einen Korb bekommen hat, darf einen kleinen Schluck aus dem Glas wählen. Die Gruppe darf eine harmlose Rückfrage stellen."
+    "text": "Wer schon einmal beim Flirten einen Korb bekommen hat, darf einen kleinen Schluck aus dem Glas wählen."
   },
   {
     "id": 172,
     "category": "peinlich",
     "kind": "frage",
-    "text": "Was war deine peinlichste Situation bei einem Date? Beschreibe die Situation in drei Worten, bevor du antwortest."
+    "text": "Versuche, die Gruppe mit einem absichtlich schlechten Zaubertrick zu beeindrucken."
   },
   {
     "id": 173,
     "category": "peinlich",
     "kind": "frage",
-    "text": "Welche Nachricht würdest du gern ungeschehen machen? Beschreibe die Situation in drei Worten, bevor du antwortest."
+    "text": "Imitiere deinen Gesichtsausdruck, wenn du eine peinliche Nachricht falsch verschickst."
   },
   {
     "id": 174,
     "category": "peinlich",
     "kind": "frage",
-    "text": "Wann hast du dich zuletzt komplett blamiert? Beschreibe die Situation in drei Worten, bevor du antwortest."
+    "text": "Führe ein ernstes Streitgespräch mit einem imaginären Staubsauger."
   },
   {
     "id": 175,
     "category": "peinlich",
     "kind": "frage",
-    "text": "Was war dein schlimmster Versuch, cool zu wirken? Beschreibe die Situation in drei Worten, bevor du antwortest."
+    "text": "Spiele eine dramatische Trennung von deinem Lieblingssnack."
   },
   {
     "id": 176,
     "category": "peinlich",
     "kind": "frage",
-    "text": "Welcher alte Spitzname ist dir heute unangenehm? Beschreibe die Situation in drei Worten, bevor du antwortest."
+    "text": "Verkünde deine letzte peinliche Google-Suche als Wetterbericht – oder erfinde eine."
   },
   {
     "id": 177,
     "category": "peinlich",
     "kind": "frage",
-    "text": "Was war dein schlimmster Mode-Fauxpas? Beschreibe die Situation in drei Worten, bevor du antwortest."
+    "text": "Führe ein Bewerbungsgespräch als „König der schlechten Ausreden“."
   },
   {
     "id": 178,
     "category": "peinlich",
     "kind": "frage",
-    "text": "Wann hast du dich zuletzt beim Flirten verhaspelt? Beschreibe die Situation in drei Worten, bevor du antwortest."
+    "text": "Imitiere jemanden, der auf einer Party viel zu cool wirken will."
   },
   {
     "id": 179,
     "category": "peinlich",
     "kind": "frage",
-    "text": "Was ist deine absurdeste Ausrede für Zuspätkommen? Beschreibe die Situation in drei Worten, bevor du antwortest."
+    "text": "Erfinde eine völlig übertriebene Ausrede dafür, dass du fünf Minuten zu spät bist."
   },
   {
     "id": 180,
     "category": "peinlich",
     "kind": "frage",
-    "text": "Wobei wurdest du zuletzt erwischt? Beschreibe die Situation in drei Worten, bevor du antwortest."
+    "text": "Präsentiere deinen schlimmsten Flirtblick in Zeitlupe."
   },
   {
     "id": 181,
     "category": "peinlich",
     "kind": "frage",
-    "text": "Was war dein peinlichstes Missverständnis? Beschreibe die Situation in drei Worten, bevor du antwortest."
+    "text": "Spiele einen Heiratsantrag an einen unsichtbaren Döner."
   },
   {
     "id": 182,
     "category": "peinlich",
     "kind": "frage",
-    "text": "Wer aus der Runde ist der größte Klugscheißer? Beschreibe die Situation in drei Worten, bevor du antwortest."
+    "text": "Erfinde einen peinlichen Spitznamen für dich und stelle dich damit vor."
   },
   {
     "id": 183,
     "category": "peinlich",
     "kind": "frage",
-    "text": "Wer könnte am schlechtesten ein Geheimnis bewahren? Beschreibe die Situation in drei Worten, bevor du antwortest."
+    "text": "Halte eine 15-sekündige Dankesrede für den Preis „größter Tollpatsch“."
   },
   {
     "id": 184,
     "category": "peinlich",
     "kind": "frage",
-    "text": "Wer aus der Runde braucht immer das letzte Wort? Beschreibe die Situation in drei Worten, bevor du antwortest."
+    "text": "Imitiere, wie du dich nach einer extrem peinlichen Sprachnachricht verhältst."
   },
   {
     "id": 185,
     "category": "peinlich",
     "kind": "frage",
-    "text": "Welche Angewohnheit von dir ist dir selbst peinlich? Beschreibe die Situation in drei Worten, bevor du antwortest."
+    "text": "Stelle ein Date nach, bei dem du ständig deinen eigenen Namen vergisst."
   },
   {
     "id": 186,
     "category": "peinlich",
     "kind": "frage",
-    "text": "Welches alte Foto von dir dürfte niemand sehen? Beschreibe die Situation in drei Worten, bevor du antwortest."
+    "text": "Erfinde einen dramatischen Songtitel über deine letzte Blamage."
   },
   {
     "id": 187,
@@ -2655,49 +2655,49 @@
     "id": 443,
     "category": "chaos",
     "kind": "frage",
-    "text": "{spieler1}: Bewirb dich als professioneller Partygast. Zeitlimit: 20 Sekunden."
+    "text": "ALLE SPIELER: Macht gleichzeitig euer bestes Tiergeräusch. Die lauteste Überraschung gewinnt."
   },
   {
     "id": 444,
     "category": "chaos",
     "kind": "frage",
-    "text": "{spieler1}: Präsentiere eine nutzlose Erfindung. Zeitlimit: 20 Sekunden."
+    "text": "ALLE SPIELER: Zeigt gleichzeitig eure schlimmste Grimasse. Niemand darf lachen."
   },
   {
     "id": 445,
     "category": "chaos",
     "kind": "frage",
-    "text": "{spieler1}: Verkaufe einen gebrauchten Kaugummi als Luxusprodukt. Zeitlimit: 20 Sekunden."
+    "text": "ALLE SPIELER: Zählt reihum bis 20. Wer eine Zahl mit 3 nennt, muss „Miau“ sagen."
   },
   {
     "id": 446,
     "category": "chaos",
     "kind": "frage",
-    "text": "{spieler1}: Halte eine Pressekonferenz über das Verbot von Montagen. Zeitlimit: 20 Sekunden."
+    "text": "ALLE SPIELER: Jeder erfindet einen Superheldennamen für die Person rechts von sich."
   },
   {
     "id": 447,
     "category": "chaos",
     "kind": "frage",
-    "text": "Alle machen ein Pokerface. Wer zuerst lacht, verliert. Zeitlimit: 20 Sekunden."
+    "text": "ALLE SPIELER: Bildet zusammen einen imaginären Chor und singt einmal „Guten Abend“."
   },
   {
     "id": 448,
     "category": "chaos",
     "kind": "frage",
-    "text": "Alle nennen einen Filmtitel, der zu {spieler1} passt. Zeitlimit: 20 Sekunden."
+    "text": "ALLE SPIELER: Zeigt gleichzeitig auf die Person mit dem besten Pokerface."
   },
   {
     "id": 449,
     "category": "chaos",
     "kind": "frage",
-    "text": "Wer wäre der schlechteste Bürgermeister dieser Runde? Zeitlimit: 20 Sekunden."
+    "text": "ALLE SPIELER: Jede Person macht nacheinander ein Geräusch. Zusammen entsteht ein Beat."
   },
   {
     "id": 450,
     "category": "chaos",
     "kind": "frage",
-    "text": "Wer wäre in einer Zombie-Apokalypse als Erstes verloren? Zeitlimit: 20 Sekunden."
+    "text": "ALLE SPIELER: Redet 10 Sekunden nur in erfundenen Wörtern miteinander."
   },
   {
     "id": 451,
@@ -2757,97 +2757,97 @@
     "id": 460,
     "category": "chaos",
     "kind": "frage",
-    "text": "Alle zeigen auf die Person, die am ehesten eine Kneipe kaufen würde. Alle dürfen einen Kommentar dazu abgeben."
+    "text": "ALLE SPIELER: Macht gleichzeitig eine Pose wie auf einem völlig misslungenen Gruppenfoto."
   },
   {
     "id": 461,
     "category": "chaos",
     "kind": "frage",
-    "text": "Wer ist der größte Chaot in dieser Runde? Alle dürfen einen Kommentar dazu abgeben."
+    "text": "ALLE SPIELER: Jeder nennt ein Wort. Baut daraus gemeinsam die dümmste Geschichte."
   },
   {
     "id": 462,
     "category": "chaos",
     "kind": "frage",
-    "text": "Wer würde bei einem Junggesellenabschied verloren gehen? Alle dürfen einen Kommentar dazu abgeben."
+    "text": "ALLE SPIELER: Versucht gemeinsam, 10 Sekunden ernst zu bleiben, während alle Grimassen schneiden."
   },
   {
     "id": 463,
     "category": "chaos",
     "kind": "frage",
-    "text": "Wer würde bei Monopoly am ehesten ausrasten? Alle dürfen einen Kommentar dazu abgeben."
+    "text": "ALLE SPIELER: Jeder macht nacheinander eine Tanzbewegung. Die nächste Person ergänzt eine."
   },
   {
     "id": 464,
     "category": "chaos",
     "kind": "frage",
-    "text": "Wer könnte am besten eine Lüge erzählen, ohne rot zu werden? Alle dürfen einen Kommentar dazu abgeben."
+    "text": "ALLE SPIELER: Zeigt gleichzeitig auf den wahrscheinlichsten heimlichen Karaoke-Star."
   },
   {
     "id": 465,
     "category": "chaos",
     "kind": "frage",
-    "text": "Erfindet gemeinsam einen absurden Namen für eure heutige Party. Alle dürfen einen Kommentar dazu abgeben."
+    "text": "ALLE SPIELER: Ruft gleichzeitig einen absurden Namen für eure Gruppe."
   },
   {
     "id": 466,
     "category": "chaos",
     "kind": "frage",
-    "text": "Jeder nennt ein Wort. {spieler1} muss daraus einen Satz bauen. Alle dürfen einen Kommentar dazu abgeben."
+    "text": "ALLE SPIELER: Spielt eine Band – ohne Instrumente, aber mit vollem Einsatz."
   },
   {
     "id": 467,
     "category": "chaos",
     "kind": "frage",
-    "text": "{spieler1} und {spieler2}: Erfindet gemeinsam einen absurden Cocktailnamen. Alle dürfen einen Kommentar dazu abgeben."
+    "text": "ALLE SPIELER: Jeder nennt ein Tier. Danach macht ihr eure Tiergeräusche gleichzeitig."
   },
   {
     "id": 468,
     "category": "chaos",
     "kind": "frage",
-    "text": "{spieler1}: Bewirb dich als professioneller Partygast. Alle dürfen einen Kommentar dazu abgeben."
+    "text": "ALLE SPIELER: Erfindet zusammen einen völlig sinnlosen Werbeslogan."
   },
   {
     "id": 469,
     "category": "chaos",
     "kind": "frage",
-    "text": "{spieler1}: Präsentiere eine nutzlose Erfindung. Alle dürfen einen Kommentar dazu abgeben."
+    "text": "ALLE SPIELER: Macht eine gemeinsame La-Ola-Welle im Sitzen."
   },
   {
     "id": 470,
     "category": "chaos",
     "kind": "frage",
-    "text": "{spieler1}: Verkaufe einen gebrauchten Kaugummi als Luxusprodukt. Alle dürfen einen Kommentar dazu abgeben."
+    "text": "ALLE SPIELER: Jede Person sagt einen Satz, bis eine absurde Liebesgeschichte entsteht."
   },
   {
     "id": 471,
     "category": "chaos",
     "kind": "frage",
-    "text": "{spieler1}: Halte eine Pressekonferenz über das Verbot von Montagen. Alle dürfen einen Kommentar dazu abgeben."
+    "text": "ALLE SPIELER: Stellt euch vor, ihr seid im Fahrstuhl fest. Spielt 15 Sekunden Panik."
   },
   {
     "id": 472,
     "category": "chaos",
     "kind": "frage",
-    "text": "Alle machen ein Pokerface. Wer zuerst lacht, verliert. Alle dürfen einen Kommentar dazu abgeben."
+    "text": "ALLE SPIELER: Wählt gleichzeitig per Fingerzeig den größten Drama-König der Runde."
   },
   {
     "id": 473,
     "category": "chaos",
     "kind": "frage",
-    "text": "Alle nennen einen Filmtitel, der zu {spieler1} passt. Alle dürfen einen Kommentar dazu abgeben."
+    "text": "ALLE SPIELER: Jede Person imitiert kurz ein anderes Verkehrsmittel."
   },
   {
     "id": 474,
     "category": "chaos",
     "kind": "frage",
-    "text": "Wer wäre der schlechteste Bürgermeister dieser Runde? Alle dürfen einen Kommentar dazu abgeben."
+    "text": "ALLE SPIELER: Erfindet gemeinsam einen neuen Trinkspruch – auch mit alkoholfreiem Getränk."
   },
   {
     "id": 475,
     "category": "chaos",
     "kind": "frage",
-    "text": "Wer wäre in einer Zombie-Apokalypse als Erstes verloren? Alle dürfen einen Kommentar dazu abgeben."
+    "text": "ALLE SPIELER: Macht ein imaginäres Gruppen-Selfie mit der schlimmsten Pose überhaupt."
   },
   {
     "id": 476,
