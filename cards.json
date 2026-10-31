@@ -3,7 +3,7 @@
     "id": 1,
     "category": "party",
     "kind": "frage",
-    "text": "Imitiere eine Person aus der Runde, ohne ihren Namen zu nennen."
+    "text": "Halte eine dramatische Trauerrede für eine verschwundene Pommes."
   },
   {
     "id": 2,
@@ -21,7 +21,7 @@
     "id": 4,
     "category": "party",
     "kind": "frage",
-    "text": "Führe zehn Sekunden lang deinen schlimmsten Tanzmove vor."
+    "text": "Verkaufe deine linke Socke als Luxusartikel für 10.000 Euro."
   },
   {
     "id": 5,
@@ -45,7 +45,7 @@
     "id": 8,
     "category": "party",
     "kind": "frage",
-    "text": "Beschreibe {spieler2} wie einen Gebrauchtwagen."
+    "text": "Spiele einen Nachrichtensprecher, der über eine ausgebrochene Gurke berichtet."
   },
   {
     "id": 9,
@@ -63,7 +63,7 @@
     "id": 11,
     "category": "party",
     "kind": "frage",
-    "text": "Spiele einen Barkeeper, der alle Bestellungen falsch versteht."
+    "text": "Erkläre einer unsichtbaren Oma, wie Tinder funktioniert."
   },
   {
     "id": 12,
@@ -81,7 +81,7 @@
     "id": 14,
     "category": "party",
     "kind": "frage",
-    "text": "Welche berühmte Person würdest du gern auf diese Party holen?"
+    "text": "Führe einen Streit mit einem imaginären Staubsauger."
   },
   {
     "id": 15,
@@ -99,7 +99,7 @@
     "id": 17,
     "category": "party",
     "kind": "frage",
-    "text": "Was ist dein völlig nutzloses Talent?"
+    "text": "Singe den Satz „Ich bin eine Kartoffel“ wie eine Operndiva."
   },
   {
     "id": 18,
@@ -122,62 +122,62 @@
   {
     "id": 21,
     "category": "party",
-    "kind": "schluck",
-    "text": "Alle, die schon einmal auf einer Party eingeschlafen sind, nehmen freiwillig einen Schluck."
+    "kind": "frage",
+    "text": "Imitiere einen Influencer, der Leitungswasser auspackt."
   },
   {
     "id": 22,
     "category": "party",
     "kind": "schluck",
-    "text": "Alle, die schon einmal beim Tanzen hingefallen sind, nehmen freiwillig einen Schluck."
+    "text": "Alle, die schon einmal beim Tanzen hingefallen sind, trinken einen Schluck."
   },
   {
     "id": 23,
     "category": "party",
     "kind": "schluck",
-    "text": "Wer schon einmal seine Jacke auf einer Feier vergessen hat, nimmt freiwillig einen Schluck."
+    "text": "Wer schon einmal seine Jacke auf einer Feier vergessen hat, trinkt einen Schluck."
   },
   {
     "id": 24,
     "category": "party",
-    "kind": "schluck",
-    "text": "Wer schon einmal ein Getränk vor Lachen verschüttet hat, nimmt freiwillig einen Schluck."
+    "kind": "frage",
+    "text": "Halte eine Oscar-Rede, weil du erfolgreich aufgestanden bist."
   },
   {
     "id": 25,
     "category": "party",
     "kind": "shot",
-    "text": "Nenne fünf Dinge, die in einer Kneipe stehen. Wenn du scheiterst, kannst du einen Shot wählen."
+    "text": "Nenne fünf Dinge, die in einer Kneipe stehen. Wenn du scheiterst, trink einen Shot."
   },
   {
     "id": 26,
     "category": "party",
     "kind": "shot",
-    "text": "Erfinde einen Trinkspruch für die Gruppe. Anschließend darfst du einen Shot wählen."
+    "text": "Erfinde einen Trinkspruch für die Gruppe. Anschließend: Trink einen Shot."
   },
   {
     "id": 27,
     "category": "party",
-    "kind": "shot",
-    "text": "Wer heute als Letztes angekommen ist, darf einen Shot wählen."
+    "kind": "frage",
+    "text": "Spiele einen Fußballkommentator beim Öffnen einer Chipstüte."
   },
   {
     "id": 28,
     "category": "party",
     "kind": "glas",
-    "text": "Wer schon einmal etwas auf einer Party verloren hat, darf einen kleinen Schluck aus dem Glas wählen."
+    "text": "Wer schon einmal etwas auf einer Party verloren hat, trinkt einen Schluck."
   },
   {
     "id": 29,
     "category": "party",
     "kind": "glas",
-    "text": "Wer schon einmal eine völlig verrückte Partynacht erlebt hat, darf einen kleinen Schluck aus dem Glas wählen."
+    "text": "Wer schon einmal eine völlig verrückte Partynacht erlebt hat, trinkt einen Schluck."
   },
   {
     "id": 30,
     "category": "party",
-    "kind": "shot",
-    "text": "Wer hat heute die auffälligsten Schuhe? Diese Person darf einen Shot wählen."
+    "kind": "frage",
+    "text": "Mache 15 Sekunden Werbung für einen unsichtbaren BH für Elefanten."
   },
   {
     "id": 31,
@@ -201,7 +201,7 @@
     "id": 34,
     "category": "party",
     "kind": "frage",
-    "text": "Führe zehn Sekunden lang deinen schlimmsten Tanzmove vor."
+    "text": "Spiele einen Türsteher, der eine Banane nicht in den Club lässt."
   },
   {
     "id": 35,
@@ -219,7 +219,7 @@
     "id": 37,
     "category": "party",
     "kind": "frage",
-    "text": "Verkaufe der Gruppe einen unsichtbaren Staubsauger."
+    "text": "Sprich 20 Sekunden wie ein Bösewicht, der die Weltherrschaft mit Käse plant."
   },
   {
     "id": 38,
@@ -237,7 +237,7 @@
     "id": 40,
     "category": "party",
     "kind": "frage",
-    "text": "Halte eine leidenschaftliche Rede über Kartoffeln."
+    "text": "Führe ein Bewerbungsgespräch für den Job als professioneller Mittagsschläfer."
   },
   {
     "id": 41,
@@ -261,7 +261,7 @@
     "id": 44,
     "category": "party",
     "kind": "frage",
-    "text": "Welche berühmte Person würdest du gern auf diese Party holen?"
+    "text": "Erkläre einer Zimmerpflanze, warum du heute Abend nicht nach Hause kommst."
   },
   {
     "id": 45,
@@ -279,7 +279,7 @@
     "id": 47,
     "category": "party",
     "kind": "frage",
-    "text": "Was ist dein völlig nutzloses Talent?"
+    "text": "Imitiere einen Navi-Ansager, der in einer Beziehung Schluss macht."
   },
   {
     "id": 48,
@@ -297,85 +297,85 @@
     "id": 50,
     "category": "party",
     "kind": "frage",
-    "text": "Wer würde am ehesten auf einer Hochzeit Karaoke singen?"
+    "text": "Verkaufe einen Luftkuss als exklusive VIP-Mitgliedschaft."
   },
   {
     "id": 51,
     "category": "party",
     "kind": "schluck",
-    "text": "Alle, die schon einmal auf einer Party eingeschlafen sind, nehmen freiwillig einen Schluck."
+    "text": "Alle, die schon einmal auf einer Party eingeschlafen sind, trinken einen Schluck."
   },
   {
     "id": 52,
     "category": "party",
     "kind": "schluck",
-    "text": "Alle, die schon einmal beim Tanzen hingefallen sind, nehmen freiwillig einen Schluck."
+    "text": "Alle, die schon einmal beim Tanzen hingefallen sind, trinken einen Schluck."
   },
   {
     "id": 53,
     "category": "party",
-    "kind": "schluck",
-    "text": "Wer schon einmal seine Jacke auf einer Feier vergessen hat, nimmt freiwillig einen Schluck."
+    "kind": "frage",
+    "text": "Spiele eine dramatische Szene, in der dein Döner dich verlässt."
   },
   {
     "id": 54,
     "category": "party",
     "kind": "schluck",
-    "text": "Wer schon einmal ein Getränk vor Lachen verschüttet hat, nimmt freiwillig einen Schluck."
+    "text": "Wer schon einmal ein Getränk vor Lachen verschüttet hat, trinkt einen Schluck."
   },
   {
     "id": 55,
     "category": "party",
     "kind": "shot",
-    "text": "Nenne fünf Dinge, die in einer Kneipe stehen. Wenn du scheiterst, kannst du einen Shot wählen."
+    "text": "Nenne fünf Dinge, die in einer Kneipe stehen. Wenn du scheiterst, trink einen Shot."
   },
   {
     "id": 56,
     "category": "party",
     "kind": "shot",
-    "text": "Erfinde einen Trinkspruch für die Gruppe. Anschließend darfst du einen Shot wählen."
+    "text": "Erfinde einen Trinkspruch für die Gruppe. Anschließend: Trink einen Shot."
   },
   {
     "id": 57,
     "category": "party",
-    "kind": "shot",
-    "text": "Wer heute als Letztes angekommen ist, darf einen Shot wählen."
+    "kind": "frage",
+    "text": "Tanze 15 Sekunden wie ein Flamingo auf Rollschuhen."
   },
   {
     "id": 58,
     "category": "party",
     "kind": "glas",
-    "text": "Wer schon einmal etwas auf einer Party verloren hat, darf einen kleinen Schluck aus dem Glas wählen."
+    "text": "Wer schon einmal etwas auf einer Party verloren hat, trinkt einen Schluck."
   },
   {
     "id": 59,
     "category": "party",
     "kind": "glas",
-    "text": "Wer schon einmal eine völlig verrückte Partynacht erlebt hat, darf einen kleinen Schluck aus dem Glas wählen."
+    "text": "Wer schon einmal eine völlig verrückte Partynacht erlebt hat, trinkt einen Schluck."
   },
   {
     "id": 60,
     "category": "party",
-    "kind": "shot",
-    "text": "Wer hat heute die auffälligsten Schuhe? Diese Person darf einen Shot wählen."
+    "kind": "frage",
+    "text": "Halte eine politische Rede über das Recht auf Mittagsschlaf."
   },
   {
     "id": 61,
     "category": "party",
     "kind": "frage",
-    "text": "Imitiere eine Person aus der Runde, ohne ihren Namen zu nennen. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
+    "text": "Imitiere eine Person aus der Runde, ohne ihren Namen zu nennen."
   },
   {
     "id": 62,
     "category": "party",
     "kind": "frage",
-    "text": "Erfinde einen Werbeslogan für {spieler2}. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
+    "text": "Erfinde einen Werbeslogan für {spieler2}."
   },
   {
     "id": 63,
     "category": "party",
     "kind": "frage",
-    "text": "Spiele 20 Sekunden lang einen Nachrichtensprecher, der über eine verschwundene Socke berichtet."
+    "text": "Erfinde einen Jingle für die schlechteste Kneipe der Welt."
   },
   {
     "id": 64,
@@ -399,7 +399,7 @@
     "id": 67,
     "category": "party",
     "kind": "frage",
-    "text": "Erkläre wie ein Fußballkommentator, wie du dir die Schuhe bindest."
+    "text": "Spiele einen Wetterbericht für das Innere deiner Unterhose."
   },
   {
     "id": 68,
@@ -417,7 +417,7 @@
     "id": 70,
     "category": "party",
     "kind": "frage",
-    "text": "Imitiere einen Roboter, der zum ersten Mal Alkohol entdeckt."
+    "text": "Imitiere einen Roboter, der zum ersten Mal verliebt ist."
   },
   {
     "id": 71,
@@ -435,7 +435,7 @@
     "id": 73,
     "category": "party",
     "kind": "frage",
-    "text": "Führe ein Bewerbungsgespräch für den Beruf „professioneller Sofalieger“."
+    "text": "Erkläre 20 Sekunden lang mit ernster Miene, warum Nudeln Gefühle haben."
   },
   {
     "id": 74,
@@ -453,7 +453,7 @@
     "id": 76,
     "category": "party",
     "kind": "frage",
-    "text": "Erfinde eine neue Tanzbewegung. Alle dürfen sie nachmachen."
+    "text": "Mache einen Heiratsantrag an einen imaginären Parkautomaten."
   },
   {
     "id": 77,
@@ -477,67 +477,67 @@
     "id": 80,
     "category": "party",
     "kind": "frage",
-    "text": "Erfinde einen schlechten Rap über die Person links von dir."
+    "text": "Sprich wie ein Pirat und bestelle ein romantisches Drei-Gänge-Menü."
   },
   {
     "id": 81,
     "category": "party",
     "kind": "schluck",
-    "text": "Alle, die schon einmal auf einer Party eingeschlafen sind, nehmen freiwillig einen Schluck. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
+    "text": "Alle, die schon einmal auf einer Party eingeschlafen sind, trinken einen Schluck."
   },
   {
     "id": 82,
     "category": "party",
     "kind": "schluck",
-    "text": "Alle, die schon einmal beim Tanzen hingefallen sind, nehmen freiwillig einen Schluck. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
+    "text": "Alle, die schon einmal beim Tanzen hingefallen sind, trinken einen Schluck."
   },
   {
     "id": 83,
     "category": "party",
-    "kind": "schluck",
-    "text": "Wer schon einmal seine Jacke auf einer Feier vergessen hat, nimmt freiwillig einen Schluck. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
+    "kind": "frage",
+    "text": "Spiele einen Arzt, der bei einem Kuscheltier akuten Partywahnsinn diagnostiziert."
   },
   {
     "id": 84,
     "category": "party",
     "kind": "schluck",
-    "text": "Wer schon einmal ein Getränk vor Lachen verschüttet hat, nimmt freiwillig einen Schluck. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
+    "text": "Wer schon einmal ein Getränk vor Lachen verschüttet hat, trinkt einen Schluck."
   },
   {
     "id": 85,
     "category": "party",
     "kind": "shot",
-    "text": "Nenne fünf Dinge, die in einer Kneipe stehen. Wenn du scheiterst, kannst du einen Shot wählen. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
+    "text": "Nenne fünf Dinge, die in einer Kneipe stehen. Wenn du scheiterst, trink einen Shot."
   },
   {
     "id": 86,
     "category": "party",
-    "kind": "shot",
-    "text": "Erfinde einen Trinkspruch für die Gruppe. Anschließend darfst du einen Shot wählen. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
+    "kind": "frage",
+    "text": "Erfinde eine neue Sportart und demonstriere ihre lächerlichste Bewegung."
   },
   {
     "id": 87,
     "category": "party",
     "kind": "shot",
-    "text": "Wer heute als Letztes angekommen ist, darf einen Shot wählen. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
+    "text": "Wer heute als Letztes angekommen ist, trinkt einen Shot."
   },
   {
     "id": 88,
     "category": "party",
     "kind": "glas",
-    "text": "Wer schon einmal etwas auf einer Party verloren hat, darf einen kleinen Schluck aus dem Glas wählen. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
+    "text": "Wer schon einmal etwas auf einer Party verloren hat, trinkt einen Schluck."
   },
   {
     "id": 89,
     "category": "party",
-    "kind": "glas",
-    "text": "Wer schon einmal eine völlig verrückte Partynacht erlebt hat, darf einen kleinen Schluck aus dem Glas wählen. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
+    "kind": "frage",
+    "text": "Verkaufe der Gruppe ein unsichtbares Haustier mit sehr schlechten Manieren."
   },
   {
     "id": 90,
     "category": "party",
     "kind": "shot",
-    "text": "Wer hat heute die auffälligsten Schuhe? Diese Person darf einen Shot wählen. Bonus: Erzähl die Kurzversion in maximal 20 Sekunden."
+    "text": "Wer hat heute die auffälligsten Schuhe? Diese Person trinkt einen Shot."
   },
   {
     "id": 91,
@@ -555,7 +555,7 @@
     "id": 93,
     "category": "party",
     "kind": "frage",
-    "text": "Erfinde einen Superheldennamen für dich und demonstriere deine Superkraft."
+    "text": "Führe einen epischen Kampf gegen eine imaginäre Mücke auf."
   },
   {
     "id": 94,
@@ -573,13 +573,13 @@
     "id": 96,
     "category": "party",
     "kind": "frage",
-    "text": "Verleihe jemandem aus der Runde einen Oscar für eine völlig absurde Leistung."
+    "text": "Spiele einen Nachrichtensprecher, der deine letzte peinliche Situation als Eilmeldung verkündet."
   },
   {
     "id": 97,
     "category": "peinlich",
     "kind": "frage",
-    "text": "Was war deine peinlichste Situation bei einem Date?"
+    "text": "Flirte 15 Sekunden lang mit einer imaginären Mülltonne."
   },
   {
     "id": 98,
@@ -597,7 +597,7 @@
     "id": 100,
     "category": "peinlich",
     "kind": "frage",
-    "text": "Was war dein schlimmster Versuch, cool zu wirken?"
+    "text": "Spiele dein peinlichstes Date als Stummfilm nach."
   },
   {
     "id": 101,
@@ -621,7 +621,7 @@
     "id": 104,
     "category": "peinlich",
     "kind": "frage",
-    "text": "Was ist deine absurdeste Ausrede für Zuspätkommen?"
+    "text": "Imitiere deinen Gesichtsausdruck, wenn du versehentlich deiner Mutter ein freches Foto schickst."
   },
   {
     "id": 105,
@@ -639,7 +639,7 @@
     "id": 107,
     "category": "peinlich",
     "kind": "frage",
-    "text": "Wer aus der Runde ist der größte Klugscheißer?"
+    "text": "Halte eine Liebeserklärung an deine eigenen Füße."
   },
   {
     "id": 108,
@@ -657,7 +657,7 @@
     "id": 110,
     "category": "peinlich",
     "kind": "frage",
-    "text": "Welche Angewohnheit von dir ist dir selbst peinlich?"
+    "text": "Spiele einen verzweifelten Flirtversuch mit einem unsichtbaren Türgriff."
   },
   {
     "id": 111,
@@ -669,211 +669,211 @@
     "id": 112,
     "category": "peinlich",
     "kind": "schluck",
-    "text": "Alle, die schon einmal die falsche Person angeschrieben haben, nehmen freiwillig einen Schluck."
+    "text": "Alle, die schon einmal die falsche Person angeschrieben haben, trinken einen Schluck."
   },
   {
     "id": 113,
     "category": "peinlich",
-    "kind": "schluck",
-    "text": "Alle, die schon einmal eine Nachricht bereut haben, nehmen freiwillig einen Schluck."
+    "kind": "frage",
+    "text": "Sage dreimal „Ich bin unwiderstehlich“ in deiner peinlichsten Verführer-Stimme."
   },
   {
     "id": 114,
     "category": "peinlich",
     "kind": "schluck",
-    "text": "Wer schon einmal beim Lügen erwischt wurde, nimmt freiwillig einen Schluck."
+    "text": "Wer schon einmal beim Lügen erwischt wurde, trinkt einen Schluck."
   },
   {
     "id": 115,
     "category": "peinlich",
     "kind": "schluck",
-    "text": "Wer schon einmal vor anderen hingefallen ist, nimmt freiwillig einen Schluck."
+    "text": "Wer schon einmal vor anderen hingefallen ist, trinkt einen Schluck."
   },
   {
     "id": 116,
     "category": "peinlich",
     "kind": "schluck",
-    "text": "Wer schon einmal jemanden absichtlich ignoriert hat, nimmt freiwillig einen Schluck."
+    "text": "Wer schon einmal jemanden absichtlich ignoriert hat, trinkt einen Schluck."
   },
   {
     "id": 117,
     "category": "peinlich",
-    "kind": "shot",
-    "text": "Erzähle von einer Dating-Panne oder wähle freiwillig einen Shot."
+    "kind": "frage",
+    "text": "Stelle dich als Kandidat bei einer Dating-Show für Haushaltsgeräte vor."
   },
   {
     "id": 118,
     "category": "peinlich",
     "kind": "shot",
-    "text": "Verrate eine peinliche Angewohnheit oder wähle freiwillig einen Shot."
+    "text": "Verrate eine peinliche Angewohnheit oder trink einen Shot."
   },
   {
     "id": 119,
     "category": "peinlich",
     "kind": "shot",
-    "text": "Wer heute die meisten ungelesenen Nachrichten hat, darf einen Shot wählen."
+    "text": "Wer heute die meisten ungelesenen Nachrichten hat, trinkt einen Shot."
   },
   {
     "id": 120,
     "category": "peinlich",
-    "kind": "glas",
-    "text": "Wer schon einmal beim Lästern erwischt wurde, darf einen kleinen Schluck aus dem Glas wählen."
+    "kind": "frage",
+    "text": "Spiele 15 Sekunden lang eine extrem schlechte Striptease-Ankündigung – angezogen bleiben!"
   },
   {
     "id": 121,
     "category": "peinlich",
     "kind": "glas",
-    "text": "Wer schon einmal beim Flirten einen Korb bekommen hat, darf einen kleinen Schluck aus dem Glas wählen."
+    "text": "Wer schon einmal beim Flirten einen Korb bekommen hat, trinkt einen Schluck."
   },
   {
     "id": 122,
     "category": "peinlich",
     "kind": "frage",
-    "text": "Was war deine peinlichste Situation bei einem Date? Falls du magst, verrate, wie die Geschichte ausging."
+    "text": "Was war deine peinlichste Situation bei einem Date?"
   },
   {
     "id": 123,
     "category": "peinlich",
     "kind": "frage",
-    "text": "Welche Nachricht würdest du gern ungeschehen machen? Falls du magst, verrate, wie die Geschichte ausging."
+    "text": "Erkläre der Gruppe mit Pokerface, warum du heimlich ein Einhorn bist."
   },
   {
     "id": 124,
     "category": "peinlich",
     "kind": "frage",
-    "text": "Wann hast du dich zuletzt komplett blamiert? Falls du magst, verrate, wie die Geschichte ausging."
+    "text": "Wann hast du dich zuletzt komplett blamiert?"
   },
   {
     "id": 125,
     "category": "peinlich",
     "kind": "frage",
-    "text": "Was war dein schlimmster Versuch, cool zu wirken? Falls du magst, verrate, wie die Geschichte ausging."
+    "text": "Was war dein schlimmster Versuch, cool zu wirken?"
   },
   {
     "id": 126,
     "category": "peinlich",
     "kind": "frage",
-    "text": "Welcher alte Spitzname ist dir heute unangenehm? Falls du magst, verrate, wie die Geschichte ausging."
+    "text": "Mache ein dramatisches Geständnis: Du hast die letzte Pizza verraten."
   },
   {
     "id": 127,
     "category": "peinlich",
     "kind": "frage",
-    "text": "Was war dein schlimmster Mode-Fauxpas? Falls du magst, verrate, wie die Geschichte ausging."
+    "text": "Was war dein schlimmster Mode-Fauxpas?"
   },
   {
     "id": 128,
     "category": "peinlich",
     "kind": "frage",
-    "text": "Wann hast du dich zuletzt beim Flirten verhaspelt? Falls du magst, verrate, wie die Geschichte ausging."
+    "text": "Wann hast du dich zuletzt beim Flirten verhaspelt?"
   },
   {
     "id": 129,
     "category": "peinlich",
     "kind": "frage",
-    "text": "Was ist deine absurdeste Ausrede für Zuspätkommen? Falls du magst, verrate, wie die Geschichte ausging."
+    "text": "Was ist deine absurdeste Ausrede für Zuspätkommen?"
   },
   {
     "id": 130,
     "category": "peinlich",
     "kind": "frage",
-    "text": "Wobei wurdest du zuletzt erwischt? Falls du magst, verrate, wie die Geschichte ausging."
+    "text": "Spiele einen Liebesstreit zwischen zwei imaginären Socken."
   },
   {
     "id": 131,
     "category": "peinlich",
     "kind": "frage",
-    "text": "Was war dein peinlichstes Missverständnis? Falls du magst, verrate, wie die Geschichte ausging."
+    "text": "Was war dein peinlichstes Missverständnis?"
   },
   {
     "id": 132,
     "category": "peinlich",
     "kind": "frage",
-    "text": "Wer aus der Runde ist der größte Klugscheißer? Falls du magst, verrate, wie die Geschichte ausging."
+    "text": "Wer aus der Runde ist der größte Klugscheißer?"
   },
   {
     "id": 133,
     "category": "peinlich",
     "kind": "frage",
-    "text": "Wer könnte am schlechtesten ein Geheimnis bewahren? Falls du magst, verrate, wie die Geschichte ausging."
+    "text": "Imitiere deine Stimme beim Versuch, nach einer Party seriös zu telefonieren."
   },
   {
     "id": 134,
     "category": "peinlich",
     "kind": "frage",
-    "text": "Wer aus der Runde braucht immer das letzte Wort? Falls du magst, verrate, wie die Geschichte ausging."
+    "text": "Wer aus der Runde braucht immer das letzte Wort?"
   },
   {
     "id": 135,
     "category": "peinlich",
     "kind": "frage",
-    "text": "Welche Angewohnheit von dir ist dir selbst peinlich? Falls du magst, verrate, wie die Geschichte ausging."
+    "text": "Welche Angewohnheit von dir ist dir selbst peinlich?"
   },
   {
     "id": 136,
     "category": "peinlich",
     "kind": "frage",
-    "text": "Welches alte Foto von dir dürfte niemand sehen? Falls du magst, verrate, wie die Geschichte ausging."
+    "text": "Halte eine öffentliche Entschuldigung an dein Spiegelbild."
   },
   {
     "id": 137,
     "category": "peinlich",
     "kind": "schluck",
-    "text": "Alle, die schon einmal die falsche Person angeschrieben haben, nehmen freiwillig einen Schluck. Falls du magst, verrate, wie die Geschichte ausging."
+    "text": "Alle, die schon einmal die falsche Person angeschrieben haben, trinken einen Schluck."
   },
   {
     "id": 138,
     "category": "peinlich",
     "kind": "schluck",
-    "text": "Alle, die schon einmal eine Nachricht bereut haben, nehmen freiwillig einen Schluck. Falls du magst, verrate, wie die Geschichte ausging."
+    "text": "Alle, die schon einmal eine Nachricht bereut haben, trinken einen Schluck."
   },
   {
     "id": 139,
     "category": "peinlich",
     "kind": "schluck",
-    "text": "Wer schon einmal beim Lügen erwischt wurde, nimmt freiwillig einen Schluck. Falls du magst, verrate, wie die Geschichte ausging."
+    "text": "Wer schon einmal beim Lügen erwischt wurde, trinkt einen Schluck."
   },
   {
     "id": 140,
     "category": "peinlich",
-    "kind": "schluck",
-    "text": "Wer schon einmal vor anderen hingefallen ist, nimmt freiwillig einen Schluck. Falls du magst, verrate, wie die Geschichte ausging."
+    "kind": "frage",
+    "text": "Mache eine 20-sekündige Werbung für dein schlechtestes Talent."
   },
   {
     "id": 141,
     "category": "peinlich",
     "kind": "schluck",
-    "text": "Wer schon einmal jemanden absichtlich ignoriert hat, nimmt freiwillig einen Schluck. Falls du magst, verrate, wie die Geschichte ausging."
+    "text": "Wer schon einmal jemanden absichtlich ignoriert hat, trinkt einen Schluck."
   },
   {
     "id": 142,
     "category": "peinlich",
     "kind": "shot",
-    "text": "Erzähle von einer Dating-Panne oder wähle freiwillig einen Shot. Falls du magst, verrate, wie die Geschichte ausging."
+    "text": "Erzähle von einer Dating-Panne oder trink einen Shot."
   },
   {
     "id": 143,
     "category": "peinlich",
-    "kind": "shot",
-    "text": "Verrate eine peinliche Angewohnheit oder wähle freiwillig einen Shot. Falls du magst, verrate, wie die Geschichte ausging."
+    "kind": "frage",
+    "text": "Spiele einen peinlichen Anmachspruch in Zeitlupe nach."
   },
   {
     "id": 144,
     "category": "peinlich",
     "kind": "shot",
-    "text": "Wer heute die meisten ungelesenen Nachrichten hat, darf einen Shot wählen. Falls du magst, verrate, wie die Geschichte ausging."
+    "text": "Wer heute die meisten ungelesenen Nachrichten hat, trinkt einen Shot."
   },
   {
     "id": 145,
     "category": "peinlich",
     "kind": "glas",
-    "text": "Wer schon einmal beim Lästern erwischt wurde, darf einen kleinen Schluck aus dem Glas wählen. Falls du magst, verrate, wie die Geschichte ausging."
+    "text": "Wer schon einmal beim Lästern erwischt wurde, trinkt einen Schluck."
   },
   {
     "id": 146,
     "category": "peinlich",
-    "kind": "glas",
-    "text": "Wer schon einmal beim Flirten einen Korb bekommen hat, darf einen kleinen Schluck aus dem Glas wählen. Falls du magst, verrate, wie die Geschichte ausging."
+    "kind": "frage",
+    "text": "Tu so, als würdest du deinen Schwarm zum ersten Mal treffen – als nervöser Pinguin."
   },
   {
     "id": 147,
@@ -891,7 +891,7 @@
     "id": 149,
     "category": "peinlich",
     "kind": "frage",
-    "text": "Wann hast du dich zuletzt komplett blamiert?"
+    "text": "Präsentiere deinen peinlichsten Tanzmove als professionellen Workshop."
   },
   {
     "id": 150,
@@ -915,7 +915,7 @@
     "id": 153,
     "category": "peinlich",
     "kind": "frage",
-    "text": "Mache deinen schlechtesten Anmachspruch mit voller Überzeugung vor."
+    "text": "Spiele eine dramatische Trennung von deinem Handy."
   },
   {
     "id": 154,
@@ -933,7 +933,7 @@
     "id": 156,
     "category": "peinlich",
     "kind": "frage",
-    "text": "Imitiere, wie du aussiehst, wenn du versuchst, heimlich einen Furz zu verstecken."
+    "text": "Erkläre einer imaginären Schwiegermutter, warum du eine Nacht im Kühlschrank verbracht hast."
   },
   {
     "id": 157,
@@ -951,7 +951,7 @@
     "id": 159,
     "category": "peinlich",
     "kind": "frage",
-    "text": "Spiele ein Date nach, bei dem du nur über Kartoffeln redest."
+    "text": "Halte eine Liebeserklärung an ein Stück Toast."
   },
   {
     "id": 160,
@@ -969,67 +969,67 @@
     "id": 162,
     "category": "peinlich",
     "kind": "schluck",
-    "text": "Alle, die schon einmal die falsche Person angeschrieben haben, nehmen freiwillig einen Schluck."
+    "text": "Alle, die schon einmal die falsche Person angeschrieben haben, trinken einen Schluck."
   },
   {
     "id": 163,
     "category": "peinlich",
-    "kind": "schluck",
-    "text": "Alle, die schon einmal eine Nachricht bereut haben, nehmen freiwillig einen Schluck."
+    "kind": "frage",
+    "text": "Imitiere einen übertrieben selbstbewussten Kandidaten bei „Bachelor im Baumarkt“."
   },
   {
     "id": 164,
     "category": "peinlich",
     "kind": "schluck",
-    "text": "Wer schon einmal beim Lügen erwischt wurde, nimmt freiwillig einen Schluck."
+    "text": "Wer schon einmal beim Lügen erwischt wurde, trinkt einen Schluck."
   },
   {
     "id": 165,
     "category": "peinlich",
     "kind": "schluck",
-    "text": "Wer schon einmal vor anderen hingefallen ist, nimmt freiwillig einen Schluck."
+    "text": "Wer schon einmal vor anderen hingefallen ist, trinkt einen Schluck."
   },
   {
     "id": 166,
     "category": "peinlich",
-    "kind": "schluck",
-    "text": "Wer schon einmal jemanden absichtlich ignoriert hat, nimmt freiwillig einen Schluck."
+    "kind": "frage",
+    "text": "Spiele, wie du einen Korb bekommst – mit maximaler Theatralik."
   },
   {
     "id": 167,
     "category": "peinlich",
     "kind": "shot",
-    "text": "Erzähle von einer Dating-Panne oder wähle freiwillig einen Shot."
+    "text": "Erzähle von einer Dating-Panne oder trink einen Shot."
   },
   {
     "id": 168,
     "category": "peinlich",
     "kind": "shot",
-    "text": "Verrate eine peinliche Angewohnheit oder wähle freiwillig einen Shot."
+    "text": "Verrate eine peinliche Angewohnheit oder trink einen Shot."
   },
   {
     "id": 169,
     "category": "peinlich",
-    "kind": "shot",
-    "text": "Wer heute die meisten ungelesenen Nachrichten hat, darf einen Shot wählen."
+    "kind": "frage",
+    "text": "Erfinde einen lächerlichen Künstlernamen für deine Dating-Karriere."
   },
   {
     "id": 170,
     "category": "peinlich",
     "kind": "glas",
-    "text": "Wer schon einmal beim Lästern erwischt wurde, darf einen kleinen Schluck aus dem Glas wählen."
+    "text": "Wer schon einmal beim Lästern erwischt wurde, trinkt einen Schluck."
   },
   {
     "id": 171,
     "category": "peinlich",
     "kind": "glas",
-    "text": "Wer schon einmal beim Flirten einen Korb bekommen hat, darf einen kleinen Schluck aus dem Glas wählen."
+    "text": "Wer schon einmal beim Flirten einen Korb bekommen hat, trinkt einen Schluck."
   },
   {
     "id": 172,
     "category": "peinlich",
     "kind": "frage",
-    "text": "Versuche, die Gruppe mit einem absichtlich schlechten Zaubertrick zu beeindrucken."
+    "text": "Verkaufe deinen peinlichsten Spitznamen als neue Luxusmarke."
   },
   {
     "id": 173,
@@ -1053,7 +1053,7 @@
     "id": 176,
     "category": "peinlich",
     "kind": "frage",
-    "text": "Verkünde deine letzte peinliche Google-Suche als Wetterbericht – oder erfinde eine."
+    "text": "Führe einen 15-sekündigen Flirt mit deinem eigenen Schatten."
   },
   {
     "id": 177,
@@ -1071,7 +1071,7 @@
     "id": 179,
     "category": "peinlich",
     "kind": "frage",
-    "text": "Erfinde eine völlig übertriebene Ausrede dafür, dass du fünf Minuten zu spät bist."
+    "text": "Spiele eine Filmszene: Du wirst beim heimlichen Kühlschrankbesuch erwischt."
   },
   {
     "id": 180,
@@ -1089,7 +1089,7 @@
     "id": 182,
     "category": "peinlich",
     "kind": "frage",
-    "text": "Erfinde einen peinlichen Spitznamen für dich und stelle dich damit vor."
+    "text": "Präsentiere eine dramatische Ausrede, warum du ein Date mit einer Kartoffel verpasst hast."
   },
   {
     "id": 183,
@@ -1107,7 +1107,7 @@
     "id": 185,
     "category": "peinlich",
     "kind": "frage",
-    "text": "Stelle ein Date nach, bei dem du ständig deinen eigenen Namen vergisst."
+    "text": "Imitiere ein Selfie-Shooting, bei dem jede Pose schlimmer wird."
   },
   {
     "id": 186,
@@ -1119,37 +1119,37 @@
     "id": 187,
     "category": "peinlich",
     "kind": "schluck",
-    "text": "Alle, die schon einmal die falsche Person angeschrieben haben, nehmen freiwillig einen Schluck. Beschreibe die Situation in drei Worten, bevor du antwortest."
+    "text": "Alle, die schon einmal die falsche Person angeschrieben haben, trinken einen Schluck."
   },
   {
     "id": 188,
     "category": "peinlich",
     "kind": "schluck",
-    "text": "Alle, die schon einmal eine Nachricht bereut haben, nehmen freiwillig einen Schluck. Beschreibe die Situation in drei Worten, bevor du antwortest."
+    "text": "Alle, die schon einmal eine Nachricht bereut haben, trinken einen Schluck."
   },
   {
     "id": 189,
     "category": "peinlich",
-    "kind": "schluck",
-    "text": "Wer schon einmal beim Lügen erwischt wurde, nimmt freiwillig einen Schluck. Beschreibe die Situation in drei Worten, bevor du antwortest."
+    "kind": "frage",
+    "text": "Halte eine Entschuldigungsrede an deine letzte Suchanfrage."
   },
   {
     "id": 190,
     "category": "peinlich",
     "kind": "schluck",
-    "text": "Wer schon einmal vor anderen hingefallen ist, nimmt freiwillig einen Schluck. Beschreibe die Situation in drei Worten, bevor du antwortest."
+    "text": "Wer schon einmal vor anderen hingefallen ist, trinkt einen Schluck."
   },
   {
     "id": 191,
     "category": "peinlich",
     "kind": "schluck",
-    "text": "Wer schon einmal jemanden absichtlich ignoriert hat, nimmt freiwillig einen Schluck. Beschreibe die Situation in drei Worten, bevor du antwortest."
+    "text": "Wer schon einmal jemanden absichtlich ignoriert hat, trinkt einen Schluck."
   },
   {
     "id": 192,
     "category": "peinlich",
-    "kind": "shot",
-    "text": "Erzähle von einer Dating-Panne oder wähle freiwillig einen Shot. Beschreibe die Situation in drei Worten, bevor du antwortest."
+    "kind": "frage",
+    "text": "Spiele einen Liebesbrief vor, der ausschließlich aus Geräuschen besteht."
   },
   {
     "id": 193,
@@ -2307,7 +2307,7 @@
     "id": 385,
     "category": "chaos",
     "kind": "frage",
-    "text": "Alle zeigen auf die Person, die am ehesten eine Kneipe kaufen würde."
+    "text": "ALLE SPIELER: Macht gleichzeitig zehn Sekunden lang eure beste Roboterbewegung."
   },
   {
     "id": 386,
@@ -2325,7 +2325,7 @@
     "id": 388,
     "category": "chaos",
     "kind": "frage",
-    "text": "Wer würde bei Monopoly am ehesten ausrasten?"
+    "text": "ALLE SPIELER: Jeder erfindet ein Tiergeräusch. Zusammen seid ihr ein völlig kaputter Zoo."
   },
   {
     "id": 389,
@@ -2343,7 +2343,7 @@
     "id": 391,
     "category": "chaos",
     "kind": "frage",
-    "text": "Jeder nennt ein Wort. {spieler1} muss daraus einen Satz bauen."
+    "text": "ALLE SPIELER: Zählt reihum bis zehn – bei jeder Drei muss jemand „GURKENSALAT!“ rufen."
   },
   {
     "id": 392,
@@ -2361,7 +2361,7 @@
     "id": 394,
     "category": "chaos",
     "kind": "frage",
-    "text": "{spieler1}: Präsentiere eine nutzlose Erfindung."
+    "text": "ALLE SPIELER: Jeder gibt dem linken Nachbarn einen absurden Superheldennamen."
   },
   {
     "id": 395,
@@ -2379,7 +2379,7 @@
     "id": 397,
     "category": "chaos",
     "kind": "frage",
-    "text": "Alle machen ein Pokerface. Wer zuerst lacht, verliert."
+    "text": "ALLE SPIELER: Sprecht 15 Sekunden nur wie Nachrichtensprecher über völlig unwichtige Dinge."
   },
   {
     "id": 398,
@@ -2402,212 +2402,212 @@
   {
     "id": 401,
     "category": "chaos",
-    "kind": "schluck",
-    "text": "Alle, die schon einmal eine Überraschung verraten haben, nehmen freiwillig einen Schluck."
+    "kind": "frage",
+    "text": "ALLE SPIELER: Macht gleichzeitig einen dramatischen Blick in eine imaginäre Kamera."
   },
   {
     "id": 402,
     "category": "chaos",
     "kind": "schluck",
-    "text": "Alle, die schon einmal eine Verabredung vergessen haben, nehmen freiwillig einen Schluck."
+    "text": "Alle, die schon einmal eine Verabredung vergessen haben, trinken einen Schluck."
   },
   {
     "id": 403,
     "category": "chaos",
     "kind": "schluck",
-    "text": "Alle, die schon einmal einen kompletten Abend durchgefeiert haben, nehmen freiwillig einen Schluck."
+    "text": "Alle, die schon einmal einen kompletten Abend durchgefeiert haben, trinken einen Schluck."
   },
   {
     "id": 404,
     "category": "chaos",
-    "kind": "shot",
-    "text": "Wer heute die lustigste Geschichte erzählt hat, darf einen Shot wählen."
+    "kind": "frage",
+    "text": "ALLE SPIELER: Jeder stellt sich mit einem möglichst schlechten Künstlernamen vor."
   },
   {
     "id": 405,
     "category": "chaos",
     "kind": "shot",
-    "text": "Wer am ehesten eine Party bis morgens durchzieht, darf einen Shot wählen."
+    "text": "Wer am ehesten eine Party bis morgens durchzieht, trinkt einen Shot."
   },
   {
     "id": 406,
     "category": "chaos",
     "kind": "shot",
-    "text": "{spieler1}: Nenne fünf deutsche Städte in zehn Sekunden. Sonst kannst du einen Shot wählen."
+    "text": "{spieler1}: Nenne fünf deutsche Städte in zehn Sekunden. Sonst trink einen Shot."
   },
   {
     "id": 407,
     "category": "chaos",
-    "kind": "shot",
-    "text": "{spieler1}: Sage dreimal schnell „Fischers Fritz fischt frische Fische“. Bei einem Fehler kannst du einen Shot wählen."
+    "kind": "frage",
+    "text": "ALLE SPIELER: Spielt eine Band ohne Instrumente. Einer singt, der Rest macht Geräusche."
   },
   {
     "id": 408,
     "category": "chaos",
     "kind": "glas",
-    "text": "Wer schon einmal eine Feier völlig falsch verstanden hat, darf einen kleinen Schluck aus dem Glas wählen."
+    "text": "Wer schon einmal eine Feier völlig falsch verstanden hat, trinkt einen Schluck."
   },
   {
     "id": 409,
     "category": "chaos",
     "kind": "glas",
-    "text": "Wer schon einmal nach einer Feier eine absurde Geschichte erzählen musste, darf einen kleinen Schluck aus dem Glas wählen."
+    "text": "Wer schon einmal nach einer Feier eine absurde Geschichte erzählen musste, trinkt einen Schluck."
   },
   {
     "id": 410,
     "category": "chaos",
     "kind": "frage",
-    "text": "Alle zeigen auf die Person, die am ehesten eine Kneipe kaufen würde. Die Gruppe stimmt anschließend über das Ergebnis ab."
+    "text": "ALLE SPIELER: Jeder sagt ein Wort. Gemeinsam entsteht eine möglichst bescheuerte Liebeserklärung."
   },
   {
     "id": 411,
     "category": "chaos",
     "kind": "frage",
-    "text": "Wer ist der größte Chaot in dieser Runde? Die Gruppe stimmt anschließend über das Ergebnis ab."
+    "text": "Wer ist der größte Chaot in dieser Runde?"
   },
   {
     "id": 412,
     "category": "chaos",
     "kind": "frage",
-    "text": "Wer würde bei einem Junggesellenabschied verloren gehen? Die Gruppe stimmt anschließend über das Ergebnis ab."
+    "text": "Wer würde bei einem Junggesellenabschied verloren gehen?"
   },
   {
     "id": 413,
     "category": "chaos",
     "kind": "frage",
-    "text": "Wer würde bei Monopoly am ehesten ausrasten? Die Gruppe stimmt anschließend über das Ergebnis ab."
+    "text": "ALLE SPIELER: Jeder macht nacheinander eine Pose für den hässlichsten Kalender der Welt."
   },
   {
     "id": 414,
     "category": "chaos",
     "kind": "frage",
-    "text": "Wer könnte am besten eine Lüge erzählen, ohne rot zu werden? Die Gruppe stimmt anschließend über das Ergebnis ab."
+    "text": "Wer könnte am besten eine Lüge erzählen, ohne rot zu werden?"
   },
   {
     "id": 415,
     "category": "chaos",
     "kind": "frage",
-    "text": "Erfindet gemeinsam einen absurden Namen für eure heutige Party. Die Gruppe stimmt anschließend über das Ergebnis ab."
+    "text": "Erfindet gemeinsam einen absurden Namen für eure heutige Party."
   },
   {
     "id": 416,
     "category": "chaos",
     "kind": "frage",
-    "text": "Jeder nennt ein Wort. {spieler1} muss daraus einen Satz bauen. Die Gruppe stimmt anschließend über das Ergebnis ab."
+    "text": "ALLE SPIELER: Macht eine Minute lang aus jedem Niesen ein offizielles Partyereignis."
   },
   {
     "id": 417,
     "category": "chaos",
     "kind": "frage",
-    "text": "{spieler1} und {spieler2}: Erfindet gemeinsam einen absurden Cocktailnamen. Die Gruppe stimmt anschließend über das Ergebnis ab."
+    "text": "{spieler1} und {spieler2}: Erfindet gemeinsam einen absurden Cocktailnamen."
   },
   {
     "id": 418,
     "category": "chaos",
     "kind": "frage",
-    "text": "{spieler1}: Bewirb dich als professioneller Partygast. Die Gruppe stimmt anschließend über das Ergebnis ab."
+    "text": "{spieler1}: Bewirb dich als professioneller Partygast."
   },
   {
     "id": 419,
     "category": "chaos",
     "kind": "frage",
-    "text": "{spieler1}: Präsentiere eine nutzlose Erfindung. Die Gruppe stimmt anschließend über das Ergebnis ab."
+    "text": "ALLE SPIELER: Jeder beschreibt sein heutiges Outfit wie ein Teleshopping-Verkäufer."
   },
   {
     "id": 420,
     "category": "chaos",
     "kind": "frage",
-    "text": "{spieler1}: Verkaufe einen gebrauchten Kaugummi als Luxusprodukt. Die Gruppe stimmt anschließend über das Ergebnis ab."
+    "text": "{spieler1}: Verkaufe einen gebrauchten Kaugummi als Luxusprodukt."
   },
   {
     "id": 421,
     "category": "chaos",
     "kind": "frage",
-    "text": "{spieler1}: Halte eine Pressekonferenz über das Verbot von Montagen. Die Gruppe stimmt anschließend über das Ergebnis ab."
+    "text": "{spieler1}: Halte eine Pressekonferenz über das Verbot von Montagen."
   },
   {
     "id": 422,
     "category": "chaos",
     "kind": "frage",
-    "text": "Alle machen ein Pokerface. Wer zuerst lacht, verliert. Die Gruppe stimmt anschließend über das Ergebnis ab."
+    "text": "ALLE SPIELER: Wählt einen imaginären König der Kartoffeln und krönt ihn feierlich."
   },
   {
     "id": 423,
     "category": "chaos",
     "kind": "frage",
-    "text": "Alle nennen einen Filmtitel, der zu {spieler1} passt. Die Gruppe stimmt anschließend über das Ergebnis ab."
+    "text": "Alle nennen einen Filmtitel, der zu {spieler1} passt."
   },
   {
     "id": 424,
     "category": "chaos",
     "kind": "frage",
-    "text": "Wer wäre der schlechteste Bürgermeister dieser Runde? Die Gruppe stimmt anschließend über das Ergebnis ab."
+    "text": "Wer wäre der schlechteste Bürgermeister dieser Runde?"
   },
   {
     "id": 425,
     "category": "chaos",
     "kind": "frage",
-    "text": "Wer wäre in einer Zombie-Apokalypse als Erstes verloren? Die Gruppe stimmt anschließend über das Ergebnis ab."
+    "text": "ALLE SPIELER: Erfindet gemeinsam eine neue Begrüßung mit Geräusch und Bewegung."
   },
   {
     "id": 426,
     "category": "chaos",
     "kind": "schluck",
-    "text": "Alle, die schon einmal eine Überraschung verraten haben, nehmen freiwillig einen Schluck. Die Gruppe stimmt anschließend über das Ergebnis ab."
+    "text": "Alle, die schon einmal eine Überraschung verraten haben, trinken einen Schluck."
   },
   {
     "id": 427,
     "category": "chaos",
     "kind": "schluck",
-    "text": "Alle, die schon einmal eine Verabredung vergessen haben, nehmen freiwillig einen Schluck. Die Gruppe stimmt anschließend über das Ergebnis ab."
+    "text": "Alle, die schon einmal eine Verabredung vergessen haben, trinken einen Schluck."
   },
   {
     "id": 428,
     "category": "chaos",
-    "kind": "schluck",
-    "text": "Alle, die schon einmal einen kompletten Abend durchgefeiert haben, nehmen freiwillig einen Schluck. Die Gruppe stimmt anschließend über das Ergebnis ab."
+    "kind": "frage",
+    "text": "ALLE SPIELER: Jeder imitiert nacheinander einen anderen Beruf – ohne Worte."
   },
   {
     "id": 429,
     "category": "chaos",
     "kind": "shot",
-    "text": "Wer heute die lustigste Geschichte erzählt hat, darf einen Shot wählen. Die Gruppe stimmt anschließend über das Ergebnis ab."
+    "text": "Wer heute die lustigste Geschichte erzählt hat, trinkt einen Shot."
   },
   {
     "id": 430,
     "category": "chaos",
     "kind": "shot",
-    "text": "Wer am ehesten eine Party bis morgens durchzieht, darf einen Shot wählen. Die Gruppe stimmt anschließend über das Ergebnis ab."
+    "text": "Wer am ehesten eine Party bis morgens durchzieht, trinkt einen Shot."
   },
   {
     "id": 431,
     "category": "chaos",
     "kind": "shot",
-    "text": "{spieler1}: Nenne fünf deutsche Städte in zehn Sekunden. Sonst kannst du einen Shot wählen. Die Gruppe stimmt anschließend über das Ergebnis ab."
+    "text": "{spieler1}: Nenne fünf deutsche Städte in zehn Sekunden. Sonst trink einen Shot."
   },
   {
     "id": 432,
     "category": "chaos",
-    "kind": "shot",
-    "text": "{spieler1}: Sage dreimal schnell „Fischers Fritz fischt frische Fische“. Bei einem Fehler kannst du einen Shot wählen. Die Gruppe stimmt anschließend über das Ergebnis ab."
+    "kind": "frage",
+    "text": "ALLE SPIELER: Redet 15 Sekunden wie Aliens, die eine Kneipe übernehmen."
   },
   {
     "id": 433,
     "category": "chaos",
     "kind": "glas",
-    "text": "Wer schon einmal eine Feier völlig falsch verstanden hat, darf einen kleinen Schluck aus dem Glas wählen. Die Gruppe stimmt anschließend über das Ergebnis ab."
+    "text": "Wer schon einmal eine Feier völlig falsch verstanden hat, trinkt einen Schluck."
   },
   {
     "id": 434,
     "category": "chaos",
     "kind": "glas",
-    "text": "Wer schon einmal nach einer Feier eine absurde Geschichte erzählen musste, darf einen kleinen Schluck aus dem Glas wählen. Die Gruppe stimmt anschließend über das Ergebnis ab."
+    "text": "Wer schon einmal nach einer Feier eine absurde Geschichte erzählen musste, trinkt einen Schluck."
   },
   {
     "id": 435,
     "category": "chaos",
     "kind": "frage",
-    "text": "Alle zeigen auf die Person, die am ehesten eine Kneipe kaufen würde. Zeitlimit: 20 Sekunden."
+    "text": "ALLE SPIELER: Jeder erfindet eine absurde Schlagzeile über den heutigen Abend."
   },
   {
     "id": 436,
@@ -2625,7 +2625,7 @@
     "id": 438,
     "category": "chaos",
     "kind": "frage",
-    "text": "Wer würde bei Monopoly am ehesten ausrasten? Zeitlimit: 20 Sekunden."
+    "text": "ALLE SPIELER: Alle frieren in ihrer lächerlichsten Pose ein. Wer lacht, verbeugt sich."
   },
   {
     "id": 439,
@@ -2643,7 +2643,7 @@
     "id": 441,
     "category": "chaos",
     "kind": "frage",
-    "text": "Jeder nennt ein Wort. {spieler1} muss daraus einen Satz bauen. Zeitlimit: 20 Sekunden."
+    "text": "ALLE SPIELER: Erfindet gemeinsam eine Hymne für einen imaginären Dönerstaat."
   },
   {
     "id": 442,
@@ -2661,7 +2661,7 @@
     "id": 444,
     "category": "chaos",
     "kind": "frage",
-    "text": "ALLE SPIELER: Zeigt gleichzeitig eure schlimmste Grimasse. Niemand darf lachen."
+    "text": "ALLE SPIELER: Jeder macht einen Werbeslogan für die Person rechts von sich."
   },
   {
     "id": 445,
@@ -2679,7 +2679,7 @@
     "id": 447,
     "category": "chaos",
     "kind": "frage",
-    "text": "ALLE SPIELER: Bildet zusammen einen imaginären Chor und singt einmal „Guten Abend“."
+    "text": "ALLE SPIELER: Spielt eine Talkshow über die Frage, ob Toastbrot Gefühle hat."
   },
   {
     "id": 448,
@@ -2697,61 +2697,61 @@
     "id": 450,
     "category": "chaos",
     "kind": "frage",
-    "text": "ALLE SPIELER: Redet 10 Sekunden nur in erfundenen Wörtern miteinander."
+    "text": "ALLE SPIELER: Jeder zeigt seine beste Zeitlupenreaktion auf eine unsichtbare Explosion."
   },
   {
     "id": 451,
     "category": "chaos",
     "kind": "schluck",
-    "text": "Alle, die schon einmal eine Überraschung verraten haben, nehmen freiwillig einen Schluck. Zeitlimit: 20 Sekunden."
+    "text": "Alle, die schon einmal eine Überraschung verraten haben, trinken einen Schluck. Zeitlimit: 20 Sekunden."
   },
   {
     "id": 452,
     "category": "chaos",
     "kind": "schluck",
-    "text": "Alle, die schon einmal eine Verabredung vergessen haben, nehmen freiwillig einen Schluck. Zeitlimit: 20 Sekunden."
+    "text": "Alle, die schon einmal eine Verabredung vergessen haben, trinken einen Schluck. Zeitlimit: 20 Sekunden."
   },
   {
     "id": 453,
     "category": "chaos",
-    "kind": "schluck",
-    "text": "Alle, die schon einmal einen kompletten Abend durchgefeiert haben, nehmen freiwillig einen Schluck. Zeitlimit: 20 Sekunden."
+    "kind": "frage",
+    "text": "ALLE SPIELER: Erfindet eine Geheimsprache aus nur drei Geräuschen und führt ein Gespräch."
   },
   {
     "id": 454,
     "category": "chaos",
     "kind": "shot",
-    "text": "Wer heute die lustigste Geschichte erzählt hat, darf einen Shot wählen. Zeitlimit: 20 Sekunden."
+    "text": "Wer heute die lustigste Geschichte erzählt hat, trinkt einen Shot. Zeitlimit: 20 Sekunden."
   },
   {
     "id": 455,
     "category": "chaos",
     "kind": "shot",
-    "text": "Wer am ehesten eine Party bis morgens durchzieht, darf einen Shot wählen. Zeitlimit: 20 Sekunden."
+    "text": "Wer am ehesten eine Party bis morgens durchzieht, trinkt einen Shot. Zeitlimit: 20 Sekunden."
   },
   {
     "id": 456,
     "category": "chaos",
-    "kind": "shot",
-    "text": "{spieler1}: Nenne fünf deutsche Städte in zehn Sekunden. Sonst kannst du einen Shot wählen. Zeitlimit: 20 Sekunden."
+    "kind": "frage",
+    "text": "ALLE SPIELER: Jeder stellt einen imaginären Gegenstand vor, den niemand kaufen sollte."
   },
   {
     "id": 457,
     "category": "chaos",
     "kind": "shot",
-    "text": "{spieler1}: Sage dreimal schnell „Fischers Fritz fischt frische Fische“. Bei einem Fehler kannst du einen Shot wählen. Zeitlimit: 20 Sekunden."
+    "text": "{spieler1}: Sage dreimal schnell „Fischers Fritz fischt frische Fische“. Bei einem Fehler trink einen Shot. Zeitlimit: 20 Sekunden."
   },
   {
     "id": 458,
     "category": "chaos",
     "kind": "glas",
-    "text": "Wer schon einmal eine Feier völlig falsch verstanden hat, darf einen kleinen Schluck aus dem Glas wählen. Zeitlimit: 20 Sekunden."
+    "text": "Wer schon einmal eine Feier völlig falsch verstanden hat, trinkt einen Schluck. Zeitlimit: 20 Sekunden."
   },
   {
     "id": 459,
     "category": "chaos",
-    "kind": "glas",
-    "text": "Wer schon einmal nach einer Feier eine absurde Geschichte erzählen musste, darf einen kleinen Schluck aus dem Glas wählen. Zeitlimit: 20 Sekunden."
+    "kind": "frage",
+    "text": "ALLE SPIELER: Macht gemeinsam einen dramatischen Countdown für absolut nichts."
   },
   {
     "id": 460,
@@ -2775,7 +2775,7 @@
     "id": 463,
     "category": "chaos",
     "kind": "frage",
-    "text": "ALLE SPIELER: Jeder macht nacheinander eine Tanzbewegung. Die nächste Person ergänzt eine."
+    "text": "ALLE SPIELER: Jeder spricht einen Satz wie ein Bösewicht aus einem Kinderfilm."
   },
   {
     "id": 464,
@@ -2793,7 +2793,7 @@
     "id": 466,
     "category": "chaos",
     "kind": "frage",
-    "text": "ALLE SPIELER: Spielt eine Band – ohne Instrumente, aber mit vollem Einsatz."
+    "text": "ALLE SPIELER: Spielt einen Chor, der nur „MAYONNAISE“ singen darf."
   },
   {
     "id": 467,
@@ -2811,7 +2811,7 @@
     "id": 469,
     "category": "chaos",
     "kind": "frage",
-    "text": "ALLE SPIELER: Macht eine gemeinsame La-Ola-Welle im Sitzen."
+    "text": "ALLE SPIELER: Erfindet gemeinsam den schlechtesten Mannschaftsjubel der Welt."
   },
   {
     "id": 470,
@@ -2829,7 +2829,7 @@
     "id": 472,
     "category": "chaos",
     "kind": "frage",
-    "text": "ALLE SPIELER: Wählt gleichzeitig per Fingerzeig den größten Drama-König der Runde."
+    "text": "ALLE SPIELER: Jeder demonstriert einen Tanzmove. Alle anderen machen ihn einmal nach."
   },
   {
     "id": 473,
@@ -2847,7 +2847,7 @@
     "id": 475,
     "category": "chaos",
     "kind": "frage",
-    "text": "ALLE SPIELER: Macht ein imaginäres Gruppen-Selfie mit der schlimmsten Pose überhaupt."
+    "text": "ALLE SPIELER: Gebt euch gegenseitig absurde Adelstitel und begrüßt euch königlich."
   },
   {
     "id": 476,
@@ -2919,7 +2919,7 @@
     "id": 487,
     "category": "paare",
     "kind": "schluck",
-    "text": "Wenn ihr euch schon einmal wegen einer Kleinigkeit gestritten habt, dürft ihr beide einen Schluck nehmen."
+    "text": "Wenn ihr euch schon einmal wegen einer Kleinigkeit gestritten habt, trinkt ihr beide einen Schluck."
   },
   {
     "id": 488,
@@ -2937,7 +2937,7 @@
     "id": 490,
     "category": "paare",
     "kind": "shot",
-    "text": "Wer von euch beiden hat beim ersten Date mehr geredet? Ihr könnt freiwillig einen Shot wählen."
+    "text": "Wer von euch beiden hat beim ersten Date mehr geredet? Ihr trinkt einen Shot."
   },
   {
     "id": 491,
@@ -2949,7 +2949,7 @@
     "id": 492,
     "category": "paare",
     "kind": "schluck",
-    "text": "Wenn ihr schon einmal heimlich ein Geschenk vorbereitet habt, dürft ihr beide einen Schluck nehmen."
+    "text": "Wenn ihr schon einmal heimlich ein Geschenk vorbereitet habt, trinkt ihr beide einen Schluck."
   },
   {
     "id": 493,
@@ -2967,7 +2967,7 @@
     "id": 495,
     "category": "paare",
     "kind": "glas",
-    "text": "Wenn ihr gemeinsam etwas Peinliches erlebt habt, dürft ihr einen kleinen Schluck aus dem Glas wählen."
+    "text": "Wenn ihr gemeinsam etwas Peinliches erlebt habt, trinkt ihr einen Schluck."
   },
   {
     "id": 496,
