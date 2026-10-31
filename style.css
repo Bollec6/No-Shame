@@ -30,3 +30,10 @@
 
 /* Beta 10: larger drink button at the far-right edge, clear of card and navigation. */
 .drink-button{left:auto;right:1.2%;top:43%;width:14%;height:12%;min-height:44px;padding:0 4px;border:2px solid #4cff7d;border-radius:16px;font-size:clamp(11px,1.7vw,24px);line-height:1.1;box-shadow:0 0 18px #20fa6caa,inset 0 0 10px #1ae65c33}
+
+/* Beta 15: approved Mystic Green drink icon; dynamic game artwork remains intact. */
+#game #nextCard{z-index:10;display:flex;align-items:center;justify-content:flex-end;padding-right:8%;color:#fff;text-shadow:0 0 8px #42ff80,0 0 4px #0b4;font-weight:1000;font-size:clamp(13px,2.4vw,32px);letter-spacing:.025em}
+#game #nextCard .next-label{pointer-events:none}
+#game .drink-button{left:auto;right:1.4%;top:37%;width:15%;height:auto;aspect-ratio:1;border:0;background:transparent;border-radius:50%;padding:0;box-shadow:none;min-height:0;display:grid;place-items:center;filter:drop-shadow(0 0 8px #0bff59aa)}
+#game .drink-button img{width:100%;height:100%;object-fit:contain;display:block}
+#game .drink-button:focus-visible{outline:3px solid #6aff99;outline-offset:3px}
